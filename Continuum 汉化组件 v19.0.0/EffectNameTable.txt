@@ -1,0 +1,442 @@
+Continuum effect names  Chinese -> English
+====================================================
+
+2DParticles              BCC 2D Particles
+3D挤出图像碎裂                 BCC 3D Extruded Image Shatter
+Cast阴影                   BCC Cast Shadow
+Charcoal素描               BCC Charcoal Sketch
+Checker擦除                BCC Checker Wipe
+Cloth旧版                  BCC Cloth OBSOLETE
+Clouds旧版                 BCC Clouds OBSOLETE
+Colorize                 BCC Colorize
+Colorize发光               BCC Colorize Glow
+Colorize发光溶解             BCC Colorize Glow Dissolve
+Colorize渐变               BCC+Colorize Gradient
+Comet旧版                  BCC Comet OBSOLETE
+CorrectSelected颜色        BCC Correct Selected Color
+Crash变焦溶解                BCC+Crash Zoom Dissolve
+Crash变焦溶解旧版              BCC Crash Zoom Dissolve OBSOLETE
+Criss-Cross擦除            BCC Criss-Cross Wipe
+CrossMelt                BCC Cross Melt
+CrossProcessing          BCC+Cross Processing
+Cross变焦旧版                BCC Cross Zoom OBSOLETE
+Cross变焦溶解                BCC+Cross Zoom Dissolve
+Cross故障旧版                BCC Cross Glitch OBSOLETE
+DVEBasic旧版               BCC DVE Basic OBSOLETE
+DVE旧版                    BCC DVE OBSOLETE
+DVFixer旧版                BCC DV Fixer OBSOLETE
+Day夜景                    BCC+Day for Night
+DeBand                   BCC+DeBand
+DeBlock                  BCC+DeBlock
+DeFog                    BCC+DeFog
+DeFringe                 BCC+DeFringe
+DeGrain旧版                BCC DeGrain OBS
+Develop                  BCC+Develop
+Diffusion                BCC+Diffusion
+Double雾                  BCC+Double Fog
+Dual渐变                   BCC+Dual Gradient
+Enhancing                BCC+Enhancing
+Eye光                     BCC+Eye Light
+F-Stop                   BCC+F-Stop
+FaceML                   BCC+Face ML
+Flashing                 BCC+Flashing
+Fluorescent              BCC+Fluorescent
+FlutterCut               BCC+Flutter Cut
+FlutterCut旧版             BCC Flutter Cut OBSOLETE
+Frost                    BCC+Frost
+Gaussian模糊旧版             BCC Gaussian Blur OBSOLETE
+Gels                     BCC+Gels
+Granite旧版                BCC Granite OBSOLETE
+Halo                     BCC+Halo
+Harris快门                 BCC+Harris Shutter
+Haze                     BCC+Haze
+Holdout合成                BCC+Holdout Composite
+IceHalos                 BCC+Ice Halos
+Kaleida溶解                BCC Kaleida Dissolve
+Kelvin                   BCC+Kelvin
+LED旧版                    BCC LED OBSOLETE
+LaserBeam                BCC Laser Beam
+License板ML               BCC+License Plate ML
+Linear亮度键控               BCC+Linear Luma Key
+Linear亮度键控旧版             BCC Linear Luma Key OBSOLETE
+Linear擦除                 BCC+Linear Wipe
+Linear擦除旧版               BCC Linear Wipe OBSOLETE
+Linear颜色键控               BCC+Linear Color Key
+Linear颜色键控旧版             BCC Linear Color Key OBSOLETE
+Looper                   BCC Looper
+MagicSharp               BCC+Magic Sharp
+MagicSharp旧版             BCC Magic Sharp OBSOLETE
+Math合成                   BCC+Math Composite
+Mixed颜色                  BCC Mixed Colors
+Multi-Star               BCC+Multi-Star
+Multi-Star溶解             BCC+Multi-Star Dissolve
+Multi拉伸擦除                BCC Multi Stretch Wipe
+Multi条纹擦除                BCC Multi Stripe Wipe
+Multi阴影                  BCC Multi Shadow
+ND渐变                     BCC+ND Gradient
+Net                      BCC+Net
+Non-Additive混合           BCC+Non-Additive Mix
+Overexpose               BCC+Overexpose
+PageTurn                 BCC Page Turn
+Pencil素描                 BCC Pencil Sketch
+Photographic             BCC+Photographic
+Polarizer                BCC+Polarizer
+Polar扭曲                  BCC+Polar Warp
+Polar置换                  BCC Polar Displacement
+Premult                  BCC Premult
+Primatte工作室              BCC+Primatte Studio
+Primatte工作室旧版            BCC Primatte Studio OBSOLETE
+Pyramid模糊旧版              BCC Pyramid Blur OBSOLETE
+RGB像素噪点                  BCC RGB Pixel Noise
+RGB模糊溶解旧版                BCC RGB Blur Dissolve OBSOLETE
+RGB混合                    BCC RGB Blend
+RGB置换溶解                  BCC RGB Displacement Dissolve
+RGB边缘                    BCC RGB Edges
+Rack焦点                   BCC+Rack Focus
+Rack焦点溶解                 BCC+Rack Focus Dissolve
+Rectangular擦除            BCC+Rectangular Wipe
+Rectangular擦除旧版          BCC Rectangular Wipe OBSOLETE
+Reflector                BCC+Reflector
+Reframer                 BCC Reframer
+Reptilian旧版              BCC Reptilian OBSOLETE
+RetimerML                BCC+Retimer ML
+Rough发光旧版                BCC Rough Glow OBS
+ST贴图                     BCC+ST Map
+Scatterize               BCC Scatterize
+Selective饱和度             BCC+Selective Saturation
+Sepia                    BCC+Sepia
+Shadows/Highlights       BCC+Shadows/Highlights
+Silk                     BCC+Silk
+Skin色调                   BCC+Skin Tone
+Sparks旧版                 BCC Sparks OBSOLETE
+Spray绘制噪点                BCC Spray Paint Noise
+Stage光                   BCC Stage Light
+Steel板旧版                 BCC Steel Plate OBSOLETE
+Sunset                   BCC+Sunset
+Textured擦除旧版             BCC Textured Wipe OBSOLETE
+Tritone                  BCC Tritone
+Tritone溶解                BCC Tritone Dissolve
+UpResML                  BCC+UpRes ML
+VRReorient               BCC VR Reorient
+VR插入                     BCC VR Insert
+VR模糊                     BCC VR Blur
+VR锐化                     BCC VR Sharpen
+VR闪烁Fixer                BCC VR Flicker Fixer
+VeinedMarble旧版           BCC Veined Marble OBSOLETE
+Videoscope               BCC Videoscope
+Video变形                  BCC Video Morph
+Video故障                  BCC+Video Glitch
+Video故障旧版                BCC Video Glitch OBSOLETE
+Video故障溶解                BCC+Video Glitch Dissolve
+WildCards                BCC Wild Cards
+Wire移除                   BCC Wire Remover
+WoodenPlanks旧版           BCC Wooden Planks OBSOLETE
+X光线                      BCC+X-Ray
+ZSpaceIII旧版              BCC Z Space III OBS
+ZSpaceII旧版               BCC Z Space II OBS
+ZSpaceI旧版                BCC Z Space I OBS
+Z模糊                      BCC Z-Blur
+三Strip                   BCC+Three Strip
+三级调色                     BCC 3 Way Color Grade
+三维图像碎裂                   BCC 3D Image Shatter
+丢失Fixer                  BCC Dropout Fixer
+中值                       BCC Median
+中心光斑                     BCC+Center Spot
+亮度对比度                    BCC Brightness-Contrast
+低对比度                     BCC+Low Contrast
+做旧                       BCC Grunge
+像素Chooser                BCC+Pixel Chooser
+像素Chooser旧版              BCC Pixel Chooser OBSOLETE
+像素Fixer                  BCC Pixel Fixer
+光                        BCC+Light
+光变焦旧版                    BCC Light Zoom OBS
+光学流动旧版                   BCC Optical Flow OBSOLETE
+光学溶解                     BCC+Optical Dissolve
+光学防抖                     BCC Optical Stabilizer
+光扫掠                      BCC Light Sweep
+光擦除                      BCC Light Wipe
+光漏光                      BCC+Light Leaks
+光漏光旧版                    BCC Light Leaks OBSOLETE
+光漏光溶解                    BCC+Light Leaks Dissolve
+光漏光溶解旧版                  BCC Light Leaks Dissolve OBSOLETE
+光球                       BCC+Orbs
+光球溶解                     BCC+Orbs Dissolve
+光线                       BCC+Rays
+光线Radiant聚光灯旧版           BCC Rays Radiant Spotlight OBSOLETE
+光线Radiant边缘              BCC Rays Radiant Edges
+光线Ripply旧版               BCC Rays Ripply OBSOLETE
+光线Streaky旧版              BCC Rays Streaky OBSOLETE
+光线Textured旧版             BCC Rays Textured OBSOLETE
+光线卡通旧版                   BCC Rays Cartoon OBSOLETE
+光线旧版                     BCC Rays OBSOLETE
+光线楔形旧版                   BCC Rays Wedge OBSOLETE
+光线溶解                     BCC+Rays Dissolve
+光线溶解旧版                   BCC Rays Dissolve OBSOLETE
+光线环旧版                    BCC Rays Ring OBSOLETE
+光线膨胀                     BCC Rays Puffy
+光缠绕                      BCC+Light Wrap
+光缠绕旧版                    BCC Light Wrap OBSOLETE
+光遮罩旧版                    BCC Light Matte OBS
+光闪烁                      BCC+Light Flicker
+凸出                       BCC Bulge
+凹凸贴图                     BCC Bump Map
+分割场                      BCC+Split Field
+分割色调                     BCC+Split Tone
+分形噪点旧版                   BCC Fractal Noise OBSOLETE
+匹配移动                     BCC Match Move
+匹配颗粒                     BCC Match Grain
+升采样旧版                    BCC UpRez OBSOLETE
+半调                       BCC Halftone
+卡通                       BCC Cartooner
+卡通外观                     BCC Cartoon Look
+卷曲                       BCC Curl
+卷曲溶解                     BCC Curl Dissolve
+去隔行                      BCC Deinterlace
+双Strip                   BCC+Two Strip
+双Strip颜色旧版               BCC Two Strip Color OBSOLETE
+双路键控                     BCC+Two Way Key
+双路键控旧版                   BCC Two Way Key OBSOLETE
+反向聚光灯                    BCC Reverse Spotlight
+反射                       BCC Reflection
+反相Solarize               BCC Invert Solarize
+发光                       BCC+Glow
+发光Darks                  BCC+Glow Darks
+发光旧版                     BCC Glow OBS
+发光边缘                     BCC+Glow Edges
+发光遮罩旧版                   BCC Glow Matte OBS
+发光阿尔法边缘                  BCC Glow Alpha Edges
+变形                       BCC Morph
+变换                       BCC+Transform
+合成                       BCC Composite
+合成                       BCC+Composite
+合成收缩                     BCC Composite Choker
+合成溶解                     BCC Composite Dissolve
+噪点减少旧版                   BCC Noise Reduction OBSOLETE
+噪点贴图2                    BCC Noise Map 2
+噪点贴图旧版                   BCC Noise Map OBS
+图层Deformer               BCC Layer Deformer
+图钉Art3D                  BCC Pin Art 3D
+圆柱                       BCC Cylinder
+多色调混合                    BCC MultiTone Mix
+夜景Vision                 BCC+Night Vision
+大气发光                     BCC+Atmospheric Glow
+大气发光溶解                   BCC+Atmospheric Glow Dissolve
+安全颜色旧版                   BCC Safe Colors OBS
+宽角度镜头                    BCC+Wide Angle Lens
+岩石旧版                     BCC Rock OBSOLETE
+带状擦除                     BCC Ribbon Wipe
+帧FixerML                 BCC+Frame Fixer ML
+平滑色调旧版                   BCC Smooth Tone OBS
+平移变焦                     BCC Pan and Zoom
+平铺擦除                     BCC Tile Wipe
+平铺马赛克                    BCC Tile Mosaic
+广播安全                     BCC Broadcast Safe
+序列器旧版                    BCC Sequencer OBS
+影调                       BCC+Looks
+径向擦除                     BCC+Radial Wipe
+径向擦除旧版                   BCC Radial Wipe OBSOLETE
+径向曝光                     BCC+Radial Exposure
+径向模糊                     BCC+Radial Blur
+径向模糊旧版                   BCC Radial Blur OBSOLETE
+径向色调                     BCC+Radial Tint
+快速翻转                     BCC Fast Flipper
+快速胶片发光旧版                 BCC Fast Film Glow OBSOLETE
+快速胶片发光溶解旧版               BCC Fast Film Glow Dissolve OBSOLETE
+快速胶片处理旧版                 BCC Fast Film Process OBSOLETE
+快速镜头模糊旧版                 BCC Fast Lens Blur OBSOLETE
+扫描线                      BCC+Scanline
+扫描线旧版                    BCC Scanline OBSOLETE
+扭曲                       BCC Warp
+扭转                       BCC Twirl
+扭转                       BCC Twister
+投影                       BCC Drop Shadow
+抖动                       BCC Jitter
+抖动Basic                  BCC Jitter Basic
+拖尾                       BCC Trails
+拖尾Basic                  BCC Trails Basic
+挤出EPS                    BCC Extruded EPS
+挤出文字                     BCC Extruded Text
+挤出样条                     BCC Extruded Spline
+提升混合旧版                   BCC Boost Blend OBS
+摄像机抖动                    BCC+Camera Shake
+摄像机抖动溶解                  BCC+Camera Shake Dissolve
+斑块擦除                     BCC Blobs Wipe
+方向性模糊                    BCC+Directional Blur
+方向性模糊旧版                  BCC Directional Blur OBSOLETE
+方向性模糊溶解                  BCC+Directional Blur Dissolve
+时域模糊                     BCC Temporal Blur
+时间置换                     BCC Time Displacement
+星旧版                      BCC Stars OBSOLETE
+星遮罩旧版                    BCC Star Matte OBS
+暗角                       BCC+Vignette
+暗角擦除                     BCC+Vignette Wipe
+暗角擦除旧版                   BCC Vignette Wipe OBSOLETE
+暗角旧版                     BCC Vignette OBSOLETE
+有机Strands                BCC Organic Strands
+木纹颗粒旧版                   BCC Wood Grain OBSOLETE
+条纹                       BCC+Streaks
+标题工作室                    BCC Title Studio
+棱镜                       BCC+Prism
+棱镜旧版                     BCC Prism OBSOLETE
+棱镜溶解                     BCC+Prism Dissolve
+棱镜溶解旧版                   BCC Prism Dissolve OBSOLETE
+模糊                       BCC Blur
+模糊                       BCC+Blur
+模糊溶解                     BCC+Blur Dissolve
+模糊溶解旧版                   BCC Blur Dissolve OBSOLETE
+水波浪溶解                    BCC Water Waves Dissolve
+水颜色                      BCC Water Color
+波浪                       BCC Wave
+浮雕                       BCC Emboss
+涂抹模糊                     BCC+Smear Blur
+涟漪                       BCC Ripple
+涟漪溶解                     BCC Ripple Dissolve
+深度场                      BCC+Depth of Field
+深度擦除ML                   BCC+Depth Wipe ML
+深度贴图ML                   BCC+Depth Map ML
+湍流                       BCC Turbulence
+溢色移除                     BCC+Spill Remover
+溢色移除旧版                   BCC Spill Remover OBSOLETE
+溶解                       BCC+Dissolve
+漂白绕过                     BCC+Bleach Bypass
+火焰旧版                     BCC Fire OBS
+灰尘划痕                     BCC Dust and Scratches
+烟擦除                      BCC+Smoke Wipe
+烟雾                       BCC+Smoke and Fog
+烟雾溶解                     BCC+Smoke and Fog Dissolve
+烧焦胶片                     BCC Burnt Film
+焦散                       BCC Caustics
+特效Browser                BCC FX Browser
+环境光                      BCC+Ambient Light
+环擦除                      BCC Rings Wipe
+球体                       BCC Sphere
+球体转场                     BCC Sphere Transition
+生成阿尔法键控                  BCC Make Alpha Key
+甩尾发光                     BCC+Swish Glow
+甩尾平移                     BCC+Swish Pan
+甩尾平移旧版                   BCC Swish Pan OBSOLETE
+甩尾扭曲                     BCC+Swish Warp
+甩尾棱镜                     BCC+Swish Prism
+眩光旧版                     BCC Glare OBSOLETE
+矢量模糊溶解                   BCC Vector Blur Dissolve
+矢量置换                     BCC Vector Displacement
+砖旧版                      BCC Brick OBSOLETE
+破损TV                     BCC Damaged TV
+破损TV溶解                   BCC Damaged TV Dissolve
+移除                       BCC Remover
+立方                       BCC Cube
+类型开文字                    BCC Type On Text
+粒子Illusion               BCC Particle Illusion
+粒子Illusion溶解             BCC Particle Illusion Dissolve
+粒子发射器3D                  BCC Particle Emitter 3D
+粒子系统旧版                   BCC Particle System OBSOLETE
+粒子阵列3D                   BCC Particle Array 3D
+红外                       BCC+Infrared
+纹理                       BCC+Textures
+纹理擦除                     BCC+Texture Wipe
+细节                       BCC+Detail
+编织旧版                     BCC Weave OBSOLETE
+网格擦除                     BCC Grid Wipe
+置换贴图                     BCC Displacement Map
+美颜工作室                    BCC+Beauty Studio
+美颜工作室旧版                  BCC Beauty Studio OBSOLETE
+聚光灯                      BCC Spotlight
+胶片Stocks                 BCC+Film Stocks
+胶片做旧                     BCC+Film Grunge
+胶片发光                     BCC+Film Glow
+胶片发光旧版                   BCC Film Glow OBS
+胶片发光溶解                   BCC+Film Glow Dissolve
+胶片发光溶解旧版                 BCC Film Glow Dissolve OBS
+胶片处理旧版                   BCC Film Process OBS
+胶片损伤旧版                   BCC Film Damage OBSOLETE
+胶片滚动                     BCC+Film Roll
+胶片颗粒旧版                   BCC Film Grain OBSOLETE
+自转模糊溶解                   BCC+Spin Blur Dissolve
+自转模糊溶解旧版                 BCC Spin Blur Dissolve OBSOLETE
+色差色差                     BCC+Chromatic Aberration
+色度Bands                  BCC+Chroma Bands
+色度键控                     BCC Chroma Key
+色度键控工作室                  BCC Chroma Key Studio
+色相饱和度明度                  BCC Hue-Sat-Lightness
+色调                       BCC+Tint
+色调分离                     BCC Posterize
+色调分离时间                   BCC Posterize Time
+色阶伽马                     BCC Levels Gamma
+艺术家海报                    BCC Artist's Poster
+节拍反应器                    BCC Beat Reactor
+薄雾                       BCC+Mist
+螺旋模糊旧版                   BCC Spiral Blur OBSOLETE
+角图钉工作室                   BCC Corner Pin Studio
+角图钉旧版                    BCC Corner Pin OBS
+证人保护ML                   BCC+Witness Protection ML
+证人保护旧版                   BCC WitnessProtection OBSOLETE
+调色                       BCC+Grade
+超级LED                    BCC+Super LED
+超级混合旧版                   BCC Super Blend OBS
+跳跃CutFixerML             BCC+Jump Cut Fixer ML
+边框                       BCC+Borders
+边缘Cleaner                BCC+Edge Cleaner
+边缘Cleaner旧版              BCC Edge Cleaner OBSOLETE
+边缘做旧                     BCC Edge Grunge
+边缘合成                     BCC+Edge Composite
+边缘灯光                     BCC Edge Lighting
+运动模糊ML                   BCC+Motion Blur ML
+运动模糊旧版                   BCC Motion Blur OBSOLETE
+运动键控旧版                   BCC Motion Key OBSOLETE
+通道模糊                     BCC+Channel Blur
+通道模糊YUV                  BCC+Channel Blur YUV
+通道模糊溶解                   BCC+Channel Blur Dissolve
+速度重映射旧版                  BCC Velocity Remap OBSOLETE
+遮罩RefineML               BCC+Matte Refine ML
+遮罩收缩                     BCC Matte Choker
+遮罩清理                     BCC Matte Cleanup
+重打光                      BCC+ReLight
+错位                       BCC Misalignment
+键控光                      BCC+Key Light
+镜头光晕                     BCC+Lens Flare
+镜头光晕3D                   BCC Lens Flare 3D
+镜头光晕Adv旧版                BCC Lens Flare Adv OBS
+镜头光晕Round                BCC Lens Flare Round
+镜头光晕Spiked               BCC Lens Flare Spiked
+镜头光晕旧版                   BCC Lens Flare OBS
+镜头光晕溶解                   BCC Lens Flare Dissolve
+镜头形状                     BCC Lens Shape
+镜头校正                     BCC Lens Correction
+镜头模糊                     BCC+Lens Blur
+镜头模糊旧版                   BCC Lens Blur OBS
+镜头模糊溶解                   BCC Lens Blur Dissolve
+镜头畸变                     BCC+Lens Distortion
+镜头畸变擦除                   BCC Lens Distortion Wipe
+镜头转场旧版                   BCC Lens Transition OBS
+镜头闪光                     BCC Lens Flash
+闪光旧版                     BCC Glitter OBSOLETE
+闪烁Fixer                  BCC Flicker Fixer
+闪烁旧版                     BCC Glint OBSOLETE
+闪电                       BCC Lightning
+阿尔法像素噪点旧版                BCC Alpha Pixel Noise OBS
+阿尔法处理                    BCC Alpha Process
+阿尔法聚光灯旧版                 BCC Alpha Spotlight OBS
+降噪ML                     BCC+DeNoise ML
+降噪旧版                     BCC DeNoise OBS
+雨                        BCC Rain
+雪                        BCC Snow
+雾                        BCC+Fog
+非锐化遮罩                    BCC Unsharp Mask
+音频可视化                    BCC+Audio Visualizer
+颗粒                       BCC+Grain
+颜色Palette旧版              BCC Color Palette OBS
+颜色Paste                  BCC+Color Paste
+颜色光斑                     BCC+Color Spot
+颜色匹配                     BCC Color Match
+颜色平衡                     BCC Color Balance
+颜色收缩                     BCC Color Choker
+颜色校正                     BCC Color Correction
+颜色渐变                     BCC+Color Gradient
+颜色红外                     BCC+Color Infrared
+颜色链接                     BCC+Color Link
+颜色阴影                     BCC+Color Shadow
+马赛克                      BCC+Mosaic
+马赛克旧版                    BCC Mosaic OBSOLETE
+马赛克溶解                    BCC+Mosaic Dissolve
+高对比度                     BCC+High Contrast
+黑白                       BCC+Black and White

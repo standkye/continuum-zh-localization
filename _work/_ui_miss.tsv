@@ -1,0 +1,1470 @@
+English	Cap	Count	File
+16 x 9	8	12	Continuum_AE_16Bit.dll
+Matte	8	5	BCCPlus.dll
+Screen	8	4	BCCPlus.dll
+Under	12	4	BCCPlus.dll
+Smoke	8	4	BCCPlus.dll
+Generator	16	4	BCCPlus.dll
+Line Opacity	16	4	BCCPlus.dll
+Inside	8	4	BCCPlus.dll
+Border 1	16	4	BCCPlus.dll
+Pivot	8	4	BCCPlus.dll
+Medium Sharpen	16	4	BCCPlus.dll
+Coarse Pass	16	4	BCCPlus.dll
+Soft Light	12	4	BCCPlus.dll
+Target Layer	16	4	BCCPlus.dll
+Block Damage	16	4	BCCPlus.dll
+Bad argument	16	4	BCCPlus.dll
+Iterations do not converge	32	4	BCCPlus.dll
+Null pointer	16	4	BCCPlus.dll
+Display Resolution	24	4	Continuum_3DObjects_AE.dll
+SplitScreen Mode	24	4	Continuum_3DObjects_AE.dll
+SplitScreen Wipe Percent	32	4	Continuum_3DObjects_AE.dll
+Panel Color	16	4	Continuum_3DObjects_AE.dll
+Is Playing	16	4	Continuum_3DObjects_AE.dll
+Current Part	16	4	Continuum_3DObjects_AE.dll
+Auto Launch Title Studio FX Browser	40	4	Continuum_3DObjects_AE.dll
+Registration Status	24	4	Continuum_3DObjects_AE.dll
+Registration Reminder Count	32	4	Continuum_3DObjects_AE.dll
+Registration Reminder Previous	32	4	Continuum_3DObjects_AE.dll
+ML Warning Init Denoise Posted	32	4	Continuum_3DObjects_AE.dll
+ML Warning Init Retimer Posted	32	4	Continuum_3DObjects_AE.dll
+Extrusion Style	16	4	Continuum_3DObjects_AE.dll
+Load Preset used	24	4	Continuum_3DObjects_AE.dll
+Error reading Motion filter	32	4	Continuum_3DObjects_AE.dll
+BCC Not Used Ignore	24	4	Continuum_3DObjects_AE.dll
+Cylinder	12	4	Continuum_3DObjects_AE.dll
+Options	8	4	Continuum_3DObjects_AE.dll
+Move	8	4	Continuum_3DObjects_AE.dll
+Custom Spline	16	4	Continuum_3DObjects_AE.dll
+Wrong mode passed to DrawRect	32	4	Continuum_3DObjects_AE.dll
+Front	8	4	Continuum_3DObjects_AE.dll
+Cloud Object	16	4	Continuum_3DObjects_AE.dll
+Null Object	16	4	Continuum_3DObjects_AE.dll
+Plugin Object	16	4	Continuum_3DObjects_AE.dll
+PluginPolygon Object	24	4	Continuum_3DObjects_AE.dll
+Plugin Tag	16	4	Continuum_3DObjects_AE.dll
+Align To Spline Tag	24	4	Continuum_3DObjects_AE.dll
+Target Expression	24	4	Continuum_3DObjects_AE.dll
+Anchor Tag	16	4	Continuum_3DObjects_AE.dll
+Vertex Color Tag	24	4	Continuum_3DObjects_AE.dll
+Unknown Blend Layer	24	4	Continuum_3DObjects_AE.dll
+Posterize Blend Layer	24	4	Continuum_3DObjects_AE.dll
+Colorize Blend Layer	24	4	Continuum_3DObjects_AE.dll
+Clip Blend Layer	24	4	Continuum_3DObjects_AE.dll
+Transform Blend Layer	24	4	Continuum_3DObjects_AE.dll
+Cheen	8	4	Continuum_3DObjects_AE.dll
+Mabel	8	4	Continuum_3DObjects_AE.dll
+Nukei	8	4	Continuum_3DObjects_AE.dll
+Terrain	8	4	Continuum_3DObjects_AE.dll
+Grass	8	4	Continuum_3DObjects_AE.dll
+Mat	12	4	Continuum_3DObjects_AE.dll
+Other	8	4	Continuum_3DObjects_AE.dll
+New Group	16	4	Continuum_3DObjects_AE.dll
+Motion Vectors	16	3	BCCPlus.dll
+Missing -	16	3	Continuum_3DObjects_AE.dll
+Grid	11	3	Continuum_3DObjects_AE.dll
+Spline Object	16	3	Continuum_3DObjects_AE.dll
+Light Object	16	3	Continuum_3DObjects_AE.dll
+Danel	8	3	Continuum_3DObjects_AE.dll
+Banji	8	3	Continuum_3DObjects_AE.dll
+Banzi	8	3	Continuum_3DObjects_AE.dll
+Input Layer	16	3	Continuum_AE_16Bit.dll
+Compare Mode	16	3	Continuum_AE_16Bit.dll
+BorisFX Error	16	3	Continuum_AE_16Bit.dll
+Preview Composite Type	24	3	Continuum_AE_16Bit.dll
+Load Animated Preset - Stretch	32	3	Continuum_AE_16Bit.dll
+Use Timeline Text	24	3	Continuum_AE_16Bit.dll
+0u0u0u	8	3	Continuum_AE_16Bit.dll
+Restrict License Type	24	3	Continuum_AE_16Bit.dll
+Unexpected track from start message	40	3	Continuum_AE_16Bit.dll
+Start Tracking Frame	24	3	Continuum_AE_16Bit.dll
+End Tracking Frame	20	3	Continuum_AE_16Bit.dll
+Exception caught in NewDoPresetBrowser	40	3	Continuum_AE_16Bit.dll
+Mask Points	16	3	Continuum_AE_16Bit.dll
+Mask Pt 1	16	3	Continuum_AE_16Bit.dll
+Host Offset	16	3	Continuum_AE_16Bit.dll
+Mask Pt 2	12	3	Continuum_AE_16Bit.dll
+Nucoda	12	3	Continuum_AE_16Bit.dll
+License window opened	24	3	Continuum_AE_16Bit.dll
+Purchase window auto-launched	32	3	Continuum_AE_16Bit.dll
+Motion Tracker	16	3	Continuum_AE_16Bit.dll
+Mocha Init - Get Tracking Data	32	3	Continuum_AE_16Bit.dll
+Mocha Init failed to load mocha library	40	3	Continuum_AE_16Bit.dll
+File Path	16	3	Continuum_AE_16Bit.dll
+Preset Type	16	3	Continuum_AE_16Bit.dll
+Untitled Project 1	44	3	Continuum_AE_16Bit.dll
+Ray Splits	12	3	Continuum_AE_16Bit.dll
+Glow	8	3	Continuum_AE_16Bit.dll
+Focus Matte	16	3	Continuum_AE_16Bit.dll
+Variance 1	16	3	Continuum_AE_16Bit.dll
+Variance 2	16	3	Continuum_AE_16Bit.dll
+Interaction	16	3	Continuum_AE_16Bit.dll
+Location Layer	16	3	Continuum_AE_16Bit.dll
+Alternate FG Layer	24	3	Continuum_AE_16Bit.dll
+Foreground Transforms	24	3	Continuum_AE_16Bit.dll
+Foreground Effects	24	3	Continuum_AE_16Bit.dll
+Background Setup	24	3	Continuum_AE_16Bit.dll
+Alternate BG Layer	24	3	Continuum_AE_16Bit.dll
+Background Effects	24	3	Continuum_AE_16Bit.dll
+Emitter Layer	16	3	Continuum_AE_16Bit.dll
+Gradient Preset	16	3	Continuum_AE_16Bit.dll
+Surface Image	16	3	Continuum_AE_16Bit.dll
+Image Layer	16	3	Continuum_AE_16Bit.dll
+Image Layer 5	16	3	Continuum_AE_16Bit.dll
+Image Layer 6	16	3	Continuum_AE_16Bit.dll
+Image Layer 7	16	3	Continuum_AE_16Bit.dll
+Choose Layer A	16	3	Continuum_AE_16Bit.dll
+Choose Layer B	16	3	Continuum_AE_16Bit.dll
+Render Legacy PixelChooser	32	3	Continuum_AE_16Bit.dll
+Shape PixelChooser Legacy	32	3	Continuum_AE_16Bit.dll
+From PixelChooser Legacy	28	3	Continuum_AE_16Bit.dll
+Reverse Range PixelChooser Legacy	40	3	Continuum_AE_16Bit.dll
+Color PixelChooser Legacy	32	3	Continuum_AE_16Bit.dll
+Invert Matte PixelChooser Legacy	40	3	Continuum_AE_16Bit.dll
+Pinning	8	3	Continuum_AE_16Bit.dll
+Stain	12	3	Continuum_AE_16Bit.dll
+Color Preset	16	3	Continuum_AE_16Bit.dll
+Advanced Gradient Controls	32	3	Continuum_AE_16Bit.dll
+Radial Matte	16	3	Continuum_AE_16Bit.dll
+Organic Noise	16	3	Continuum_AE_16Bit.dll
+Movement	16	3	Continuum_AE_16Bit.dll
+Effects	8	3	Continuum_AE_16Bit.dll
+Red From	16	3	Continuum_AE_16Bit.dll
+Apply PixelChooser Legacy	32	3	Continuum_AE_16Bit.dll
+Pin FX	12	3	Continuum_AE_16Bit.dll
+Pin FX Layer	16	3	Continuum_AE_16Bit.dll
+Shift FX Layer	16	3	Continuum_AE_16Bit.dll
+Size FX Layer	16	3	Continuum_AE_16Bit.dll
+Wipe FX Controls	24	3	Continuum_AE_16Bit.dll
+Pins	8	3	Continuum_AE_16Bit.dll
+Pin Screen	16	3	Continuum_AE_16Bit.dll
+Transform - Screen	24	3	Continuum_AE_16Bit.dll
+Transform - Pins	24	3	Continuum_AE_16Bit.dll
+Noise Waves	16	3	Continuum_AE_16Bit.dll
+Post Mix Ease Out	24	3	Continuum_AE_16Bit.dll
+Noise Interpolation	24	3	Continuum_AE_16Bit.dll
+White Noise	12	3	Continuum_AE_16Bit.dll
+Balance 1	16	3	Continuum_AE_16Bit.dll
+Balance 2	12	3	Continuum_AE_16Bit.dll
+Cards	12	3	Continuum_AE_16Bit.dll
+Front Face	16	3	Continuum_AE_16Bit.dll
+Back Face	16	3	Continuum_AE_16Bit.dll
+Alternate Face 4	24	3	Continuum_AE_16Bit.dll
+Alternate Face 5	24	3	Continuum_AE_16Bit.dll
+Fractal Movement	24	3	Continuum_AE_16Bit.dll
+Array	8	3	Continuum_AE_16Bit.dll
+Transform - System	24	3	Continuum_AE_16Bit.dll
+Transform - Particle	24	3	Continuum_AE_16Bit.dll
+Dispersion	16	3	Continuum_AE_16Bit.dll
+Ripple Controls	16	3	Continuum_AE_16Bit.dll
+Fractal Noise	24	3	Continuum_AE_16Bit.dll
+Control Maps	16	3	Continuum_AE_16Bit.dll
+Control Map 1	24	3	Continuum_AE_16Bit.dll
+Layer CONTROL1	24	3	Continuum_AE_16Bit.dll
+Control Map 3	16	3	Continuum_AE_16Bit.dll
+Layer CONTROL3	16	3	Continuum_AE_16Bit.dll
+Control Map 4	16	3	Continuum_AE_16Bit.dll
+Layer CONTROL4	16	3	Continuum_AE_16Bit.dll
+Control Map 5	16	3	Continuum_AE_16Bit.dll
+Layer CONTROL5	16	3	Continuum_AE_16Bit.dll
+System	12	3	Continuum_AE_16Bit.dll
+Wipe Effect	16	3	Continuum_AE_16Bit.dll
+Texture Flow Direction	24	3	Continuum_AE_16Bit.dll
+Borders	8	3	Continuum_AE_16Bit.dll
+Border 1 Layer	16	3	Continuum_AE_16Bit.dll
+Border 2	16	3	Continuum_AE_16Bit.dll
+Generate Output A	24	3	Continuum_AE_16Bit.dll
+Border 2 Layer	16	3	Continuum_AE_16Bit.dll
+FX Output B	16	3	Continuum_AE_16Bit.dll
+Generate Output B	24	3	Continuum_AE_16Bit.dll
+Border 3	16	3	Continuum_AE_16Bit.dll
+FX Output C	16	3	Continuum_AE_16Bit.dll
+Border 3 Layer	16	3	Continuum_AE_16Bit.dll
+Generate Output C	24	3	Continuum_AE_16Bit.dll
+Influence Controls	24	3	Continuum_AE_16Bit.dll
+Influence Layer	16	3	Continuum_AE_16Bit.dll
+Fractal Flow Direction	24	3	Continuum_AE_16Bit.dll
+Post Process	16	3	Continuum_AE_16Bit.dll
+Apply Parameter	24	3	Continuum_AE_16Bit.dll
+Audio Apply Options	24	3	Continuum_AE_16Bit.dll
+Taffy Stretch	16	3	Continuum_AE_16Bit.dll
+Randomize Stripes	24	3	Continuum_AE_16Bit.dll
+Spotlight Controls	24	3	Continuum_AE_16Bit.dll
+Planks	12	3	Continuum_AE_16Bit.dll
+Turbulence Settings	24	3	Continuum_AE_16Bit.dll
+Modulation	16	3	Continuum_AE_16Bit.dll
+Modulation 1 Source	24	3	Continuum_AE_16Bit.dll
+Modulation 2 Source	24	3	Continuum_AE_16Bit.dll
+Motion Estimation	24	3	Continuum_AE_16Bit.dll
+Source Edges	16	3	Continuum_AE_16Bit.dll
+Shadow 2	16	3	Continuum_AE_16Bit.dll
+Shadow 3	16	3	Continuum_AE_16Bit.dll
+Jitter Source	16	3	Continuum_AE_16Bit.dll
+Camera & Lights	16	3	Continuum_AE_16Bit.dll
+Alternate Back	16	3	Continuum_AE_16Bit.dll
+Only Use Top Left	24	3	Continuum_AE_16Bit.dll
+Drop Shadow	16	3	Continuum_AE_16Bit.dll
+Lock to Center	16	3	Continuum_AE_16Bit.dll
+Light 1	8	3	Continuum_AE_16Bit.dll
+Light 2	8	3	Continuum_AE_16Bit.dll
+Light 3	8	3	Continuum_AE_16Bit.dll
+Blend All	16	3	Continuum_AE_16Bit.dll
+Border & Shadow	16	3	Continuum_AE_16Bit.dll
+BCC3Z Space I	16	3	Continuum_AE_16Bit.dll
+Plane 1	8	3	Continuum_AE_16Bit.dll
+Plane 3	8	3	Continuum_AE_16Bit.dll
+BCC3Sphere Transition	24	3	Continuum_AE_16Bit.dll
+BCC3Z Space II	16	3	Continuum_AE_16Bit.dll
+Plane 5	8	3	Continuum_AE_16Bit.dll
+BCC3Z Space III	16	3	Continuum_AE_16Bit.dll
+Sphere 1	16	3	Continuum_AE_16Bit.dll
+Specular Falloff	20	3	Continuum_AE_16Bit.dll
+Sweep Width	16	3	Continuum_AE_16Bit.dll
+Light Distance Z	24	3	Continuum_AE_16Bit.dll
+BCC33D Image Shatter	24	3	Continuum_AE_16Bit.dll
+Custom Shape	16	3	Continuum_AE_16Bit.dll
+Shape Image	16	3	Continuum_AE_16Bit.dll
+Custom Gradient	16	3	Continuum_AE_16Bit.dll
+Gravity Type	16	3	Continuum_AE_16Bit.dll
+Source Layer	16	3	Continuum_AE_16Bit.dll
+Frame Scale X	16	3	Continuum_AE_16Bit.dll
+Frame Scale Y	16	3	Continuum_AE_16Bit.dll
+Source Size	16	3	Continuum_AE_16Bit.dll
+Source Width	16	3	Continuum_AE_16Bit.dll
+Source Height	16	3	Continuum_AE_16Bit.dll
+Scale and Offset	24	3	Continuum_AE_16Bit.dll
+Background Layer	24	3	Continuum_AE_16Bit.dll
+Color Correction	24	3	Continuum_AE_16Bit.dll
+Composite Behind	24	3	Continuum_AE_16Bit.dll
+Preview Settings	24	3	Continuum_AE_16Bit.dll
+Source Format	16	3	Continuum_AE_16Bit.dll
+Insert Order	16	3	Continuum_AE_16Bit.dll
+Insert Feather Radius	24	3	Continuum_AE_16Bit.dll
+Temporal	16	3	Continuum_AE_16Bit.dll
+Spatial	8	3	Continuum_AE_16Bit.dll
+Mix	8	3	Continuum_AE_16Bit.dll
+Mix Noise	16	3	Continuum_AE_16Bit.dll
+Master Cr Range	16	3	Continuum_AE_16Bit.dll
+Dark Bias On	16	3	Continuum_AE_16Bit.dll
+Spatial Master	16	3	Continuum_AE_16Bit.dll
+Spatial Stage 1	16	3	Continuum_AE_16Bit.dll
+Spatial Stage 2	16	3	Continuum_AE_16Bit.dll
+Blurs	8	3	Continuum_AE_16Bit.dll
+Exponent Offset	16	3	Continuum_AE_16Bit.dll
+Bias Min Weight	16	3	Continuum_AE_16Bit.dll
+Bias Offset	24	3	Continuum_AE_16Bit.dll
+Source Layer 2	16	3	Continuum_AE_16Bit.dll
+BCC3Color Palette	24	3	Continuum_AE_16Bit.dll
+Color Ramp	24	3	Continuum_AE_16Bit.dll
+Optical Flow Method	24	3	Continuum_AE_16Bit.dll
+Better Downsampling	24	3	Continuum_AE_16Bit.dll
+Motion Complexity	24	3	Continuum_AE_16Bit.dll
+FG Mask Layer	16	3	Continuum_AE_16Bit.dll
+Layer 1	8	3	Continuum_AE_16Bit.dll
+Layer 2	8	3	Continuum_AE_16Bit.dll
+Layer 3	8	3	Continuum_AE_16Bit.dll
+Layer 4	8	3	Continuum_AE_16Bit.dll
+Layer 5	8	3	Continuum_AE_16Bit.dll
+Height Maps	16	3	Continuum_AE_16Bit.dll
+Saturation Hard Clip	24	3	Continuum_AE_16Bit.dll
+Z Layer	8	3	Continuum_AE_16Bit.dll
+Blur Cutoff	16	3	Continuum_AE_16Bit.dll
+Fine Pass	16	3	Continuum_AE_16Bit.dll
+Fine Sharpen	16	3	Continuum_AE_16Bit.dll
+Small Pass	16	3	Continuum_AE_16Bit.dll
+Small Sharpen	16	3	Continuum_AE_16Bit.dll
+Medium Pass	16	3	Continuum_AE_16Bit.dll
+Coarse Sharpen	16	3	Continuum_AE_16Bit.dll
+Channel Tuning	16	3	Continuum_AE_16Bit.dll
+Range Tuning	16	3	Continuum_AE_16Bit.dll
+Range Preview	16	3	Continuum_AE_16Bit.dll
+Highlight Range	16	3	Continuum_AE_16Bit.dll
+Shadow Range	16	3	Continuum_AE_16Bit.dll
+Highlight Sharpen	24	3	Continuum_AE_16Bit.dll
+Midtone Sharpen	16	3	Continuum_AE_16Bit.dll
+Shadow Sharpen	16	3	Continuum_AE_16Bit.dll
+Sharpen On	16	3	Continuum_AE_16Bit.dll
+Iris	20	3	Continuum_AE_16Bit.dll
+Z Map	8	3	Continuum_AE_16Bit.dll
+Post	8	3	Continuum_AE_16Bit.dll
+Inside Preset	16	3	Continuum_AE_16Bit.dll
+Outside Preset	16	3	Continuum_AE_16Bit.dll
+Gamma Color Angle	24	3	Continuum_AE_16Bit.dll
+Gain Color Angle	24	3	Continuum_AE_16Bit.dll
+Gain Color Amount	24	3	Continuum_AE_16Bit.dll
+Waveform Monitor	24	3	Continuum_AE_16Bit.dll
+YCbCr Waveform Monitor	24	3	Continuum_AE_16Bit.dll
+Vectorscope	16	3	Continuum_AE_16Bit.dll
+Histogram	16	3	Continuum_AE_16Bit.dll
+Floating Footage	24	3	Continuum_AE_16Bit.dll
+Blue-Green Density	24	3	Continuum_AE_16Bit.dll
+Color 3 Intensity	24	3	Continuum_AE_16Bit.dll
+Color 4 Intensity	24	3	Continuum_AE_16Bit.dll
+Common	12	3	Continuum_AE_16Bit.dll
+Noise Blur Quality	24	3	Continuum_AE_16Bit.dll
+BCC3Rays Radiant Spotlight	28	3	Continuum_AE_16Bit.dll
+BCC3Drop Shadow	16	3	Continuum_AE_16Bit.dll
+Alpha From Edges	24	3	Continuum_AE_16Bit.dll
+Red Noise	16	3	Continuum_AE_16Bit.dll
+Paint Layer	16	3	Continuum_AE_16Bit.dll
+Burn Layer	16	3	Continuum_AE_16Bit.dll
+Flare Layer	16	3	Continuum_AE_16Bit.dll
+Char Layer	16	3	Continuum_AE_16Bit.dll
+Sample Controls	16	3	Continuum_AE_16Bit.dll
+Post-process	16	3	Continuum_AE_16Bit.dll
+Colors & Angles	16	3	Continuum_AE_16Bit.dll
+Circle Mask	16	3	Continuum_AE_16Bit.dll
+More Points	16	3	Continuum_AE_16Bit.dll
+Point 2 Settings	24	3	Continuum_AE_16Bit.dll
+Point 4 Settings	24	3	Continuum_AE_16Bit.dll
+Point 5 Settings	24	3	Continuum_AE_16Bit.dll
+Point 6 Settings	24	3	Continuum_AE_16Bit.dll
+Point 7 Settings	24	3	Continuum_AE_16Bit.dll
+Point 8 Settings	24	3	Continuum_AE_16Bit.dll
+Point 9 Settings	24	3	Continuum_AE_16Bit.dll
+Point 10 Settings	24	3	Continuum_AE_16Bit.dll
+Lines	12	3	Continuum_AE_16Bit.dll
+Cartoon	8	3	Continuum_AE_16Bit.dll
+Spread and Smooth	24	3	Continuum_AE_16Bit.dll
+Line Color	16	3	Continuum_AE_16Bit.dll
+Line Composite	16	3	Continuum_AE_16Bit.dll
+Line Matte	16	3	Continuum_AE_16Bit.dll
+Shake	8	3	Continuum_AE_16Bit.dll
+Flicker	8	3	Continuum_AE_16Bit.dll
+Scroll Curve	16	3	Continuum_AE_16Bit.dll
+Image Plane	16	3	Continuum_AE_16Bit.dll
+Show Under Reflect	24	3	Continuum_AE_16Bit.dll
+Opacity Under Reflect	24	3	Continuum_AE_16Bit.dll
+Under Color Mix	16	3	Continuum_AE_16Bit.dll
+Under Surface Color	24	3	Continuum_AE_16Bit.dll
+Apply Reflect Rippling	24	3	Continuum_AE_16Bit.dll
+Reflection Style	24	3	Continuum_AE_16Bit.dll
+Built-In Light	16	3	Continuum_AE_16Bit.dll
+Auto-scale Interactor	24	3	Continuum_AE_16Bit.dll
+Show Under Floor	24	3	Continuum_AE_16Bit.dll
+Apply Floor Rippling	24	3	Continuum_AE_16Bit.dll
+Shadow Plane	16	3	Continuum_AE_16Bit.dll
+Ripple On Floor	16	3	Continuum_AE_16Bit.dll
+Keep Proportional to Flame Texture Scale X	48	3	Continuum_AE_16Bit.dll
+Keep Proportional to Smoke Texture X Scale	48	3	Continuum_AE_16Bit.dll
+Wind	8	3	Continuum_AE_16Bit.dll
+Fractal Wave Generator	24	3	Continuum_AE_16Bit.dll
+Lens Flare BackGround Map Layer	40	3	Continuum_AE_16Bit.dll
+Distorted Edge	16	3	Continuum_AE_16Bit.dll
+Color Gun Offset	24	3	Continuum_AE_16Bit.dll
+Scanline Control	24	3	Continuum_AE_16Bit.dll
+Glint BackGround Map Layer	32	3	Continuum_AE_16Bit.dll
+Glare BackGround Map Layer	32	3	Continuum_AE_16Bit.dll
+Glitter BackGround Map Layer	32	3	Continuum_AE_16Bit.dll
+Midpoint Color Source	24	3	Continuum_AE_16Bit.dll
+End Color Source	24	3	Continuum_AE_16Bit.dll
+Generation was canceled	24	3	Continuum_AE_16Bit.dll
+Launch PI 2026	16	3	Continuum_AE_16Bit.dll
+Tint Strength	16	3	Continuum_AE_16Bit.dll
+World Transform	16	3	Continuum_AE_16Bit.dll
+Emitter Z Offset	24	3	Continuum_AE_16Bit.dll
+Use Mask For	16	3	Continuum_AE_16Bit.dll
+Use Mask from Frame	24	3	Continuum_AE_16Bit.dll
+Emitter Type	16	3	Continuum_AE_16Bit.dll
+Single Mask	16	3	Continuum_AE_16Bit.dll
+Bounce	12	3	Continuum_AE_16Bit.dll
+Position Turbulence	24	3	Continuum_AE_16Bit.dll
+Size Turbulence	16	3	Continuum_AE_16Bit.dll
+Affected by Fluids	24	3	Continuum_AE_16Bit.dll
+Force Strength	16	3	Continuum_AE_16Bit.dll
+Particle Illusion	24	3	Continuum_AE_16Bit.dll
+Light1 Pos XY	16	3	Continuum_AE_16Bit.dll
+Light2 Pos XY	16	3	Continuum_AE_16Bit.dll
+Light3 Pos XY	16	3	Continuum_AE_16Bit.dll
+Infinite Plane	16	3	Continuum_AE_16Bit.dll
+Bounded Plane	16	3	Continuum_AE_16Bit.dll
+AE 3D Layer Infinite	24	3	Continuum_AE_16Bit.dll
+AE 3D Layer with Alpha	24	3	Continuum_AE_16Bit.dll
+681	6	3	Continuum_AE_16Bit.dll
+Motion Control	16	3	Continuum_AE_16Bit.dll
+Glow Control	16	3	Continuum_AE_16Bit.dll
+Obstacle Layer	24	3	Continuum_AE_16Bit.dll
+Contain Warp Shape	24	3	Continuum_AE_16Bit.dll
+Emboss	8	3	Continuum_AE_16Bit.dll
+Boundary Mask	16	3	Continuum_AE_16Bit.dll
+Contain Source Warp Shape	32	3	Continuum_AE_16Bit.dll
+Contain Destination Warp Shape	32	3	Continuum_AE_16Bit.dll
+BCC3Lens Flare 3D	20	3	Continuum_AE_16Bit.dll
+Smoke On	12	3	Continuum_AE_16Bit.dll
+Global	12	3	Continuum_AE_16Bit.dll
+Point Light	16	3	Continuum_AE_16Bit.dll
+Target Map Layer	24	3	Continuum_AE_16Bit.dll
+Render Mode 1	16	3	Continuum_AE_16Bit.dll
+Type 1	12	3	Continuum_AE_16Bit.dll
+Point Light 1	16	3	Continuum_AE_16Bit.dll
+Point Light Style 1	24	3	Continuum_AE_16Bit.dll
+Feather 1	16	3	Continuum_AE_16Bit.dll
+Radius 1	16	3	Continuum_AE_16Bit.dll
+Interest XY 1	16	3	Continuum_AE_16Bit.dll
+Interest Z 1	16	3	Continuum_AE_16Bit.dll
+Cone Angle 1	16	3	Continuum_AE_16Bit.dll
+Cone Feather 1	16	3	Continuum_AE_16Bit.dll
+Light Model 1	16	3	Continuum_AE_16Bit.dll
+Offset Source 1	16	3	Continuum_AE_16Bit.dll
+Target 1	16	3	Continuum_AE_16Bit.dll
+Render Mode 2	16	3	Continuum_AE_16Bit.dll
+Type 2	8	3	Continuum_AE_16Bit.dll
+Point Light 2	16	3	Continuum_AE_16Bit.dll
+Point Light Style 2	24	3	Continuum_AE_16Bit.dll
+Feather 2	16	3	Continuum_AE_16Bit.dll
+Radius 2	16	3	Continuum_AE_16Bit.dll
+Spot Light 2	16	3	Continuum_AE_16Bit.dll
+Interest XY 2	16	3	Continuum_AE_16Bit.dll
+Interest Z 2	16	3	Continuum_AE_16Bit.dll
+Cone Angle 2	16	3	Continuum_AE_16Bit.dll
+Cone Feather 2	16	3	Continuum_AE_16Bit.dll
+Light Model 2	16	3	Continuum_AE_16Bit.dll
+Offset Source 2	16	3	Continuum_AE_16Bit.dll
+Target 2	16	3	Continuum_AE_16Bit.dll
+Render Mode 3	16	3	Continuum_AE_16Bit.dll
+Type 3	8	3	Continuum_AE_16Bit.dll
+Point Light 3	16	3	Continuum_AE_16Bit.dll
+Point Light Style 3	24	3	Continuum_AE_16Bit.dll
+Feather 3	16	3	Continuum_AE_16Bit.dll
+Radius 3	16	3	Continuum_AE_16Bit.dll
+Spot Light 3	16	3	Continuum_AE_16Bit.dll
+Interest XY 3	16	3	Continuum_AE_16Bit.dll
+Interest Z 3	16	3	Continuum_AE_16Bit.dll
+Cone Angle 3	16	3	Continuum_AE_16Bit.dll
+Cone Feather 3	16	3	Continuum_AE_16Bit.dll
+Light Model 3	16	3	Continuum_AE_16Bit.dll
+Offset Source 3	16	3	Continuum_AE_16Bit.dll
+Target 3	16	3	Continuum_AE_16Bit.dll
+Light Strobe	16	3	Continuum_AE_16Bit.dll
+Light Strobe 1	16	3	Continuum_AE_16Bit.dll
+Light Strobe 2	16	3	Continuum_AE_16Bit.dll
+Light Strobe 3	16	3	Continuum_AE_16Bit.dll
+Source Tracker	16	3	Continuum_AE_16Bit.dll
+Apply 1	8	3	Continuum_AE_16Bit.dll
+Offset X 1	16	3	Continuum_AE_16Bit.dll
+Target Tracker	16	3	Continuum_AE_16Bit.dll
+Light Target 3	16	3	Continuum_AE_16Bit.dll
+Displacement Map	24	3	Continuum_AE_16Bit.dll
+Displacement Layer	24	3	Continuum_AE_16Bit.dll
+Bump Map	16	3	Continuum_AE_16Bit.dll
+Bump Layer	16	3	Continuum_AE_16Bit.dll
+Erosion	8	3	Continuum_AE_16Bit.dll
+Erosion Layer	16	3	Continuum_AE_16Bit.dll
+Scratches	16	3	Continuum_AE_16Bit.dll
+Custom Orb Layer	24	3	Continuum_AE_16Bit.dll
+Dust	8	3	Continuum_AE_16Bit.dll
+Scan Lines	16	3	Continuum_AE_16Bit.dll
+Stripes 1	16	3	Continuum_AE_16Bit.dll
+BCC3Wire Remover	21	3	Continuum_AE_16Bit.dll
+Area Spline	16	3	Continuum_AE_16Bit.dll
+Lightness Offset	24	3	Continuum_AE_16Bit.dll
+Lightness Match On	24	3	Continuum_AE_16Bit.dll
+Hue Low Softness	24	3	Continuum_AE_16Bit.dll
+Hue High Softness	24	3	Continuum_AE_16Bit.dll
+Saturation Low Softness	24	3	Continuum_AE_16Bit.dll
+Stage 2 Mode	16	3	Continuum_AE_16Bit.dll
+Stage 2	8	3	Continuum_AE_16Bit.dll
+Stage 3 Mode	16	3	Continuum_AE_16Bit.dll
+Stage 5	8	3	Continuum_AE_16Bit.dll
+Stage 6 Mode	16	3	Continuum_AE_16Bit.dll
+Stage 6	8	3	Continuum_AE_16Bit.dll
+Minimum Softness	24	3	Continuum_AE_16Bit.dll
+Softness Mode	16	3	Continuum_AE_16Bit.dll
+Outgoing Clip Settings	24	3	Continuum_AE_16Bit.dll
+Incoming Clip Settings	24	3	Continuum_AE_16Bit.dll
+Colors	8	3	Continuum_AE_16Bit.dll
+Color 1 From	16	3	Continuum_AE_16Bit.dll
+Color 2 From	16	3	Continuum_AE_16Bit.dll
+Effect Pattern	16	3	Continuum_AE_16Bit.dll
+Outside Mask	16	3	Continuum_AE_16Bit.dll
+Inside Mask	16	3	Continuum_AE_16Bit.dll
+Pre Key Cleanup	16	3	Continuum_AE_16Bit.dll
+Chroma Key On	16	3	Continuum_AE_16Bit.dll
+Spill Suppression On	24	3	Continuum_AE_16Bit.dll
+Matte Cleanup	16	3	Continuum_AE_16Bit.dll
+Color from Cleaned Alpha	32	3	Continuum_AE_16Bit.dll
+Matte Choker	16	3	Continuum_AE_16Bit.dll
+Edge Cleaner On	16	3	Continuum_AE_16Bit.dll
+Edge Cleaner	16	3	Continuum_AE_16Bit.dll
+Mocha DataB	16	3	Continuum_AE_16Bit.dll
+Light Wrap Edge On	24	3	Continuum_AE_16Bit.dll
+Light Wrap Edge	16	3	Continuum_AE_16Bit.dll
+Light Wrap Spill On	24	3	Continuum_AE_16Bit.dll
+Light Wrap Spill	24	3	Continuum_AE_16Bit.dll
+Wrap Source Spill	24	3	Continuum_AE_16Bit.dll
+Mix with Original Spill	24	3	Continuum_AE_16Bit.dll
+Edge Color Correction	24	3	Continuum_AE_16Bit.dll
+5x5 Rectangle	16	3	Continuum_AE_16Bit.dll
+50x50 Rectangle	32	3	Continuum_AE_16Bit.dll
+Matte +	8	3	Continuum_AE_16Bit.dll
+Matte -	8	3	Continuum_AE_16Bit.dll
+Detail +	16	3	Continuum_AE_16Bit.dll
+Detail -	16	3	Continuum_AE_16Bit.dll
+Matte Status	16	3	Continuum_AE_16Bit.dll
+Hybrid Matte	16	3	Continuum_AE_16Bit.dll
+LW On Black	16	3	Continuum_AE_16Bit.dll
+Screen Color	16	3	Continuum_AE_16Bit.dll
+Insert 1	16	3	Continuum_AE_16Bit.dll
+Jitter 2	16	3	Continuum_AE_16Bit.dll
+Jitter 3	16	3	Continuum_AE_16Bit.dll
+Jitter Curves	16	3	Continuum_AE_16Bit.dll
+Trails Geometry	16	3	Continuum_AE_16Bit.dll
+Trail Feedback	16	3	Continuum_AE_16Bit.dll
+Acceleration	16	3	Continuum_AE_16Bit.dll
+BCC3Trails Basic	24	3	Continuum_AE_16Bit.dll
+Analyze	8	3	Continuum_AE_16Bit.dll
+B Color	8	3	Continuum_AE_16Bit.dll
+Region Animation	24	3	Continuum_AE_16Bit.dll
+Apply Damage To	16	3	Continuum_AE_16Bit.dll
+Lens Spots	16	3	Continuum_AE_16Bit.dll
+Damage	8	3	Continuum_AE_16Bit.dll
+Static Amount	16	3	Continuum_AE_16Bit.dll
+Shake Ease Mid	16	3	Continuum_AE_16Bit.dll
+Shake Ease Out	16	3	Continuum_AE_16Bit.dll
+Clone	8	3	Continuum_AE_16Bit.dll
+RGB Misalignment	24	3	Continuum_AE_16Bit.dll
+Gel-Matte Layer	16	3	Continuum_AE_16Bit.dll
+Transparent	16	3	Continuum_AE_16Bit.dll
+Light Apply Layer	24	3	Continuum_AE_16Bit.dll
+Production Boundary	20	3	Continuum_AE_16Bit.dll
+Appearance	16	3	Continuum_AE_16Bit.dll
+Midpoint Color Source Layer	32	3	Continuum_AE_16Bit.dll
+After Camera Rotate	24	3	Continuum_AE_16Bit.dll
+Interaction Layer	24	3	Continuum_AE_16Bit.dll
+Edge Range	16	3	Continuum_AE_16Bit.dll
+Scale 1	8	3	Continuum_AE_16Bit.dll
+Scale 2	8	3	Continuum_AE_16Bit.dll
+Morph	8	3	Continuum_AE_16Bit.dll
+Ripple Center	16	3	Continuum_AE_16Bit.dll
+Wave Anchor	16	3	Continuum_AE_16Bit.dll
+Ring Center	16	3	Continuum_AE_16Bit.dll
+Line Start	12	3	Continuum_AE_16Bit.dll
+Cutout	12	3	Continuum_AE_16Bit.dll
+Bottom Left	16	3	Continuum_AE_16Bit.dll
+Creating channel plan for	32	3	Continuum_AE_16Bit.dll
+Creating backward pixel plan for	40	3	Continuum_AE_16Bit.dll
+Mg	9	3	Continuum_AE_16Bit.dll
+Error creating project alpha texture	40	3	Continuum_AE_16Bit.dll
+Error creating grayscale version of texture	48	3	Continuum_AE_16Bit.dll
+Error creating project luminance alpha texture	48	3	Continuum_AE_16Bit.dll
+Main Stage Project	24	3	Continuum_AE_16Bit.dll
+Advance	8	3	Continuum_AE_16Bit.dll
+Blur Strength	16	3	Continuum_AE_16Bit.dll
+Using Host Camera	24	3	Continuum_AE_16Bit.dll
+Use Emitter Color	24	3	Continuum_AE_16Bit.dll
+Use Emitter Alpha	24	3	Continuum_AE_16Bit.dll
+Draw Trails	16	3	Continuum_AE_16Bit.dll
+Trail Fade	16	3	Continuum_AE_16Bit.dll
+Darken	12	3	Continuum_AE_16Bit.dll
+Over	8	3	Continuum_AE_16Bit.dll
+Transparency	16	3	Continuum_AE_16Bit.dll
+Align to Motion	16	3	Continuum_AE_16Bit.dll
+Single Particle	16	3	Continuum_AE_16Bit.dll
+Attached to Emitter	24	3	Continuum_AE_16Bit.dll
+Use Emitter Emission	24	3	Continuum_AE_16Bit.dll
+Uniform Spacing	16	3	Continuum_AE_16Bit.dll
+Random Gradient	16	3	Continuum_AE_16Bit.dll
+Color from layer	24	3	Continuum_AE_16Bit.dll
+Color Over Life	16	3	Continuum_AE_16Bit.dll
+Number of each color	24	3	Continuum_AE_16Bit.dll
+Alpha Over Life	16	3	Continuum_AE_16Bit.dll
+Update Alpha From Layer	24	3	Continuum_AE_16Bit.dll
+Use Particle Color	24	3	Continuum_AE_16Bit.dll
+Scale Particle Alpha	24	3	Continuum_AE_16Bit.dll
+Connect to Main Emitter	24	3	Continuum_AE_16Bit.dll
+Connect Particles	24	3	Continuum_AE_16Bit.dll
+Random Start Frame	24	3	Continuum_AE_16Bit.dll
+Reference Point	16	3	Continuum_AE_16Bit.dll
+Preserve Color	16	3	Continuum_AE_16Bit.dll
+Physics	8	3	Continuum_AE_16Bit.dll
+Emission	16	3	Continuum_AE_16Bit.dll
+Size Y Over Life	24	3	Continuum_AE_16Bit.dll
+Velocity Over Life	24	3	Continuum_AE_16Bit.dll
+Spin Over Life	16	3	Continuum_AE_16Bit.dll
+Bounce Over Life	24	3	Continuum_AE_16Bit.dll
+Spin Variation	16	3	Continuum_AE_16Bit.dll
+Bounce Variation	24	3	Continuum_AE_16Bit.dll
+Video	12	3	Continuum_AE_16Bit.dll
+32 x 32	8	3	Continuum_AE_16Bit.dll
+64 x 64	8	3	Continuum_AE_16Bit.dll
+128 x 128	16	3	Continuum_AE_16Bit.dll
+256 x 256	16	3	Continuum_AE_16Bit.dll
+16 x 16 x 16	16	3	Continuum_AE_16Bit.dll
+64 x 64 x 64	16	3	Continuum_AE_16Bit.dll
+Bouncing	16	3	Continuum_AE_16Bit.dll
+Minimum Distance	24	3	Continuum_AE_16Bit.dll
+Enable Fluid Dynamics	24	3	Continuum_AE_16Bit.dll
+Shape Selection	16	3	Continuum_AE_16Bit.dll
+Top Cap On	16	3	Continuum_AE_16Bit.dll
+Auto Evolve Z	16	3	Continuum_AE_16Bit.dll
+Turbulence Field Zoom	24	3	Continuum_AE_16Bit.dll
+Velocity Randomness	24	3	Continuum_AE_16Bit.dll
+Deflector Line Points	24	3	Continuum_AE_16Bit.dll
+Plane	8	3	Continuum_AE_16Bit.dll
+Vertices	16	3	Continuum_AE_16Bit.dll
+Emit at Points	16	3	Continuum_AE_16Bit.dll
+Number of Points Y	24	3	Continuum_AE_16Bit.dll
+Number of Points Z	24	3	Continuum_AE_16Bit.dll
+Emit in 3D	16	3	Continuum_AE_16Bit.dll
+3D Lines	16	3	Continuum_AE_16Bit.dll
+Use 3D Model	16	3	Continuum_AE_16Bit.dll
+Use Model Color for Tint	32	3	Continuum_AE_16Bit.dll
+Emit From	16	3	Continuum_AE_16Bit.dll
+Use Inertia	16	3	Continuum_AE_16Bit.dll
+Affected By Fluids	24	3	Continuum_AE_16Bit.dll
+Model Scale	16	3	Continuum_AE_16Bit.dll
+Model Scale Y	16	3	Continuum_AE_16Bit.dll
+Wireframe Thickness	24	3	Continuum_AE_16Bit.dll
+Wireframe Color	16	3	Continuum_AE_16Bit.dll
+Show Surface	16	3	Continuum_AE_16Bit.dll
+Surface Opacity	16	3	Continuum_AE_16Bit.dll
+Exception Thrown in SerializeKeyframeVectorOL	48	3	Continuum_AE_16Bit.dll
+Object Group	16	3	Continuum_AE_16Bit.dll
+Distort Blend Layer	24	3	Continuum_AE_16Bit.dll
+Hair Mat	12	3	Continuum_AE_16Bit.dll
+Insufficient memory	24	3	Continuum_AE_16Bit.dll
+Incorrect size of input array	32	3	Continuum_AE_16Bit.dll
+Division by zero occured	32	3	Continuum_AE_16Bit.dll
+Unknown exception	24	2	BCCPlus.dll
+0123456789abcdef	24	2	BCCPlus.dll
+WinApi FormatMessage returned error	40	2	BCCPlus.dll
+Image	8	2	BCCPlus.dll
+Medium	8	2	BCCPlus.dll
+Warp	8	2	BCCPlus.dll
+Dec	5	2	BCCPlus.dll
+Unknown filter method in IHDR	32	2	BCCPlus.dll
+Not enough	16	2	BCCPlus.dll
+Too much	16	2	BCCPlus.dll
+Print	6	2	BCCPlus.dll
+Demo XH	8	2	BCCPlus.dll
+Oct 27 2025	12	2	Continuum_3DObjects_AE.dll
+Oval	8	2	Continuum_3DObjects_AE.dll
+Sphere	12	2	Continuum_3DObjects_AE.dll
+Unknown	8	2	Continuum_3DObjects_AE.dll
+Default Specular	24	2	Continuum_3DObjects_AE.dll
+Default Reflection	20	2	Continuum_3DObjects_AE.dll
+Sketch Mat	12	2	Continuum_3DObjects_AE.dll
+Filter Set	12	2	Continuum_AE_16Bit.dll
+Title	12	2	Continuum_AE_16Bit.dll
+Error reading PointTracker object	40	2	Continuum_AE_16Bit.dll
+Lighting	16	2	Continuum_AE_16Bit.dll
+Image Layer 2	24	2	Continuum_AE_16Bit.dll
+Image Layer 4	16	2	Continuum_AE_16Bit.dll
+To PixelChooser Legacy	24	2	Continuum_AE_16Bit.dll
+Channel PixelChooser Legacy	40	2	Continuum_AE_16Bit.dll
+Matte Softness PixelChooser Legacy	40	2	Continuum_AE_16Bit.dll
+Strands	8	2	Continuum_AE_16Bit.dll
+Post Mix Threshold	24	2	Continuum_AE_16Bit.dll
+Post Mix Ease In	24	2	Continuum_AE_16Bit.dll
+Twist	8	2	Continuum_AE_16Bit.dll
+Lock to Horizontal	20	2	Continuum_AE_16Bit.dll
+BCC3Radial Blur	16	2	Continuum_AE_16Bit.dll
+Mix Layer Geometrics	24	2	Continuum_AE_16Bit.dll
+Saturation Soft Clip	24	2	Continuum_AE_16Bit.dll
+Fine Detail Radius	24	2	Continuum_AE_16Bit.dll
+Pre-process	16	2	Continuum_AE_16Bit.dll
+BCC3Glow Alpha Edges	24	2	Continuum_AE_16Bit.dll
+Grain Presets	16	2	Continuum_AE_16Bit.dll
+BCC3Match Grain	16	2	Continuum_AE_16Bit.dll
+Light Target 2	16	2	Continuum_AE_16Bit.dll
+BCC8Color Range Key	24	2	Continuum_AE_16Bit.dll
+Tolerance	16	2	Continuum_AE_16Bit.dll
+Stage 1 Mode	16	2	Continuum_AE_16Bit.dll
+Stage 1	8	2	Continuum_AE_16Bit.dll
+Hue Offset	16	2	Continuum_AE_16Bit.dll
+BCC8Color Key Test	32	2	Continuum_AE_16Bit.dll
+Clone Source	16	2	Continuum_AE_16Bit.dll
+Clone Destination	24	2	Continuum_AE_16Bit.dll
+Modulation 1 Layer	24	2	Continuum_AE_16Bit.dll
+Top Right	16	2	Continuum_AE_16Bit.dll
+New Particle Type	24	2	Continuum_AE_16Bit.dll
+Size X Variation	24	2	Continuum_AE_16Bit.dll
+Size X Over Life	24	2	Continuum_AE_16Bit.dll
+Exception Thrown in SerializeKeyframeVector	48	2	Continuum_AE_16Bit.dll
+Cineware Commandline Example	32	2	Continuum_AE_16Bit.dll
+FF RenderTransformation MP	32	2	Continuum_AE_16Bit.dll
+FF SmoothInvHistograms	24	2	Continuum_AE_16Bit.dll
+Hide UI	8	2	Continuum_AE_16Bit.dll
+Time Track	16	2	Continuum_AE_16Bit.dll
+Spawn Color Gradient	24	2	Continuum_AE_8Bit.dll
+Optical Flow Resolution	24	2	Continuum_AE_8Bit.dll
+Lens Center	16	2	Continuum_AE_8Bit.dll
+Lock Colors to Red	24	2	Continuum_AE_8Bit.dll
+Lens Blur	16	2	Continuum_AE_8Bit.dll
+Start	8	2	Continuum_AE_8Bit.dll
+SINK Pos XY	16	2	Continuum_AE_8Bit.dll
+Stripes 2	16	2	Continuum_AE_8Bit.dll
+Show UI	8	2	Continuum_AE_8Bit.dll
+Area	8	2	Continuum_AE_8Bit.dll
+Mix down	16	2	Continuum_AE_8Bit.dll
+Make Blur Dests	16	2	Continuum_AE_8Bit.dll
+Replace Value	16	1	BCCPlus.dll
+Add to Value	16	1	BCCPlus.dll
+Subtract from Value	24	1	BCCPlus.dll
+Custom	8	1	BCCPlus.dll
+0 to Current Value	24	1	BCCPlus.dll
+Min to Current Value	32	1	BCCPlus.dll
+Linear	8	1	BCCPlus.dll
+Quadradic Soft	24	1	BCCPlus.dll
+Sustain	16	1	BCCPlus.dll
+Box Percentage	24	1	BCCPlus.dll
+Max Frequency	16	1	BCCPlus.dll
+Link to Sampler from Apply Options A	48	1	BCCPlus.dll
+Bars	8	1	BCCPlus.dll
+Dots	12	1	BCCPlus.dll
+Single Dot	16	1	BCCPlus.dll
+Ellipse	12	1	BCCPlus.dll
+Half Circle	16	1	BCCPlus.dll
+Absolute Value	20	1	BCCPlus.dll
+Solid	12	1	BCCPlus.dll
+Top-to-bottom	16	1	BCCPlus.dll
+Bottom-to-top	16	1	BCCPlus.dll
+Left-to-right	16	1	BCCPlus.dll
+Right-to-left	16	1	BCCPlus.dll
+Darker	12	1	BCCPlus.dll
+Add	8	1	BCCPlus.dll
+Overlay	16	1	BCCPlus.dll
+Stencil Alpha	16	1	BCCPlus.dll
+L003 Lavender Tint	24	1	BCCPlus.dll
+L169 Lilac Tint	24	1	BCCPlus.dll
+L136 Pale Lavender	24	1	BCCPlus.dll
+L704 Lily	16	1	BCCPlus.dll
+L170 Deep Lavender	24	1	BCCPlus.dll
+L345 Fuchsia Pink	24	1	BCCPlus.dll
+L048 Rose Purple	24	1	BCCPlus.dll
+L126 Mauve	16	1	BCCPlus.dll
+L797 Deep Purple	24	1	BCCPlus.dll
+L176 Loving Amber	24	1	BCCPlus.dll
+L109 Light Salmon	24	1	BCCPlus.dll
+L107 Light Rose	24	1	BCCPlus.dll
+2E Pale Yellow	24	1	BCCPlus.dll
+3 Light Yellow	24	1	BCCPlus.dll
+11 Yellowish-Green	24	1	BCCPlus.dll
+12 Deep Yellow	24	1	BCCPlus.dll
+15 Deep Yellow	24	1	BCCPlus.dll
+Photographic	16	1	BCCPlus.dll
+Cranberry 2	16	1	BCCPlus.dll
+Cranberry 3	16	1	BCCPlus.dll
+Tangerine 1	16	1	BCCPlus.dll
+Tangerine 3	16	1	BCCPlus.dll
+Tobacco 1	16	1	BCCPlus.dll
+Tobacco 2	16	1	BCCPlus.dll
+Tobacco 3	16	1	BCCPlus.dll
+Chocolate 1	16	1	BCCPlus.dll
+Chocolate 2	16	1	BCCPlus.dll
+Chocolate 3	16	1	BCCPlus.dll
+Yellow 5	16	1	BCCPlus.dll
+Green 1	16	1	BCCPlus.dll
+Green 2	16	1	BCCPlus.dll
+Green 3	16	1	BCCPlus.dll
+Green 4	16	1	BCCPlus.dll
+Green 5	12	1	BCCPlus.dll
+Cyan 2	8	1	BCCPlus.dll
+Cyan 4	8	1	BCCPlus.dll
+Cool Blue 4	16	1	BCCPlus.dll
+Cool Blue 5	16	1	BCCPlus.dll
+Blue 2	8	1	BCCPlus.dll
+Blue 4	8	1	BCCPlus.dll
+Tiffen	8	1	BCCPlus.dll
+Linear Add	16	1	BCCPlus.dll
+Linear Screen	16	1	BCCPlus.dll
+Inside Rectangle	24	1	BCCPlus.dll
+Outside Rectangle	24	1	BCCPlus.dll
+Inside Oval	16	1	BCCPlus.dll
+Gray	8	1	BCCPlus.dll
+Pin Bottom	16	1	BCCPlus.dll
+Pin Horiz	16	1	BCCPlus.dll
+Pin Vertical	16	1	BCCPlus.dll
+Pin Point2	16	1	BCCPlus.dll
+Bidirectional	16	1	BCCPlus.dll
+Off	8	1	BCCPlus.dll
+Render Over Effect	24	1	BCCPlus.dll
+15 Seconds	16	1	BCCPlus.dll
+10 Seconds	16	1	BCCPlus.dll
+2 Seconds	16	1	BCCPlus.dll
+Field Double	16	1	BCCPlus.dll
+Interpolate	16	1	BCCPlus.dll
+Orange	8	1	BCCPlus.dll
+Filter	8	1	BCCPlus.dll
+Premultiplied	16	1	BCCPlus.dll
+Convert	16	1	BCCPlus.dll
+Pad Color	16	1	BCCPlus.dll
+Expand	8	1	BCCPlus.dll
+Extract On	16	1	BCCPlus.dll
+Preserve Highlights	24	1	BCCPlus.dll
+Exposure Compensation	32	1	BCCPlus.dll
+Horizontal Strip	24	1	BCCPlus.dll
+Vertical Strip	24	1	BCCPlus.dll
+Light Matte	16	1	BCCPlus.dll
+Channel Limit	16	1	BCCPlus.dll
+Classic Continuum	30	1	BCCPlus.dll
+Spill Remover	16	1	BCCPlus.dll
+Texture DVE	16	1	BCCPlus.dll
+Bilinear	16	1	BCCPlus.dll
+Triangle	16	1	BCCPlus.dll
+Quadratic	12	1	BCCPlus.dll
+Cubic	12	1	BCCPlus.dll
+Mitchell	12	1	BCCPlus.dll
+Sinc	12	1	BCCPlus.dll
+Fit Inside	16	1	BCCPlus.dll
+Fit Outside	16	1	BCCPlus.dll
+Corner Pin	30	1	BCCPlus.dll
+Segment name cannot be empty	40	1	BCCPlus.dll
+Post Glow	16	1	BCCPlus.dll
+Smoky Rays	16	1	BCCPlus.dll
+View Rays	16	1	BCCPlus.dll
+View Smoky Rays	24	1	BCCPlus.dll
+Beauty Studio	16	1	BCCPlus.dll
+Small Details	16	1	BCCPlus.dll
+Medium Details	24	1	BCCPlus.dll
+Large Details	16	1	BCCPlus.dll
+Largest Details	20	1	BCCPlus.dll
+Fast	12	1	BCCPlus.dll
+Precise	16	1	BCCPlus.dll
+Unfiltered Noise	24	1	BCCPlus.dll
+0 Degrees	16	1	BCCPlus.dll
+90 Degrees	16	1	BCCPlus.dll
+180 Degrees	16	1	BCCPlus.dll
+270 Degrees	16	1	BCCPlus.dll
+Channel Blur YUV	20	1	BCCPlus.dll
+Blur U	8	1	BCCPlus.dll
+Blur V	8	1	BCCPlus.dll
+Blur Blue	14	1	BCCPlus.dll
+Curvature X	16	1	BCCPlus.dll
+Curvature Y	16	1	BCCPlus.dll
+ND Brightness	16	1	BCCPlus.dll
+Point Radius	16	1	BCCPlus.dll
+Flip X	8	1	BCCPlus.dll
+Flip Y	12	1	BCCPlus.dll
+Flip X+Y	12	1	BCCPlus.dll
+Suppress	16	1	BCCPlus.dll
+Unkeyed	12	1	BCCPlus.dll
+Erosion Map	16	1	BCCPlus.dll
+Noisy Iris	16	1	BCCPlus.dll
+8 Sides	16	1	BCCPlus.dll
+9 Sides	16	1	BCCPlus.dll
+10 Sides	16	1	BCCPlus.dll
+11 Sides	16	1	BCCPlus.dll
+12 Sides	16	1	BCCPlus.dll
+13 Sides	16	1	BCCPlus.dll
+14 Sides	16	1	BCCPlus.dll
+15 Sides	16	1	BCCPlus.dll
+Luma Boost to White	24	1	BCCPlus.dll
+RGB Glow	16	1	BCCPlus.dll
+RGB Max	12	1	BCCPlus.dll
+Enable Generator	24	1	BCCPlus.dll
+Wrap On Black	16	1	BCCPlus.dll
+Mask Transparent Pixels	32	1	BCCPlus.dll
+RGB Green Weight	24	1	BCCPlus.dll
+RGB Blue Weight	24	1	BCCPlus.dll
+HSL Hue Tolerance	24	1	BCCPlus.dll
+HSL Saturation Tolerance	32	1	BCCPlus.dll
+HSL Light Tolerance	24	1	BCCPlus.dll
+LCH Hue Tolerance	24	1	BCCPlus.dll
+Region	8	1	BCCPlus.dll
+Key Out Dissimilar	24	1	BCCPlus.dll
+Mask and Track Hosted	32	1	BCCPlus.dll
+Level Far	16	1	BCCPlus.dll
+Level Near	16	1	BCCPlus.dll
+Grade Levels	16	1	BCCPlus.dll
+B-W Matte	16	1	BCCPlus.dll
+Alpha Channel	16	1	BCCPlus.dll
+Interpolation Start Frame	32	1	BCCPlus.dll
+Interpolation End Frame	32	1	BCCPlus.dll
+Alpha Aware	16	1	BCCPlus.dll
+Retimer ML	16	1	BCCPlus.dll
+Set Bad Frame	16	1	BCCPlus.dll
+Bad Frame	16	1	BCCPlus.dll
+Repair Duration	24	1	BCCPlus.dll
+Fece Detection ML	24	1	BCCPlus.dll
+All Features	16	1	BCCPlus.dll
+Skin	8	1	BCCPlus.dll
+Eyebrow Left	16	1	BCCPlus.dll
+Eyebrow Right	16	1	BCCPlus.dll
+Eye Left	16	1	BCCPlus.dll
+Eye Right	16	1	BCCPlus.dll
+Lip Top	16	1	BCCPlus.dll
+Lip Bottom	16	1	BCCPlus.dll
+Teeth	8	1	BCCPlus.dll
+License Plate Detection ML	32	1	BCCPlus.dll
+RGB Straight Source	24	1	BCCPlus.dll
+Variable	16	1	BCCPlus.dll
+Source Mode	16	1	BCCPlus.dll
+Flow Morph ML	16	1	BCCPlus.dll
+Forward	16	1	BCCPlus.dll
+Reverse	12	1	BCCPlus.dll
+UV Map	12	1	BCCPlus.dll
+Colorized Flow	24	1	BCCPlus.dll
+Speed Map	16	1	BCCPlus.dll
+High	8	1	BCCPlus.dll
+Ultra	12	1	BCCPlus.dll
+Mocha Track	16	1	BCCPlus.dll
+Pixel Chooser Hosted	32	1	BCCPlus.dll
+Radial Map	16	1	BCCPlus.dll
+Angle Repeats	16	1	BCCPlus.dll
+Angle Speed	16	1	BCCPlus.dll
+Inner Radius	16	1	BCCPlus.dll
+Outer Radius	16	1	BCCPlus.dll
+Radius Offset	16	1	BCCPlus.dll
+Wrap X	8	1	BCCPlus.dll
+Wrap Y	8	1	BCCPlus.dll
+Swirling Radius	24	1	BCCPlus.dll
+Clean FG Noise	24	1	BCCPlus.dll
+Spill-	8	1	BCCPlus.dll
+Matte+	8	1	BCCPlus.dll
+Matte-	12	1	BCCPlus.dll
+Detail+	16	1	BCCPlus.dll
+Detail-	16	1	BCCPlus.dll
+Preview Samples	24	1	BCCPlus.dll
+Complement	16	1	BCCPlus.dll
+Solid Color	16	1	BCCPlus.dll
+Holdout Matte	16	1	BCCPlus.dll
+Garbage Matte	16	1	BCCPlus.dll
+Denoised FG	16	1	BCCPlus.dll
+Light Wrap Edge Only	32	1	BCCPlus.dll
+Edge Color Only	24	1	BCCPlus.dll
+Spill Map Alpha	24	1	BCCPlus.dll
+Spill Map Grayscale	24	1	BCCPlus.dll
+Opacity Only	16	1	BCCPlus.dll
+Opacity and Spill	24	1	BCCPlus.dll
+Radial Blur	16	1	BCCPlus.dll
+Radial Amount	16	1	BCCPlus.dll
+Rotation Amount	24	1	BCCPlus.dll
+Smooth Mode	16	1	BCCPlus.dll
+Resize	12	1	BCCPlus.dll
+Sawtooth	16	1	BCCPlus.dll
+Semicircle	16	1	BCCPlus.dll
+Uncircle	16	1	BCCPlus.dll
+Half Sine	16	1	BCCPlus.dll
+Spectrum 1	16	1	BCCPlus.dll
+Spectrum 2	16	1	BCCPlus.dll
+Spectrum 3	16	1	BCCPlus.dll
+Spectrum 4	16	1	BCCPlus.dll
+Spectrum 5	16	1	BCCPlus.dll
+Spectrum 6	16	1	BCCPlus.dll
+Spectrum 7	16	1	BCCPlus.dll
+Spectrum 8	16	1	BCCPlus.dll
+Spectrum 9	16	1	BCCPlus.dll
+Spectrum 10	16	1	BCCPlus.dll
+Spectrum 11	16	1	BCCPlus.dll
+Spectrum 12	16	1	BCCPlus.dll
+Spectrum 13	16	1	BCCPlus.dll
+Spectrum 14	16	1	BCCPlus.dll
+Super Twirl	16	1	BCCPlus.dll
+Hyper Twirl	16	1	BCCPlus.dll
+Line Noise Type	24	1	BCCPlus.dll
+Line Noise	16	1	BCCPlus.dll
+Line Noise Size X	24	1	BCCPlus.dll
+Sharp	8	1	BCCPlus.dll
+Scale Multiply	24	1	BCCPlus.dll
+Fade Map	16	1	BCCPlus.dll
+Could not initialize FreeType library	48	1	BCCPlus.dll
+Textbox	16	1	BCCPlus.dll
+No fonts loaded	20	1	BCCPlus.dll
+Print to Slide	24	1	BCCPlus.dll
+Slide to Print	24	1	BCCPlus.dll
+Red Channel	16	1	BCCPlus.dll
+Green Channel	16	1	BCCPlus.dll
+Blue Channel	16	1	BCCPlus.dll
+Use	8	1	BCCPlus.dll
+Moonlight	16	1	BCCPlus.dll
+Max Depth	16	1	BCCPlus.dll
+Coarse	8	1	BCCPlus.dll
+Fine	12	1	BCCPlus.dll
+White-point	16	1	BCCPlus.dll
+Black-point	16	1	BCCPlus.dll
+Recovery	16	1	BCCPlus.dll
+Fill Light	16	1	BCCPlus.dll
+Blacks	8	1	BCCPlus.dll
+Use SLT Blur	16	1	BCCPlus.dll
+Dissolve	16	1	BCCPlus.dll
+Outgoing	16	1	BCCPlus.dll
+Incoming	16	1	BCCPlus.dll
+Incoming & Outgoing	24	1	BCCPlus.dll
+Source Point	16	1	BCCPlus.dll
+Multi Star	16	1	BCCPlus.dll
+Auto-animate Matte	24	1	BCCPlus.dll
+Apply Rays To	16	1	BCCPlus.dll
+Crash Zoom	16	1	BCCPlus.dll
+Spin Blur	16	1	BCCPlus.dll
+Rack Focus	16	1	BCCPlus.dll
+Channel YUV Blur	24	1	BCCPlus.dll
+Shift Drift	16	1	BCCPlus.dll
+Rays Source	16	1	BCCPlus.dll
+Orbs Light Source	24	1	BCCPlus.dll
+After Outgoing	24	1	BCCPlus.dll
+After Incoming	24	1	BCCPlus.dll
+After Both	16	1	BCCPlus.dll
+Xray	8	1	BCCPlus.dll
+Expand Edge	16	1	BCCPlus.dll
+Prism Shift	16	1	BCCPlus.dll
+Blue Map	16	1	BCCPlus.dll
+Outside	16	1	BCCPlus.dll
+Enable All	16	1	BCCPlus.dll
+Animate Thickness	24	1	BCCPlus.dll
+Miter	8	1	BCCPlus.dll
+Bevel	12	1	BCCPlus.dll
+Texture Map	16	1	BCCPlus.dll
+Depth Direction	24	1	BCCPlus.dll
+Endpoints	16	1	BCCPlus.dll
+Insert	8	1	BCCPlus.dll
+Effect Scaler	16	1	BCCPlus.dll
+Enhancing	16	1	BCCPlus.dll
+Luma Inverted	16	1	BCCPlus.dll
+Alpha Inverted	24	1	BCCPlus.dll
+Threshold w Boost + Desat	32	1	BCCPlus.dll
+Glow Matte	16	1	BCCPlus.dll
+Desaturation	16	1	BCCPlus.dll
+Boost Alpha	16	1	BCCPlus.dll
+Glow Matte Type	24	1	BCCPlus.dll
+Master Saturation	24	1	BCCPlus.dll
+Red Saturation	24	1	BCCPlus.dll
+Edge Fade	16	1	BCCPlus.dll
+Element Count	16	1	BCCPlus.dll
+Total Scale	16	1	BCCPlus.dll
+Ramp Scale	16	1	BCCPlus.dll
+Match Flare Angle	24	1	BCCPlus.dll
+Random Spikes	16	1	BCCPlus.dll
+Hotspot	16	1	BCCPlus.dll
+Center Brightness	24	1	BCCPlus.dll
+X Bias	8	1	BCCPlus.dll
+Y Bias	12	1	BCCPlus.dll
+Lift	8	1	BCCPlus.dll
+Frames	8	1	BCCPlus.dll
+Input is Linear	24	1	BCCPlus.dll
+Red Exposure	16	1	BCCPlus.dll
+Green Exposure	24	1	BCCPlus.dll
+Blue Exposure	16	1	BCCPlus.dll
+Glow Edges	16	1	BCCPlus.dll
+Guided Filter	16	1	BCCPlus.dll
+Guide Strength	20	1	BCCPlus.dll
+Faster	12	1	BCCPlus.dll
+Smoother	16	1	BCCPlus.dll
+Halo Only	16	1	BCCPlus.dll
+Sun Altitude	16	1	BCCPlus.dll
+Ice Halos	16	1	BCCPlus.dll
+Infrared	16	1	BCCPlus.dll
+Destination Kelvin	24	1	BCCPlus.dll
+Source Kelvin	16	1	BCCPlus.dll
+Kelvin	8	1	BCCPlus.dll
+Parallel	16	1	BCCPlus.dll
+LCH Keyer	16	1	BCCPlus.dll
+Occlusion Source	20	1	BCCPlus.dll
+Occlusion	16	1	BCCPlus.dll
+X Axis	8	1	BCCPlus.dll
+Y Axis	8	1	BCCPlus.dll
+Light Brightness	24	1	BCCPlus.dll
+Light Spread	16	1	BCCPlus.dll
+Shadow Brightness	24	1	BCCPlus.dll
+Detail Tuning	16	1	BCCPlus.dll
+Reference Image	24	1	BCCPlus.dll
+First Frame	16	1	BCCPlus.dll
+Every Frame	16	1	BCCPlus.dll
+Master Proxy	16	1	BCCPlus.dll
+Hard Light	16	1	BCCPlus.dll
+Vivid Light	16	1	BCCPlus.dll
+Linear Light	16	1	BCCPlus.dll
+Pin Light	16	1	BCCPlus.dll
+Color Burn	16	1	BCCPlus.dll
+Linear Burn	16	1	BCCPlus.dll
+Darker Color	16	1	BCCPlus.dll
+Color Dodge	16	1	BCCPlus.dll
+Linear Dodge	16	1	BCCPlus.dll
+Lighter Color	16	1	BCCPlus.dll
+Matte Repair	16	1	BCCPlus.dll
+Stars	8	1	BCCPlus.dll
+Night Vision	16	1	BCCPlus.dll
+Pixel Chooser Filter	32	1	BCCPlus.dll
+Matte Post Process	24	1	BCCPlus.dll
+View Matte Source	24	1	BCCPlus.dll
+Alpha Masked	16	1	BCCPlus.dll
+Rounded Rectangle	24	1	BCCPlus.dll
+Mocha Spline	16	1	BCCPlus.dll
+AE Host Mask	16	1	BCCPlus.dll
+Strip	12	1	BCCPlus.dll
+Top to Bottom	16	1	BCCPlus.dll
+Left to Right	16	1	BCCPlus.dll
+Center on Shape	24	1	BCCPlus.dll
+Printer Points	24	1	BCCPlus.dll
+Tint Mode	16	1	BCCPlus.dll
+Radial Grad	16	1	BCCPlus.dll
+Rainbow Only	16	1	BCCPlus.dll
+Rainbow	16	1	BCCPlus.dll
+Shape Only	16	1	BCCPlus.dll
+Positioin	16	1	BCCPlus.dll
+Selective Saturation	32	1	BCCPlus.dll
+Prism Blur	16	1	BCCPlus.dll
+ST Map	8	1	BCCPlus.dll
+Use External ST Map	24	1	BCCPlus.dll
+Horizontal Streaks	24	1	BCCPlus.dll
+Vertical Streaks	24	1	BCCPlus.dll
+Pedestal	16	1	BCCPlus.dll
+Texture 15	16	1	BCCPlus.dll
+Tone Adjust	16	1	BCCPlus.dll
+Blue Smooth	16	1	BCCPlus.dll
+Unpremultiply	16	1	BCCPlus.dll
+Global Seed	16	1	BCCPlus.dll
+Wide Angle Lens	24	1	BCCPlus.dll
+Face Detection Matte	32	1	BCCPlus.dll
+Face Detection Overlay	32	1	BCCPlus.dll
+PNG fixed point integer out of range	48	1	BCCPlus.dll
+CRC error	16	1	BCCPlus.dll
+Unrecognized unit type for pHYs chunk	48	1	BCCPlus.dll
+Invalid time specified for tIME chunk	49	1	BCCPlus.dll
+CCITT Group 3	16	1	BCCPlus.dll
+CCITT Group 4	16	1	BCCPlus.dll
+Deflate	16	1	BCCPlus.dll
+Can not unlink directory in read-only file	56	1	BCCPlus.dll
+No space for JPEGTables	32	1	BCCPlus.dll
+No space for LZW state block	40	1	BCCPlus.dll
+Predictor	24	1	BCCPlus.dll
+No space for ZIP state block	40	1	BCCPlus.dll
+Channel Blur Dissolve	32	1	BCCPlus.dll
+Prism Dissolve	24	1	BCCPlus.dll
+Multi-Star Dissolve	24	1	BCCPlus.dll
+Spin Blur Dissolve	24	1	BCCPlus.dll
+Rack Focus Dissolve	24	1	BCCPlus.dll
+Camera Shake Dissolve	32	1	BCCPlus.dll
+Light Leaks Dissolve	32	1	BCCPlus.dll
+Texture Wipe	16	1	BCCPlus.dll
+Film Roll	16	1	BCCPlus.dll
+Smoke and Fog Dissolve	32	1	BCCPlus.dll
+Orbs Dissolve	16	1	BCCPlus.dll
+0 1 2 3 4 5 6 7 8 9	24	1	BCCPlus.dll
+Type 42	12	1	BCCPlus.dll
+Bold Italic	16	1	BCCPlus.dll
+Windows FNT	16	1	BCCPlus.dll
+Oblique	16	1	BCCPlus.dll
+Version	12	1	BCCPlus.dll
+Ocircumflexsmall	17	1	BCCPlus.dll
+Ydieresissmall	15	1	BCCPlus.dll
+Unknown feature	24	1	BCCPlus.dll
+No Error	16	1	BCCPlus.dll
+Autotrace call	24	1	BCCPlus.dll
+3333333333333333	32	1	BCCPlus.dll
+Invalid deep tile size	32	1	BCCPlus.dll
+Bad level mode getting chunk offset table size	64	1	BCCPlus.dll
+InputFile cannot handle parts of type	48	1	BCCPlus.dll
+Deep scanline sampleCount data corrupt at chunk	64	1	BCCPlus.dll
+Deep scanline data corrupt at tile	48	1	BCCPlus.dll
+Deep tile sampleCount data corrupt at tile	56	1	BCCPlus.dll
+Only 1 and 3 channel encoding is supported	56	1	BCCPlus.dll
+Mismatch between Preview Image Attribute size and dimensions	80	1	BCCPlus.dll
+HL MaxMicro	12	1	BCCPlus.dll
+Invalid input	16	1	BCCPlus.dll
+Invalid character in the stream	40	1	BCCPlus.dll
+Invalid character	24	1	BCCPlus.dll
+91	8	1	BCCPlus.dll
+Fo	8	1	BCCPlus.dll
+Load Animated Preset at First Frame	48	1	Continuum_3DObjects_AE.dll
+Bin View Mode	16	1	Continuum_3DObjects_AE.dll
+History View Mode	24	1	Continuum_3DObjects_AE.dll
+Continuum	12	1	Continuum_3DObjects_AE.dll
+Styles	12	1	Continuum_3DObjects_AE.dll
+Custom Textures	24	1	Continuum_3DObjects_AE.dll
+Custom 3D Models	24	1	Continuum_3DObjects_AE.dll
+3Way 11 Orientation	24	1	Continuum_3DObjects_AE.dll
+Delete	12	1	Continuum_3DObjects_AE.dll
+Material Style	24	1	Continuum_3DObjects_AE.dll
+Composition	16	1	Continuum_3DObjects_AE.dll
+Filters	16	1	Continuum_3DObjects_AE.dll
+Window	12	1	Continuum_3DObjects_AE.dll
+Dummy String - No Match	32	1	Continuum_3DObjects_AE.dll
+Premiere Synthetic Importer	40	1	Continuum_3DObjects_AE.dll
+PRM Importer API	20	1	Continuum_3DObjects_AE.dll
+Gradient Style Category	32	1	Continuum_3DObjects_AE.dll
+Spline Style Category	32	1	Continuum_3DObjects_AE.dll
+Natural Style Category	32	1	Continuum_3DObjects_AE.dll
+Font Style Category	24	1	Continuum_3DObjects_AE.dll
+Color Safe Output	24	1	Continuum_3DObjects_AE.dll
+Display Motion Path	24	1	Continuum_3DObjects_AE.dll
+Display Bezier Controls	32	1	Continuum_3DObjects_AE.dll
+Display Shape Controls	32	1	Continuum_3DObjects_AE.dll
+Show Rulers	16	1	Continuum_3DObjects_AE.dll
+Display Source	24	1	Continuum_3DObjects_AE.dll
+Host Preview	16	1	Continuum_3DObjects_AE.dll
+Lock Aspect	16	1	Continuum_3DObjects_AE.dll
+Best Resolution	24	1	Continuum_3DObjects_AE.dll
+Grid Pixel spacing	24	1	Continuum_3DObjects_AE.dll
+Grid Subdivisions	24	1	Continuum_3DObjects_AE.dll
+Guideline Color	24	1	Continuum_3DObjects_AE.dll
+Show Render Time	24	1	Continuum_3DObjects_AE.dll
+Show Transformations	32	1	Continuum_3DObjects_AE.dll
+Show Masks	16	1	Continuum_3DObjects_AE.dll
+Secondary Interpolation	32	1	Continuum_3DObjects_AE.dll
+Text Shape Size Option Float	40	1	Continuum_3DObjects_AE.dll
+Bitmap	8	1	Continuum_3DObjects_AE.dll
+Grayscale	16	1	Continuum_3DObjects_AE.dll
+Indexed Colour	24	1	Continuum_3DObjects_AE.dll
+RGB Colour	16	1	Continuum_3DObjects_AE.dll
+CMYK Colour	16	1	Continuum_3DObjects_AE.dll
+Duotone	16	1	Continuum_3DObjects_AE.dll
+Lab Colour	16	1	Continuum_3DObjects_AE.dll
+RED43D Extruded Image Shatter	40	1	Continuum_3DObjects_AE.dll
+Last Filter	16	1	Continuum_3DObjects_AE.dll
+More Filters	16	1	Continuum_3DObjects_AE.dll
+Volume	8	1	Continuum_3DObjects_AE.dll
+Image Processors	24	1	Continuum_3DObjects_AE.dll
+Generators	16	1	Continuum_3DObjects_AE.dll
+Error Resolving Gasket Plugin Instance	48	1	Continuum_3DObjects_AE.dll
+Error Calling Project Importer Plugin	48	1	Continuum_3DObjects_AE.dll
+Lens Flare Adv	24	1	Continuum_3DObjects_AE.dll
+Lens Flare	16	1	Continuum_3DObjects_AE.dll
+Glint	8	1	Continuum_3DObjects_AE.dll
+Glare	8	1	Continuum_3DObjects_AE.dll
+Glitter	16	1	Continuum_3DObjects_AE.dll
+Polar Displacement	24	1	Continuum_3DObjects_AE.dll
+Vector Displacement	24	1	Continuum_3DObjects_AE.dll
+Film Process	16	1	Continuum_3DObjects_AE.dll
+Jitter Basic	16	1	Continuum_3DObjects_AE.dll
+Looper	8	1	Continuum_3DObjects_AE.dll
+Stabilizer	16	1	Continuum_3DObjects_AE.dll
+Particle Systems II	72	1	Continuum_3DObjects_AE.dll
+RenderSnapshot  Get params	40	1	Continuum_3DObjects_AE.dll
+Custom UI opened	24	1	Continuum_3DObjects_AE.dll
+Top MATERIAL	16	1	Continuum_3DObjects_AE.dll
+Bottom MATERIAL	24	1	Continuum_3DObjects_AE.dll
+Arrow	8	1	Continuum_3DObjects_AE.dll
+Star	8	1	Continuum_3DObjects_AE.dll
+Polygon	12	1	Continuum_3DObjects_AE.dll
+Heart	12	1	Continuum_3DObjects_AE.dll
+Straight	16	1	Continuum_3DObjects_AE.dll
+Convex	16	1	Continuum_3DObjects_AE.dll
+Concave	16	1	Continuum_3DObjects_AE.dll
+Saved Preset	16	1	Continuum_3DObjects_AE.dll
+Premiere Plug-In Error	32	1	Continuum_3DObjects_AE.dll
+Error writing Point Tracker object	48	1	Continuum_3DObjects_AE.dll
+Arial	9	1	Continuum_3DObjects_AE.dll
+Prem	8	1	Continuum_3DObjects_AE.dll
+Vegas	8	1	Continuum_3DObjects_AE.dll
+Kernel	12	1	Continuum_3DObjects_AE.dll
+Boris FX	16	1	Continuum_3DObjects_AE.dll
+Error reading Gasket plugin filter	48	1	Continuum_3DObjects_AE.dll
+Error writing Gasket plugin filter	48	1	Continuum_3DObjects_AE.dll
+Error writing Motion filter	40	1	Continuum_3DObjects_AE.dll
+CubeShape eBuildRS3dScene entering	48	1	Continuum_3DObjects_AE.dll
+CubeShape eBuildRS3dScene leaving	40	1	Continuum_3DObjects_AE.dll
+AE Transform	16	1	Continuum_3DObjects_AE.dll
+No resource string for this error	40	1	Continuum_3DObjects_AE.dll
+Frame	8	1	Continuum_3DObjects_AE.dll
+Param	8	1	Continuum_3DObjects_AE.dll
+Create Oval	19	1	Continuum_3DObjects_AE.dll
+Pen Tool	16	1	Continuum_3DObjects_AE.dll
+Smooth Points	16	1	Continuum_3DObjects_AE.dll
+Cusp Points	16	1	Continuum_3DObjects_AE.dll
+Reverse Points	24	1	Continuum_3DObjects_AE.dll
+Break Curve	16	1	Continuum_3DObjects_AE.dll
+Close Contour	16	1	Continuum_3DObjects_AE.dll
+Smooth Control Points	32	1	Continuum_3DObjects_AE.dll
+Extend Spline	16	1	Continuum_3DObjects_AE.dll
+Deselect Object	24	1	Continuum_3DObjects_AE.dll
+Delete Control Point	32	1	Continuum_3DObjects_AE.dll
+Edit Segment	16	1	Continuum_3DObjects_AE.dll
+Connect Splines	20	1	Continuum_3DObjects_AE.dll
+Project	16	1	Continuum_3DObjects_AE.dll
+Layers	8	1	Continuum_3DObjects_AE.dll
+Select Object	16	1	Continuum_3DObjects_AE.dll
+Deselect All	16	1	Continuum_3DObjects_AE.dll
+Select All	16	1	Continuum_3DObjects_AE.dll
+Goto previous rotospline key	40	1	Continuum_3DObjects_AE.dll
+Goto next rotospline key	32	1	Continuum_3DObjects_AE.dll
+Scissors	16	1	Continuum_3DObjects_AE.dll
+Multi-frame	16	1	Continuum_3DObjects_AE.dll
+Mirror	8	1	Continuum_3DObjects_AE.dll
+Bring to Top	16	1	Continuum_3DObjects_AE.dll
+Send Backward	16	1	Continuum_3DObjects_AE.dll
+Reverse Contour	24	1	Continuum_3DObjects_AE.dll
+Delete Key	16	1	Continuum_3DObjects_AE.dll
+Modes	8	1	Continuum_3DObjects_AE.dll
+Goto previous key	24	1	Continuum_3DObjects_AE.dll
+Goto next key	16	1	Continuum_3DObjects_AE.dll
+Delete key	16	1	Continuum_3DObjects_AE.dll
+Extra Bold	16	1	Continuum_3DObjects_AE.dll
+Extended	16	1	Continuum_3DObjects_AE.dll
+Regular	12	1	Continuum_3DObjects_AE.dll
+Option Change	16	1	Continuum_3DObjects_AE.dll
+One-Sided Plane	20	1	Continuum_3DObjects_AE.dll
+Cube	8	1	Continuum_3DObjects_AE.dll
+Two-Sided Plane	20	1	Continuum_3DObjects_AE.dll
+3D Line Art	16	1	Continuum_3DObjects_AE.dll
+Precomp	12	1	Continuum_3DObjects_AE.dll
+Imported Model	24	1	Continuum_3DObjects_AE.dll
+Procedural	16	1	Continuum_3DObjects_AE.dll
+Environment Map	20	1	Continuum_3DObjects_AE.dll
+Unknown Name	16	1	Continuum_3DObjects_AE.dll
+Parameter	16	1	Continuum_3DObjects_AE.dll
+Ctrl	8	1	Continuum_3DObjects_AE.dll
+Save Shortcuts	24	1	Continuum_3DObjects_AE.dll
+Restore Defaults	24	1	Continuum_3DObjects_AE.dll
+Text files	11	1	Continuum_3DObjects_AE.dll
+Switch to 2D Composite	32	1	Continuum_3DObjects_AE.dll
+Share Project	16	1	Continuum_3DObjects_AE.dll
+Unshare Project	24	1	Continuum_3DObjects_AE.dll
+Switch Project Sharing Option	40	1	Continuum_3DObjects_AE.dll
+Timecode	16	1	Continuum_3DObjects_AE.dll
+Comment	16	1	Continuum_3DObjects_AE.dll
+Boris FX Audio Stream	32	1	Continuum_3DObjects_AE.dll
+Memory is Low-UWindowManager	40	1	Continuum_3DObjects_AE.dll
+Kerning	16	1	Continuum_3DObjects_AE.dll
+Preset000	12	1	Continuum_3DObjects_AE.dll
+Choose Preset	16	1	Continuum_3DObjects_AE.dll
+Extruded EPS	16	1	Continuum_3DObjects_AE.dll
+Bevel Host Path	24	1	Continuum_3DObjects_AE.dll
+Side Host Path	24	1	Continuum_3DObjects_AE.dll
+Extruded Spline	24	1	Continuum_3DObjects_AE.dll
+Extruded Text	16	1	Continuum_3DObjects_AE.dll
+Stretch To Fit	24	1	Continuum_3DObjects_AE.dll
+Top Texture File	24	1	Continuum_3DObjects_AE.dll
+Top Texture Layer	24	1	Continuum_3DObjects_AE.dll
+Top Bump File	16	1	Continuum_3DObjects_AE.dll
+Top Bump Layer	24	1	Continuum_3DObjects_AE.dll
+Bottom Texture File	24	1	Continuum_3DObjects_AE.dll
+Material	16	1	Continuum_3DObjects_AE.dll
+Back Material	16	1	Continuum_3DObjects_AE.dll
+Left Material	16	1	Continuum_3DObjects_AE.dll
+Top Material	16	1	Continuum_3DObjects_AE.dll
+Right Material	24	1	Continuum_3DObjects_AE.dll
+Bottom Material	24	1	Continuum_3DObjects_AE.dll
+Type On Text	16	1	Continuum_3DObjects_AE.dll
+Type Off	16	1	Continuum_3DObjects_AE.dll
+Enable Percent Done Control	40	1	Continuum_3DObjects_AE.dll
+Video Err	16	1	Continuum_3DObjects_AE.dll
+Video 3	16	1	Continuum_3DObjects_AE.dll
+Video 5	16	1	Continuum_3DObjects_AE.dll
+Video 6	16	1	Continuum_3DObjects_AE.dll
+Video 7	16	1	Continuum_3DObjects_AE.dll
+Compression	16	1	Continuum_3DObjects_AE.dll
+Threshholding	16	1	Continuum_3DObjects_AE.dll
+Compression algorithm does not support random access	64	1	Continuum_3DObjects_AE.dll
+Error fetching directory link	38	1	Continuum_3DObjects_AE.dll
+Call not valid for current render state	62	1	Continuum_3DObjects_AE.dll
+Killing XGWorld	24	1	Continuum_3DObjects_AE.dll
+Bogus	8	1	Continuum_3DObjects_AE.dll
+User	8	1	Continuum_3DObjects_AE.dll
+Disabled	12	1	Continuum_3DObjects_AE.dll
+Boris Blue Warning	32	1	Continuum_3DObjects_AE.dll
+Commandline Example	32	1	Continuum_3DObjects_AE.dll
+Logger	12	1	Continuum_3DObjects_AE.dll
+Sky Object	16	1	Continuum_3DObjects_AE.dll
+Sketch & Toon Tag	24	1	Continuum_3DObjects_AE.dll
+Clamp Blend Layer	24	1	Continuum_3DObjects_AE.dll
+Unknown Type	16	1	Continuum_3DObjects_AE.dll
+Fog	8	1	Continuum_3DObjects_AE.dll
+Distort	16	1	Continuum_3DObjects_AE.dll
+Override Folders	24	1	Continuum_3DObjects_AE.dll
+Override Groups	20	1	Continuum_3DObjects_AE.dll
+Corner 2 TR	16	1	Continuum_AE_16Bit.dll
+Corner 3 BR	16	1	Continuum_AE_16Bit.dll
+Corner 4 BL	12	1	Continuum_AE_16Bit.dll
+Corner	10	1	Continuum_AE_16Bit.dll
+BCC3Gaussian Blur	24	1	Continuum_AE_16Bit.dll
+BCC3Linear Luma Key	24	1	Continuum_AE_16Bit.dll
+Top Left	16	1	Continuum_AE_16Bit.dll
+Light Position X	24	1	Continuum_AE_16Bit.dll
+Light Position Y	24	1	Continuum_AE_16Bit.dll
+Light Position Z	24	1	Continuum_AE_16Bit.dll
+3D Particle Memory Allocation Error	36	1	Continuum_AE_16Bit.dll
+Source Center	16	1	Continuum_AE_16Bit.dll
+Polygon Object	16	1	Continuum_AE_16Bit.dll
+2p-v	5	1	Continuum_AE_16Bit.dll
+Alternate Front Faces	24	1	Continuum_AE_8Bit.dll
+Texture Geometrics	20	1	Continuum_AE_8Bit.dll
+BCC3Page Turn	16	1	Continuum_AE_8Bit.dll
+Frame Analysis	16	1	Continuum_AE_8Bit.dll
+Pinch Distance	16	1	Continuum_AE_8Bit.dll
+Multiplier	12	1	Continuum_AE_8Bit.dll
+BCC3Lens Flare Adv	24	1	Continuum_AE_8Bit.dll
+Spline Mask	24	1	Continuum_AE_8Bit.dll
+Flicker Bias	16	1	Continuum_AE_8Bit.dll
+Shake Ease In	16	1	Continuum_AE_8Bit.dll
+Region Corner 1	16	1	Continuum_AE_8Bit.dll
+Region Corner 2	16	1	Continuum_AE_8Bit.dll
+Edge Strength	16	1	Continuum_AE_8Bit.dll
+Anchor Pan	16	1	Continuum_AE_8Bit.dll
+None Selected	16	1	Continuum_AE_8Bit.dll
+Orbit	8	1	Continuum_AE_8Bit.dll
+Free Rotation	16	1	Continuum_AE_8Bit.dll
+Point To Target	16	1	Continuum_AE_8Bit.dll
+Point To Object	16	1	Continuum_AE_8Bit.dll
+Direction X	16	1	Continuum_AE_8Bit.dll
+Direction Y	16	1	Continuum_AE_8Bit.dll
+Direction Z	12	1	Continuum_AE_8Bit.dll
+Randomness	16	1	Continuum_AE_8Bit.dll
+Break Particles	16	1	Continuum_AE_8Bit.dll
+New Scene Group	16	1	Continuum_AE_8Bit.dll
+8  Bit	8	1	Continuum_AE_8Bit.dll
+2Phr	5	1	Continuum_AE_8Bit.dll
+Win	8	1	Continuum_AE_Float.dll
+Click To Add	16	1	Continuum_AE_Float.dll
+Control	8	1	Continuum_AE_Float.dll
+Select Host Mask	24	1	Continuum_AE_Float.dll
+Color Gradient	16	1	Continuum_AE_Float.dll
+PC Intensity PixelChooser Legacy	40	1	Continuum_AE_Float.dll
+Point 2 PixelChooser Legacy	28	1	Continuum_AE_Float.dll
+Region Blend PixelChooser Legacy	40	1	Continuum_AE_Float.dll
+Type PixelChooser Legacy	32	1	Continuum_AE_Float.dll
+Brick	12	1	Continuum_AE_Float.dll
+Extras	12	1	Continuum_AE_Float.dll
+Lock to Position	24	1	Continuum_AE_Float.dll
+BCC32D Particles	24	1	Continuum_AE_Float.dll
+Vertical Perspective	24	1	Continuum_AE_Float.dll
+Horizontal Perspective	24	1	Continuum_AE_Float.dll
+Pan	8	1	Continuum_AE_Float.dll
+BCC3Levels Gamma	24	1	Continuum_AE_Float.dll
+BCC3Correct Selected Color	32	1	Continuum_AE_Float.dll
+BCC3RGB Blend	16	1	Continuum_AE_Float.dll
+Choke Mode	16	1	Continuum_AE_Float.dll
+Diffusion	14	1	Continuum_AE_Float.dll
+Red Density	16	1	Continuum_AE_Float.dll
+Blue-Green Intensity	24	1	Continuum_AE_Float.dll
+Cartoon Thickness	24	1	Continuum_AE_Float.dll
+BCC3Rays Puffy	16	1	Continuum_AE_Float.dll
+BCC3Alpha Pixel Noise	24	1	Continuum_AE_Float.dll
+BCC3Rough Glow	16	1	Continuum_AE_Float.dll
+BCC3Film Process	20	1	Continuum_AE_Float.dll
+Skip	10	1	Continuum_AE_Float.dll
+BCC6Charcoal Sketch	22	1	Continuum_AE_Float.dll
+Soften Method	16	1	Continuum_AE_Float.dll
+Comp Light	16	1	Continuum_AE_Float.dll
+Particles per Ring	24	1	Continuum_AE_Float.dll
+Rings per Layer	16	1	Continuum_AE_Float.dll
+Layer Count	16	1	Continuum_AE_Float.dll
+Particle Emitter Texture	32	1	Continuum_AE_Float.dll
+EMITTER Pos XY	16	1	Continuum_AE_Float.dll
+BCC4Tile Mosaic	16	1	Continuum_AE_Float.dll
+BCC3Alpha Process	24	1	Continuum_AE_Float.dll
+BCC3Linear Color Key	32	1	Continuum_AE_Float.dll
+BCC3Light Matte	16	1	Continuum_AE_Float.dll
+BCC3Make Alpha Key	24	1	Continuum_AE_Float.dll
+Alpha Source Layer	24	1	Continuum_AE_Float.dll
+BCC3Pixel Chooser	32	1	Continuum_AE_Float.dll
+EndPoint 2	16	1	Continuum_AE_Float.dll
+Mocha Mask	16	1	Continuum_AE_Float.dll
+BCC3Reverse Spotlight	24	1	Continuum_AE_Float.dll
+Zoom Rot Center	16	1	Continuum_AE_Float.dll
+Background image	20	1	Continuum_AE_Float.dll
+Mask image	12	1	Continuum_AE_Float.dll
+Destination image	24	1	Continuum_AE_Float.dll
+Crossfade End Colors	24	1	Continuum_AE_Float.dll
+DS Result	16	1	Continuum_AE_Float.dll
+UP Result	16	1	Continuum_AE_Float.dll
+Cineware Saver	24	1	Continuum_AE_Float.dll
+2 tn	5	1	Continuum_AE_Float.dll
+Re-checkout UNIT license SUCCESS post health check	56	1	Continuum_Common_AE.dll
+Startup	8	1	Continuum_Common_AE.dll
+Create	8	1	Continuum_Common_AE.dll
+After Effects	16	1	Continuum_Common_AE.dll
+Windows	8	1	Continuum_Common_AE.dll
+No error	16	1	Continuum_Common_AE.dll
+Invalid segment	16	1	Continuum_Common_AE.dll
+Timeout	8	1	Continuum_Common_AE.dll
+Retry	8	1	Continuum_Common_AE.dll
+Message too large	24	1	Continuum_Common_AE.dll
+No Program for Uniform Variable	32	1	Continuum_Common_AE.dll
+No Location for Uniform Variable	40	1	Continuum_Common_AE.dll
+Unsupported model	24	1	Continuum_Common_AE.dll
+Insufficient texture memory	32	1	Continuum_Common_AE.dll
+Unknown interlace method in IHDR	40	1	Continuum_Common_AE.dll
+MNG features are not allowed in a PNG datastream	56	1	Continuum_Common_AE.dll
+Invalid attempt to read row data	40	1	Continuum_Common_AE.dll

@@ -1,0 +1,33 @@
+# 本仓库只放源码 / 数据 / 文档。
+# 若在本目录跑脚本，会产生下面这些临时产物，一律不入库。
+
+# ---- Python 缓存 ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.venv/
+venv/
+
+# ---- 脚本运行时的输出（日志 / 中间产物）----
+_work/*.log
+_work/build*/
+_work/dist*/
+_work/patched_dll*/
+_work/patched_aex*/
+_work/pyinstaller_stage*/
+
+# ---- 编辑器 / 系统 ----
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+*~
+
+# ---- 绝不入库：任何厂家二进制 ----
+# 本项目不分发 BorisFX / Adobe 的文件。
+# 如果你在本地生成了成品，请勿提交：
+*.dll
+*.aex
+*.exe

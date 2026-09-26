@@ -1,0 +1,5858 @@
+{
+ "Ambient Light.aex": {
+  "names": [
+   [
+    " BCC+Ambient Light",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Lights"
+  ]
+ },
+ "Atmospheric Glow Dissolve.aex": {
+  "names": [
+   [
+    " BCC+Atmospheric Glow Dissolve",
+    32,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "Atmospheric Glow.aex": {
+  "names": [
+   [
+    " BCC+Atmospheric Glow",
+    24,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Film Style"
+  ]
+ },
+ "Audio Visualizer.aex": {
+  "names": [
+   [
+    " BCC+Audio Visualizer",
+    24,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Time"
+  ]
+ },
+ "BCC3WayColorGrade.aex": {
+  "names": [
+   [
+    "BCC 3 Way Color Grade",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Color & Tone"
+  ]
+ },
+ "BCC3dImageShatter.aex": {
+  "names": [
+   [
+    "BCC 3D Image Shatter",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Perspective"
+  ]
+ },
+ "BCCAdvancedComposite.aex": {
+  "names": [
+   [
+    "BCC Composite",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Key & Blend"
+  ]
+ },
+ "BCCAlphaPixelNoise.aex": {
+  "names": [
+   [
+    "BCC Alpha Pixel Noise OBS",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCAlphaProcess.aex": {
+  "names": [
+   [
+    "BCC Alpha Process",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Key & Blend"
+  ]
+ },
+ "BCCAlphaSpotlight.aex": {
+  "names": [
+   [
+    "BCC Alpha Spotlight OBS",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCArtistsPoster.aex": {
+  "names": [
+   [
+    "BCC Artist's Poster",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Art Looks"
+  ]
+ },
+ "BCCBeatReactor.aex": {
+  "names": [
+   [
+    "BCC Beat Reactor",
+    32,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Time"
+  ]
+ },
+ "BCCBeautyStudio.aex": {
+  "names": [
+   [
+    "BCC Beauty Studio OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCBlobsWipe.aex": {
+  "names": [
+   [
+    "BCC Blobs Wipe",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCBlobsWipePrTr.aex": {
+  "names": [
+   [
+    "BCC Blobs Wipe",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCBlur.aex": {
+  "names": [
+   [
+    "BCC Blur",
+    12,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCBlur4.aex": {
+  "names": [
+   [
+    "BCC VR Blur",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC VR"
+  ]
+ },
+ "BCCBlurDissolve.aex": {
+  "names": [
+   [
+    "BCC Blur Dissolve OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCBlurDissolvePrTr.aex": {
+  "names": [
+   [
+    "BCC Blur Dissolve OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCBoostBlend.aex": {
+  "names": [
+   [
+    "BCC Boost Blend OBS",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCBrightnessContrast.aex": {
+  "names": [
+   [
+    "BCC Brightness-Contrast",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Color & Tone"
+  ]
+ },
+ "BCCBroadcastSafe.aex": {
+  "names": [
+   [
+    "BCC Broadcast Safe",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Image Restoration"
+  ]
+ },
+ "BCCBulge.aex": {
+  "names": [
+   [
+    "BCC Bulge",
+    12,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Warp"
+  ]
+ },
+ "BCCBumpBrick.aex": {
+  "names": [
+   [
+    "BCC Brick OBSOLETE",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCBumpMap.aex": {
+  "names": [
+   [
+    "BCC Bump Map",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Art Looks"
+  ]
+ },
+ "BCCBumpRock.aex": {
+  "names": [
+   [
+    "BCC Rock OBSOLETE",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCBurntFilm.aex": {
+  "names": [
+   [
+    "BCC Burnt Film",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCBurntFilmPrTr.aex": {
+  "names": [
+   [
+    "BCC Burnt Film",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCCardArray.aex": {
+  "names": [
+   [
+    "BCC Wild Cards",
+    32,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Particles"
+  ]
+ },
+ "BCCCartoonLight.aex": {
+  "names": [
+   [
+    "BCC Rays Cartoon OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCCartoonLook.aex": {
+  "names": [
+   [
+    "BCC Cartoon Look",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Art Looks"
+  ]
+ },
+ "BCCCartooner.aex": {
+  "names": [
+   [
+    "BCC Cartooner",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Art Looks"
+  ]
+ },
+ "BCCCaustics.aex": {
+  "names": [
+   [
+    "BCC Caustics",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Textures"
+  ]
+ },
+ "BCCCheckerWipe.aex": {
+  "names": [
+   [
+    "BCC Checker Wipe",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCCheckerWipePrTr.aex": {
+  "names": [
+   [
+    "BCC Checker Wipe",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCChromaKey.aex": {
+  "names": [
+   [
+    "BCC Chroma Key",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Key & Blend"
+  ]
+ },
+ "BCCChromaKeyStudio.aex": {
+  "names": [
+   [
+    "BCC Chroma Key Studio",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Key & Blend"
+  ]
+ },
+ "BCCCloth.aex": {
+  "names": [
+   [
+    "BCC Cloth OBSOLETE",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCClouds.aex": {
+  "names": [
+   [
+    "BCC Clouds OBSOLETE",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCColorBalance.aex": {
+  "names": [
+   [
+    "BCC Color Balance",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Color & Tone"
+  ]
+ },
+ "BCCColorChoker.aex": {
+  "names": [
+   [
+    "BCC Color Choker",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Stylize"
+  ]
+ },
+ "BCCColorCorrection.aex": {
+  "names": [
+   [
+    "BCC Color Correction",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Color & Tone"
+  ]
+ },
+ "BCCColorMatch.aex": {
+  "names": [
+   [
+    "BCC Color Match",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Color & Tone"
+  ]
+ },
+ "BCCColorPalette.aex": {
+  "names": [
+   [
+    "BCC Color Palette OBS",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCColorize.aex": {
+  "names": [
+   [
+    "BCC Colorize",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Color & Tone"
+  ]
+ },
+ "BCCColorizeGlow.aex": {
+  "names": [
+   [
+    "BCC Colorize Glow",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Stylize"
+  ]
+ },
+ "BCCColorizeGlowDissolve.aex": {
+  "names": [
+   [
+    "BCC Colorize Glow Dissolve",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCColorizeGlowDissolvePrTr.aex": {
+  "names": [
+   [
+    "BCC Colorize Glow Dissolve",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCComet.aex": {
+  "names": [
+   [
+    "BCC Comet OBSOLETE",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCCompositeChoker.aex": {
+  "names": [
+   [
+    "BCC Composite Choker",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Key & Blend"
+  ]
+ },
+ "BCCCompositeDissolve.aex": {
+  "names": [
+   [
+    "BCC Composite Dissolve",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCCompositeDissolvePrTr.aex": {
+  "names": [
+   [
+    "BCC Composite Dissolve",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCCornerPin.aex": {
+  "names": [
+   [
+    "BCC Corner Pin OBS",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCCornerPinStudio.aex": {
+  "names": [
+   [
+    "BCC Corner Pin Studio",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Match Move"
+  ]
+ },
+ "BCCCorrectSelected.aex": {
+  "names": [
+   [
+    "BCC Correct Selected Color",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Color & Tone"
+  ]
+ },
+ "BCCCrashZoomDissolve.aex": {
+  "names": [
+   [
+    "BCC Crash Zoom Dissolve OBSOLETE",
+    36,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCCrashZoomDissolvePrTr.aex": {
+  "names": [
+   [
+    "BCC Crash Zoom Dissolve OBSOLETE",
+    36,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCCrissCrossWipe.aex": {
+  "names": [
+   [
+    "BCC Criss-Cross Wipe",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCCrissCrossWipePrTr.aex": {
+  "names": [
+   [
+    "BCC Criss-Cross Wipe",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCCrossGlitch.aex": {
+  "names": [
+   [
+    "BCC Cross Glitch OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCCrossGlitchPrTr.aex": {
+  "names": [
+   [
+    "BCC Cross Glitch OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCCrossMelt.aex": {
+  "names": [
+   [
+    "BCC Cross Melt",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCCrossMeltPrTr.aex": {
+  "names": [
+   [
+    "BCC Cross Melt",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCCrossZoom.aex": {
+  "names": [
+   [
+    "BCC Cross Zoom OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCCrossZoomPrTr.aex": {
+  "names": [
+   [
+    "BCC Cross Zoom OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCCube.aex": {
+  "names": [
+   [
+    "BCC Cube",
+    12,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Perspective"
+  ]
+ },
+ "BCCCurl.aex": {
+  "names": [
+   [
+    "BCC Curl",
+    12,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Warp"
+  ]
+ },
+ "BCCCurlDissolve.aex": {
+  "names": [
+   [
+    "BCC Curl Dissolve",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCCurlDissolvePrTr.aex": {
+  "names": [
+   [
+    "BCC Curl Dissolve",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCCylinder.aex": {
+  "names": [
+   [
+    "BCC Cylinder",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Perspective"
+  ]
+ },
+ "BCCDVE.aex": {
+  "names": [
+   [
+    "BCC DVE OBSOLETE",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCDVEBasic.aex": {
+  "names": [
+   [
+    "BCC DVE Basic OBSOLETE",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCDVFixer.aex": {
+  "names": [
+   [
+    "BCC DV Fixer OBSOLETE",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCDamageTV.aex": {
+  "names": [
+   [
+    "BCC Damaged TV",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Stylize"
+  ]
+ },
+ "BCCDamagedTVDissolve.aex": {
+  "names": [
+   [
+    "BCC Damaged TV Dissolve",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCDamagedTVDissolvePrTr.aex": {
+  "names": [
+   [
+    "BCC Damaged TV Dissolve",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCDeInterlace.aex": {
+  "names": [
+   [
+    "BCC Deinterlace",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Film Style"
+  ]
+ },
+ "BCCDeNoise.aex": {
+  "names": [
+   [
+    "BCC DeNoise OBS",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCDegrain.aex": {
+  "names": [
+   [
+    "BCC DeGrain OBS",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCDirectionalBlur.aex": {
+  "names": [
+   [
+    "BCC Directional Blur OBSOLETE",
+    32,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCDisplacementMap.aex": {
+  "names": [
+   [
+    "BCC Displacement Map",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Warp"
+  ]
+ },
+ "BCCDropShadow.aex": {
+  "names": [
+   [
+    "BCC Drop Shadow",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Stylize"
+  ]
+ },
+ "BCCDropoutFixer.aex": {
+  "names": [
+   [
+    "BCC Dropout Fixer",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Image Restoration"
+  ]
+ },
+ "BCCDustnScratches.aex": {
+  "names": [
+   [
+    "BCC Dust and Scratches",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Image Restoration"
+  ]
+ },
+ "BCCEdgeCleaner.aex": {
+  "names": [
+   [
+    "BCC Edge Cleaner OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCEdgeGrunge.aex": {
+  "names": [
+   [
+    "BCC Edge Grunge",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Stylize"
+  ]
+ },
+ "BCCEdgeLighting.aex": {
+  "names": [
+   [
+    "BCC Edge Lighting",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Lights"
+  ]
+ },
+ "BCCEmboss.aex": {
+  "names": [
+   [
+    "BCC Emboss",
+    12,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Stylize"
+  ]
+ },
+ "BCCExtrudedEPS.aex": {
+  "names": [
+   [
+    "BCC Extruded EPS",
+    24,
+    23870
+   ]
+  ],
+  "catgs": [
+   "BCC 3D Objects"
+  ]
+ },
+ "BCCExtrudedSpline.aex": {
+  "names": [
+   [
+    "BCC Extruded Spline",
+    24,
+    23870
+   ]
+  ],
+  "catgs": [
+   "BCC 3D Objects"
+  ]
+ },
+ "BCCExtrudedText.aex": {
+  "names": [
+   [
+    "BCC Extruded Text",
+    24,
+    31038
+   ]
+  ],
+  "catgs": [
+   "BCC 3D Objects"
+  ]
+ },
+ "BCCFXBrowser.aex": {
+  "names": [
+   [
+    "BCC FX Browser",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Browser"
+  ]
+ },
+ "BCCFastBlur.aex": {
+  "names": [
+   [
+    "BCC Pyramid Blur OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCFastFilmGlow.aex": {
+  "names": [
+   [
+    "BCC Fast Film Glow OBSOLETE",
+    32,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCFastFilmGlowDissolve.aex": {
+  "names": [
+   [
+    "BCC Fast Film Glow Dissolve OBSOLETE",
+    40,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCFastFilmGlowDissolvePrTr.aex": {
+  "names": [
+   [
+    "BCC Fast Film Glow Dissolve OBSOLETE",
+    40,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCFastFilmProcess.aex": {
+  "names": [
+   [
+    "BCC Fast Film Process OBSOLETE",
+    32,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCFastFlipper.aex": {
+  "names": [
+   [
+    "BCC Fast Flipper",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Perspective"
+  ]
+ },
+ "BCCFastLensBlur.aex": {
+  "names": [
+   [
+    "BCC Fast Lens Blur OBSOLETE",
+    32,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCFilmDamage.aex": {
+  "names": [
+   [
+    "BCC Film Damage OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCFilmGlow.aex": {
+  "names": [
+   [
+    "BCC Film Glow OBS",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCFilmGlowDissolve.aex": {
+  "names": [
+   [
+    "BCC Film Glow Dissolve OBS",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCFilmGlowDissolvePrTr.aex": {
+  "names": [
+   [
+    "BCC Film Glow Dissolve OBS",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCFilmGrain.aex": {
+  "names": [
+   [
+    "BCC Film Grain OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCFilmProcess.aex": {
+  "names": [
+   [
+    "BCC Film Process OBS",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCFire.aex": {
+  "names": [
+   [
+    "BCC Fire OBS",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCFlickerFixer.aex": {
+  "names": [
+   [
+    "BCC Flicker Fixer",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Image Restoration"
+  ]
+ },
+ "BCCFlutterCut.aex": {
+  "names": [
+   [
+    "BCC Flutter Cut OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCFlutterCutPrTr.aex": {
+  "names": [
+   [
+    "BCC Flutter Cut OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCFractalNoise.aex": {
+  "names": [
+   [
+    "BCC Fractal Noise OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCGLImageShatter.aex": {
+  "names": [
+   [
+    "BCC 3D Extruded Image Shatter",
+    32,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Perspective"
+  ]
+ },
+ "BCCGaussianBlur.aex": {
+  "names": [
+   [
+    "BCC Gaussian Blur OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCGlare.aex": {
+  "names": [
+   [
+    "BCC Glare OBSOLETE",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCGlint.aex": {
+  "names": [
+   [
+    "BCC Glint OBSOLETE",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCGlitter.aex": {
+  "names": [
+   [
+    "BCC Glitter OBSOLETE",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCGlow2.aex": {
+  "names": [
+   [
+    "BCC Glow OBS",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCGlowEdges.aex": {
+  "names": [
+   [
+    "BCC Glow Alpha Edges",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Stylize"
+  ]
+ },
+ "BCCGlowMatte.aex": {
+  "names": [
+   [
+    "BCC Glow Matte OBS",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCGranite.aex": {
+  "names": [
+   [
+    "BCC Granite OBSOLETE",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCGridWipe.aex": {
+  "names": [
+   [
+    "BCC Grid Wipe",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCGridWipePrTr.aex": {
+  "names": [
+   [
+    "BCC Grid Wipe",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCGrunge.aex": {
+  "names": [
+   [
+    "BCC Grunge",
+    12,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Stylize"
+  ]
+ },
+ "BCCHLS.aex": {
+  "names": [
+   [
+    "BCC Hue-Sat-Lightness",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Color & Tone"
+  ]
+ },
+ "BCCHalftone.aex": {
+  "names": [
+   [
+    "BCC Halftone",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Art Looks"
+  ]
+ },
+ "BCCInvert.aex": {
+  "names": [
+   [
+    "BCC Invert Solarize",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Color & Tone"
+  ]
+ },
+ "BCCJitter.aex": {
+  "names": [
+   [
+    "BCC Jitter",
+    12,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Time"
+  ]
+ },
+ "BCCJitterBasic.aex": {
+  "names": [
+   [
+    "BCC Jitter Basic",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Time"
+  ]
+ },
+ "BCCKaleidaDissolve.aex": {
+  "names": [
+   [
+    "BCC Kaleida Dissolve",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCKaleidaDissolvePrTr.aex": {
+  "names": [
+   [
+    "BCC Kaleida Dissolve",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCLED.aex": {
+  "names": [
+   [
+    "BCC LED OBSOLETE",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCLaserBeam.aex": {
+  "names": [
+   [
+    "BCC Laser Beam",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Lights"
+  ]
+ },
+ "BCCLayerDeformer.aex": {
+  "names": [
+   [
+    "BCC Layer Deformer",
+    24,
+    23870
+   ]
+  ],
+  "catgs": [
+   "BCC 3D Objects"
+  ]
+ },
+ "BCCLensBlur.aex": {
+  "names": [
+   [
+    "BCC Lens Blur OBS",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCLensBlurDissolve.aex": {
+  "names": [
+   [
+    "BCC Lens Blur Dissolve",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCLensBlurDissolvePrTr.aex": {
+  "names": [
+   [
+    "BCC Lens Blur Dissolve",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCLensComp.aex": {
+  "names": [
+   [
+    "BCC Lens Correction",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Image Restoration"
+  ]
+ },
+ "BCCLensDistortionWipe.aex": {
+  "names": [
+   [
+    "BCC Lens Distortion Wipe",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCLensDistortionWipePrTr.aex": {
+  "names": [
+   [
+    "BCC Lens Distortion Wipe",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCLensFlare.aex": {
+  "names": [
+   [
+    "BCC Lens Flare Adv OBS",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCLensFlare3D.aex": {
+  "names": [
+   [
+    "BCC Lens Flare 3D",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Lights"
+  ]
+ },
+ "BCCLensFlareDissolve.aex": {
+  "names": [
+   [
+    "BCC Lens Flare Dissolve",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCLensFlareDissolvePrTr.aex": {
+  "names": [
+   [
+    "BCC Lens Flare Dissolve",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCLensFlareRound.aex": {
+  "names": [
+   [
+    "BCC Lens Flare Round",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCLensFlareRoundPrTr.aex": {
+  "names": [
+   [
+    "BCC Lens Flare Round",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCLensFlareSpiked.aex": {
+  "names": [
+   [
+    "BCC Lens Flare Spiked",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCLensFlareSpikedPrTr.aex": {
+  "names": [
+   [
+    "BCC Lens Flare Spiked",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCLensFlash.aex": {
+  "names": [
+   [
+    "BCC Lens Flash",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCLensFlashPrTr.aex": {
+  "names": [
+   [
+    "BCC Lens Flash",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCLensShape.aex": {
+  "names": [
+   [
+    "BCC Lens Shape",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Blur"
+  ]
+ },
+ "BCCLensTransition.aex": {
+  "names": [
+   [
+    "BCC Lens Transition OBS",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCLensTransitionPrTr.aex": {
+  "names": [
+   [
+    "BCC Lens Transition OBS",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCLevels.aex": {
+  "names": [
+   [
+    "BCC Levels Gamma",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Color & Tone"
+  ]
+ },
+ "BCCLightLeaks.aex": {
+  "names": [
+   [
+    "BCC Light Leaks OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCLightLeaksDissolve.aex": {
+  "names": [
+   [
+    "BCC Light Leaks Dissolve OBSOLETE",
+    36,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCLightLeaksDissolvePrTr.aex": {
+  "names": [
+   [
+    "BCC Light Leaks Dissolve OBSOLETE",
+    36,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCLightMatte.aex": {
+  "names": [
+   [
+    "BCC Light Matte OBS",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCLightSweep.aex": {
+  "names": [
+   [
+    "BCC Light Sweep",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Lights"
+  ]
+ },
+ "BCCLightWipe.aex": {
+  "names": [
+   [
+    "BCC Light Wipe",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCLightWipePrTr.aex": {
+  "names": [
+   [
+    "BCC Light Wipe",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCLightWrap.aex": {
+  "names": [
+   [
+    "BCC Light Wrap OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCLightZoom.aex": {
+  "names": [
+   [
+    "BCC Light Zoom OBS",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCLightning.aex": {
+  "names": [
+   [
+    "BCC Lightning",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Lights"
+  ]
+ },
+ "BCCLinearColorKey.aex": {
+  "names": [
+   [
+    "BCC Linear Color Key OBSOLETE",
+    32,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCLinearLumaKey.aex": {
+  "names": [
+   [
+    "BCC Linear Luma Key OBSOLETE",
+    32,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCLinearWipe.aex": {
+  "names": [
+   [
+    "BCC Linear Wipe OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCLinearWipePrTr.aex": {
+  "names": [
+   [
+    "BCC Linear Wipe OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCLooper.aex": {
+  "names": [
+   [
+    "BCC Looper",
+    12,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Time"
+  ]
+ },
+ "BCCMagicSharp.aex": {
+  "names": [
+   [
+    "BCC Magic Sharp OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCMakeAlpha.aex": {
+  "names": [
+   [
+    "BCC Make Alpha Key",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Key & Blend"
+  ]
+ },
+ "BCCMatchGrain.aex": {
+  "names": [
+   [
+    "BCC Match Grain",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Film Style"
+  ]
+ },
+ "BCCMatchMove.aex": {
+  "names": [
+   [
+    "BCC Match Move",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Match Move"
+  ]
+ },
+ "BCCMatteChoker.aex": {
+  "names": [
+   [
+    "BCC Matte Choker",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Key & Blend"
+  ]
+ },
+ "BCCMatteCleanup.aex": {
+  "names": [
+   [
+    "BCC Matte Cleanup",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Key & Blend"
+  ]
+ },
+ "BCCMedian.aex": {
+  "names": [
+   [
+    "BCC Median",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Art Looks"
+  ]
+ },
+ "BCCMisalignment.aex": {
+  "names": [
+   [
+    "BCC Misalignment",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Stylize"
+  ]
+ },
+ "BCCMixedColors.aex": {
+  "names": [
+   [
+    "BCC Mixed Colors",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Textures"
+  ]
+ },
+ "BCCMorphing.aex": {
+  "names": [
+   [
+    "BCC Morph",
+    12,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Warp"
+  ]
+ },
+ "BCCMosaic.aex": {
+  "names": [
+   [
+    "BCC Mosaic OBSOLETE",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCMotionBlur.aex": {
+  "names": [
+   [
+    "BCC Motion Blur OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCMotionKey.aex": {
+  "names": [
+   [
+    "BCC Motion Key OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCMultiShadow.aex": {
+  "names": [
+   [
+    "BCC Multi Shadow",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Stylize"
+  ]
+ },
+ "BCCMultiStretchWipe.aex": {
+  "names": [
+   [
+    "BCC Multi Stretch Wipe",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCMultiStretchWipePrTr.aex": {
+  "names": [
+   [
+    "BCC Multi Stretch Wipe",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCMultiStripeWipe.aex": {
+  "names": [
+   [
+    "BCC Multi Stripe Wipe",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCMultiStripeWipePrTr.aex": {
+  "names": [
+   [
+    "BCC Multi Stripe Wipe",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCMultitone.aex": {
+  "names": [
+   [
+    "BCC MultiTone Mix",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Color & Tone"
+  ]
+ },
+ "BCCNoiseMap.aex": {
+  "names": [
+   [
+    "BCC Noise Map OBS",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCNoiseMap2.aex": {
+  "names": [
+   [
+    "BCC Noise Map 2",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Textures"
+  ]
+ },
+ "BCCNoiseReduction.aex": {
+  "names": [
+   [
+    "BCC Noise Reduction OBSOLETE",
+    32,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCOpticalFlowRemap.aex": {
+  "names": [
+   [
+    "BCC Optical Flow OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCOrganicStrands.aex": {
+  "names": [
+   [
+    "BCC Organic Strands",
+    32,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Particles"
+  ]
+ },
+ "BCCPageTurn.aex": {
+  "names": [
+   [
+    "BCC Page Turn",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Perspective"
+  ]
+ },
+ "BCCPanAndZoom.aex": {
+  "names": [
+   [
+    "BCC Pan and Zoom",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Perspective"
+  ]
+ },
+ "BCCParticleArray.aex": {
+  "names": [
+   [
+    "BCC Particle Array 3D",
+    32,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Particles"
+  ]
+ },
+ "BCCParticleEmitter.aex": {
+  "names": [
+   [
+    "BCC Particle Emitter 3D",
+    32,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Particles"
+  ]
+ },
+ "BCCParticleIllusion.aex": {
+  "names": [
+   [
+    "BCC Particle Illusion",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Particles"
+  ]
+ },
+ "BCCParticleIllusionDissolve.aex": {
+  "names": [
+   [
+    "BCC Particle Illusion Dissolve",
+    32,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCParticleIllusionDissolvePrTr.aex": {
+  "names": [
+   [
+    "BCC Particle Illusion Dissolve",
+    32,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCParticleSystem.aex": {
+  "names": [
+   [
+    "BCC Particle System OBSOLETE",
+    32,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCPinArt.aex": {
+  "names": [
+   [
+    "BCC Pin Art 3D",
+    32,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Particles"
+  ]
+ },
+ "BCCPixelChooser.aex": {
+  "names": [
+   [
+    "BCC Pixel Chooser OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCPixelFixer.aex": {
+  "names": [
+   [
+    "BCC Pixel Fixer",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Image Restoration"
+  ]
+ },
+ "BCCPolarDisplacement.aex": {
+  "names": [
+   [
+    "BCC Polar Displacement",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Warp"
+  ]
+ },
+ "BCCPosterize.aex": {
+  "names": [
+   [
+    "BCC Posterize",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Art Looks"
+  ]
+ },
+ "BCCPosterizeTime.aex": {
+  "names": [
+   [
+    "BCC Posterize Time",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Time"
+  ]
+ },
+ "BCCPremultiply.aex": {
+  "names": [
+   [
+    "BCC Premult",
+    12,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Key & Blend"
+  ]
+ },
+ "BCCPrimatteStudio.aex": {
+  "names": [
+   [
+    "BCC Primatte Studio OBSOLETE",
+    32,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCPrism.aex": {
+  "names": [
+   [
+    "BCC Prism OBSOLETE",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCPrismDissolve.aex": {
+  "names": [
+   [
+    "BCC Prism Dissolve OBSOLETE",
+    32,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCPrismDissolvePrTr.aex": {
+  "names": [
+   [
+    "BCC Prism Dissolve OBSOLETE",
+    32,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCPuffyLight.aex": {
+  "names": [
+   [
+    "BCC Rays Puffy",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Lights"
+  ]
+ },
+ "BCCRGBBlend.aex": {
+  "names": [
+   [
+    "BCC RGB Blend",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Key & Blend"
+  ]
+ },
+ "BCCRGBBlurDissolve.aex": {
+  "names": [
+   [
+    "BCC RGB Blur Dissolve OBSOLETE",
+    32,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCRGBBlurDissolvePrTr.aex": {
+  "names": [
+   [
+    "BCC RGB Blur Dissolve OBSOLETE",
+    32,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCRGBDisplacementDissolve.aex": {
+  "names": [
+   [
+    "BCC RGB Displacement Dissolve",
+    32,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCRGBDisplacementDissolvePrTr.aex": {
+  "names": [
+   [
+    "BCC RGB Displacement Dissolve",
+    32,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCRGBEdges.aex": {
+  "names": [
+   [
+    "BCC RGB Edges",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Stylize"
+  ]
+ },
+ "BCCRGBPixelNoise.aex": {
+  "names": [
+   [
+    "BCC RGB Pixel Noise",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Stylize"
+  ]
+ },
+ "BCCRadialBlur.aex": {
+  "names": [
+   [
+    "BCC Radial Blur OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCRadialSpotlight.aex": {
+  "names": [
+   [
+    "BCC Rays Radiant Spotlight OBSOLETE",
+    40,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCRadialWipe.aex": {
+  "names": [
+   [
+    "BCC Radial Wipe OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCRadialWipePrTr.aex": {
+  "names": [
+   [
+    "BCC Radial Wipe OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCRadiantEdges.aex": {
+  "names": [
+   [
+    "BCC Rays Radiant Edges",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Lights"
+  ]
+ },
+ "BCCRain.aex": {
+  "names": [
+   [
+    "BCC Rain",
+    12,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Particles"
+  ]
+ },
+ "BCCRays.aex": {
+  "names": [
+   [
+    "BCC Rays OBSOLETE",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCRaysDissolve.aex": {
+  "names": [
+   [
+    "BCC Rays Dissolve OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCRaysDissolvePrTr.aex": {
+  "names": [
+   [
+    "BCC Rays Dissolve OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCRectangularWipe.aex": {
+  "names": [
+   [
+    "BCC Rectangular Wipe OBSOLETE",
+    32,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCRectangularWipePrTr.aex": {
+  "names": [
+   [
+    "BCC Rectangular Wipe OBSOLETE",
+    32,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCReflectionImage.aex": {
+  "names": [
+   [
+    "BCC Reflection",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Stylize"
+  ]
+ },
+ "BCCReframer.aex": {
+  "names": [
+   [
+    "BCC Reframer",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Image Restoration"
+  ]
+ },
+ "BCCRemover.aex": {
+  "names": [
+   [
+    "BCC Remover",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Image Restoration"
+  ]
+ },
+ "BCCReorient.aex": {
+  "names": [
+   [
+    "BCC VR Reorient",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC VR"
+  ]
+ },
+ "BCCReptilian.aex": {
+  "names": [
+   [
+    "BCC Reptilian OBSOLETE",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCReverseSpotlight.aex": {
+  "names": [
+   [
+    "BCC Reverse Spotlight",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Lights"
+  ]
+ },
+ "BCCRibbonWipe.aex": {
+  "names": [
+   [
+    "BCC Ribbon Wipe",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCRibbonWipePrTr.aex": {
+  "names": [
+   [
+    "BCC Ribbon Wipe",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCRingLight.aex": {
+  "names": [
+   [
+    "BCC Rays Ring OBSOLETE",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCRingsWipe.aex": {
+  "names": [
+   [
+    "BCC Rings Wipe",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCRingsWipePrTr.aex": {
+  "names": [
+   [
+    "BCC Rings Wipe",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCRipple.aex": {
+  "names": [
+   [
+    "BCC Ripple",
+    12,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Warp"
+  ]
+ },
+ "BCCRippleDissolve.aex": {
+  "names": [
+   [
+    "BCC Ripple Dissolve",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCRippleDissolvePrTr.aex": {
+  "names": [
+   [
+    "BCC Ripple Dissolve",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCRipplyLight.aex": {
+  "names": [
+   [
+    "BCC Rays Ripply OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCRoughGlow.aex": {
+  "names": [
+   [
+    "BCC Rough Glow OBS",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCSafeColors.aex": {
+  "names": [
+   [
+    "BCC Safe Colors OBS",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCScanline.aex": {
+  "names": [
+   [
+    "BCC Scanline OBSOLETE",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCScatterize.aex": {
+  "names": [
+   [
+    "BCC Scatterize",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Stylize"
+  ]
+ },
+ "BCCSequencer.aex": {
+  "names": [
+   [
+    "BCC Sequencer OBS",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCShadowImage.aex": {
+  "names": [
+   [
+    "BCC Cast Shadow",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Stylize"
+  ]
+ },
+ "BCCSimpleLensFlare.aex": {
+  "names": [
+   [
+    "BCC Lens Flare OBS",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCSketch.aex": {
+  "names": [
+   [
+    "BCC Pencil Sketch",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Art Looks"
+  ]
+ },
+ "BCCSmoothTone.aex": {
+  "names": [
+   [
+    "BCC Smooth Tone OBS",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCSnow.aex": {
+  "names": [
+   [
+    "BCC Snow",
+    12,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Particles"
+  ]
+ },
+ "BCCSparks.aex": {
+  "names": [
+   [
+    "BCC Sparks OBSOLETE",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCSphere.aex": {
+  "names": [
+   [
+    "BCC Sphere",
+    12,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Perspective"
+  ]
+ },
+ "BCCSphereTransition.aex": {
+  "names": [
+   [
+    "BCC Sphere Transition",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Perspective"
+  ]
+ },
+ "BCCSpillRemover.aex": {
+  "names": [
+   [
+    "BCC Spill Remover OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCSpinBlurDissolve.aex": {
+  "names": [
+   [
+    "BCC Spin Blur Dissolve OBSOLETE",
+    36,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCSpinBlurDissolvePrTr.aex": {
+  "names": [
+   [
+    "BCC Spin Blur Dissolve OBSOLETE",
+    36,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCSpiralBlur.aex": {
+  "names": [
+   [
+    "BCC Spiral Blur OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCSpotlight.aex": {
+  "names": [
+   [
+    "BCC Spotlight",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Lights"
+  ]
+ },
+ "BCCSprayPaintNoise.aex": {
+  "names": [
+   [
+    "BCC Spray Paint Noise",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Art Looks"
+  ]
+ },
+ "BCCStabilizer.aex": {
+  "names": [
+   [
+    "BCC Optical Stabilizer",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Image Restoration"
+  ]
+ },
+ "BCCStageLight.aex": {
+  "names": [
+   [
+    "BCC Stage Light",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Lights"
+  ]
+ },
+ "BCCStarMatte.aex": {
+  "names": [
+   [
+    "BCC Star Matte OBS",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCStars.aex": {
+  "names": [
+   [
+    "BCC Stars OBSOLETE",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCSteelPlate.aex": {
+  "names": [
+   [
+    "BCC Steel Plate OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCStreakyLight.aex": {
+  "names": [
+   [
+    "BCC Rays Streaky OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCSuperBlend.aex": {
+  "names": [
+   [
+    "BCC Super Blend OBS",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCSwishPan.aex": {
+  "names": [
+   [
+    "BCC Swish Pan OBSOLETE",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCSwishPanPrTr.aex": {
+  "names": [
+   [
+    "BCC Swish Pan OBSOLETE",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCTemporalBlur.aex": {
+  "names": [
+   [
+    "BCC Temporal Blur",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Time"
+  ]
+ },
+ "BCCTexturedLight.aex": {
+  "names": [
+   [
+    "BCC Rays Textured OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCTexturedWipe.aex": {
+  "names": [
+   [
+    "BCC Textured Wipe OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCTexturedWipePrTr.aex": {
+  "names": [
+   [
+    "BCC Textured Wipe OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCThickLines.aex": {
+  "names": [
+   [
+    "BCC Charcoal Sketch",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Art Looks"
+  ]
+ },
+ "BCCTileMosaic.aex": {
+  "names": [
+   [
+    "BCC Tile Mosaic",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Art Looks"
+  ]
+ },
+ "BCCTileWipe.aex": {
+  "names": [
+   [
+    "BCC Tile Wipe",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCTileWipePrTr.aex": {
+  "names": [
+   [
+    "BCC Tile Wipe",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCTimeDisplacement.aex": {
+  "names": [
+   [
+    "BCC Time Displacement",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Time"
+  ]
+ },
+ "BCCTitleStudio.aex": {
+  "names": [
+   [
+    "BCC Title Studio",
+    24,
+    31038
+   ]
+  ],
+  "catgs": [
+   "BCC 3D Objects"
+  ]
+ },
+ "BCCTrails.aex": {
+  "names": [
+   [
+    "BCC Trails",
+    12,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Time"
+  ]
+ },
+ "BCCTrailsBasic.aex": {
+  "names": [
+   [
+    "BCC Trails Basic",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Time"
+  ]
+ },
+ "BCCTritone.aex": {
+  "names": [
+   [
+    "BCC Tritone",
+    12,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Color & Tone"
+  ]
+ },
+ "BCCTritoneDissolve.aex": {
+  "names": [
+   [
+    "BCC Tritone Dissolve",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCTritoneDissolvePrTr.aex": {
+  "names": [
+   [
+    "BCC Tritone Dissolve",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCTurbulence.aex": {
+  "names": [
+   [
+    "BCC Turbulence",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Warp"
+  ]
+ },
+ "BCCTwirl.aex": {
+  "names": [
+   [
+    "BCC Twirl",
+    12,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Warp"
+  ]
+ },
+ "BCCTwister.aex": {
+  "names": [
+   [
+    "BCC Twister",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCTwisterPrTr.aex": {
+  "names": [
+   [
+    "BCC Twister",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCTwoDParticles.aex": {
+  "names": [
+   [
+    "BCC 2D Particles",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Particles"
+  ]
+ },
+ "BCCTwoStripColor.aex": {
+  "names": [
+   [
+    "BCC Two Strip Color OBSOLETE",
+    32,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCTwoWayKey.aex": {
+  "names": [
+   [
+    "BCC Two Way Key OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCTypeOnText.aex": {
+  "names": [
+   [
+    "BCC Type On Text",
+    24,
+    23870
+   ]
+  ],
+  "catgs": [
+   "BCC 3D Objects"
+  ]
+ },
+ "BCCUnsharpenMask.aex": {
+  "names": [
+   [
+    "BCC Unsharp Mask",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Blur"
+  ]
+ },
+ "BCCUpRez.aex": {
+  "names": [
+   [
+    "BCC UpRez OBSOLETE",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCVR2DInsert.aex": {
+  "names": [
+   [
+    "BCC VR Insert",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC VR"
+  ]
+ },
+ "BCCVRFlickerFixer.aex": {
+  "names": [
+   [
+    "BCC VR Flicker Fixer",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC VR"
+  ]
+ },
+ "BCCVRSharpen.aex": {
+  "names": [
+   [
+    "BCC VR Sharpen",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC VR"
+  ]
+ },
+ "BCCVectorBlurDissolve.aex": {
+  "names": [
+   [
+    "BCC Vector Blur Dissolve",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCVectorBlurDissolvePrTr.aex": {
+  "names": [
+   [
+    "BCC Vector Blur Dissolve",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCVectorDisplacement.aex": {
+  "names": [
+   [
+    "BCC Vector Displacement",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Warp"
+  ]
+ },
+ "BCCVeinedMarble.aex": {
+  "names": [
+   [
+    "BCC Veined Marble OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCVelocityRemap.aex": {
+  "names": [
+   [
+    "BCC Velocity Remap OBSOLETE",
+    32,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCVideoGlitch.aex": {
+  "names": [
+   [
+    "BCC Video Glitch OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCVideoMorph.aex": {
+  "names": [
+   [
+    "BCC Video Morph",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Warp"
+  ]
+ },
+ "BCCVideoScopes.aex": {
+  "names": [
+   [
+    "BCC Videoscope",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Color & Tone"
+  ]
+ },
+ "BCCVignette.aex": {
+  "names": [
+   [
+    "BCC Vignette OBSOLETE",
+    24,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCVignetteWipe.aex": {
+  "names": [
+   [
+    "BCC Vignette Wipe OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCVignetteWipePrTr.aex": {
+  "names": [
+   [
+    "BCC Vignette Wipe OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCWarping.aex": {
+  "names": [
+   [
+    "BCC Warp",
+    12,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Warp"
+  ]
+ },
+ "BCCWaterColor.aex": {
+  "names": [
+   [
+    "BCC Water Color",
+    16,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Art Looks"
+  ]
+ },
+ "BCCWaterWaveDissolve.aex": {
+  "names": [
+   [
+    "BCC Water Waves Dissolve",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCWaterWavesDissolvePrTr.aex": {
+  "names": [
+   [
+    "BCC Water Waves Dissolve",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "BCCWave.aex": {
+  "names": [
+   [
+    "BCC Wave",
+    12,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Warp"
+  ]
+ },
+ "BCCWeave.aex": {
+  "names": [
+   [
+    "BCC Weave OBSOLETE",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCWedgeLight.aex": {
+  "names": [
+   [
+    "BCC Rays Wedge OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCWireRemover.aex": {
+  "names": [
+   [
+    "BCC Wire Remover",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Image Restoration"
+  ]
+ },
+ "BCCWitnessProtection.aex": {
+  "names": [
+   [
+    "BCC WitnessProtection OBSOLETE",
+    32,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCWoodGrain.aex": {
+  "names": [
+   [
+    "BCC Wood Grain OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCWoodPlanks.aex": {
+  "names": [
+   [
+    "BCC Wooden Planks OBSOLETE",
+    28,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCZBlur.aex": {
+  "names": [
+   [
+    "BCC Z-Blur",
+    12,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Blur"
+  ]
+ },
+ "BCCZSpace1.aex": {
+  "names": [
+   [
+    "BCC Z Space I OBS",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCZSpace2.aex": {
+  "names": [
+   [
+    "BCC Z Space II OBS",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "BCCZSpace3.aex": {
+  "names": [
+   [
+    "BCC Z Space III OBS",
+    20,
+    31086
+   ]
+  ],
+  "catgs": [
+   "BCC Obsolete"
+  ]
+ },
+ "Beauty Studio.aex": {
+  "names": [
+   [
+    " BCC+Beauty Studio",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Image Restoration"
+  ]
+ },
+ "Black and White.aex": {
+  "names": [
+   [
+    " BCC+Black and White",
+    24,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Color & Tone"
+  ]
+ },
+ "Bleach Bypass.aex": {
+  "names": [
+   [
+    " BCC+Bleach Bypass",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Film Style"
+  ]
+ },
+ "Blur Dissolve.aex": {
+  "names": [
+   [
+    " BCC+Blur Dissolve",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "Blur.aex": {
+  "names": [
+   [
+    " BCC+Blur",
+    12,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Blur"
+  ]
+ },
+ "Borders.aex": {
+  "names": [
+   [
+    " BCC+Borders",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Art Looks"
+  ]
+ },
+ "Camera Shake Dissolve.aex": {
+  "names": [
+   [
+    " BCC+Camera Shake Dissolve",
+    28,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "Camera Shake.aex": {
+  "names": [
+   [
+    " BCC+Camera Shake",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Lens"
+  ]
+ },
+ "Center Spot.aex": {
+  "names": [
+   [
+    " BCC+Center Spot",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Optical Diffusion"
+  ]
+ },
+ "Channel Blur Dissolve.aex": {
+  "names": [
+   [
+    " BCC+Channel Blur Dissolve",
+    28,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "Channel Blur YUV.aex": {
+  "names": [
+   [
+    " BCC+Channel Blur YUV",
+    24,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Blur"
+  ]
+ },
+ "Channel Blur.aex": {
+  "names": [
+   [
+    " BCC+Channel Blur",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Blur"
+  ]
+ },
+ "Chroma Bands.aex": {
+  "names": [
+   [
+    " BCC+Chroma Bands",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Lights"
+  ]
+ },
+ "Chromatic Aberration.aex": {
+  "names": [
+   [
+    " BCC+Chromatic Aberration",
+    28,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Lens"
+  ]
+ },
+ "Color Gradient.aex": {
+  "names": [
+   [
+    " BCC+Color Gradient",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Grads & Tints"
+  ]
+ },
+ "Color Infrared.aex": {
+  "names": [
+   [
+    " BCC+Color Infrared",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Art Looks"
+  ]
+ },
+ "Color Link.aex": {
+  "names": [
+   [
+    " BCC+Color Link",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Color & Tone"
+  ]
+ },
+ "Color Paste.aex": {
+  "names": [
+   [
+    " BCC+Color Paste",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Key & Blend"
+  ]
+ },
+ "Color Shadow.aex": {
+  "names": [
+   [
+    " BCC+Color Shadow",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Art Looks"
+  ]
+ },
+ "Color Spot.aex": {
+  "names": [
+   [
+    " BCC+Color Spot",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Grads & Tints"
+  ]
+ },
+ "Colorize Gradient.aex": {
+  "names": [
+   [
+    " BCC+Colorize Gradient",
+    24,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Grads & Tints"
+  ]
+ },
+ "Composite.aex": {
+  "names": [
+   [
+    " BCC+Composite",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Key & Blend"
+  ]
+ },
+ "Crash Zoom Dissolve.aex": {
+  "names": [
+   [
+    " BCC+Crash Zoom Dissolve",
+    28,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "Cross Processing.aex": {
+  "names": [
+   [
+    " BCC+Cross Processing",
+    24,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Film Style"
+  ]
+ },
+ "Cross Zoom Dissolve.aex": {
+  "names": [
+   [
+    " BCC+Cross Zoom Dissolve",
+    28,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "Day for Night.aex": {
+  "names": [
+   [
+    " BCC+Day for Night",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Film Style"
+  ]
+ },
+ "DeBand.aex": {
+  "names": [
+   [
+    " BCC+DeBand",
+    12,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Image Restoration"
+  ]
+ },
+ "DeBlock.aex": {
+  "names": [
+   [
+    " BCC+DeBlock",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Image Restoration"
+  ]
+ },
+ "DeFog.aex": {
+  "names": [
+   [
+    " BCC+DeFog",
+    12,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Color & Tone"
+  ]
+ },
+ "DeFringe.aex": {
+  "names": [
+   [
+    " BCC+DeFringe",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Lens"
+  ]
+ },
+ "DeNoise ML.aex": {
+  "names": [
+   [
+    " BCC+DeNoise ML",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Image Restoration"
+  ]
+ },
+ "Depth Map ML.aex": {
+  "names": [
+   [
+    " BCC+Depth Map ML",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Key & Blend"
+  ]
+ },
+ "Depth Wipe ML.aex": {
+  "names": [
+   [
+    " BCC+Depth Wipe ML",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "Depth of Field.aex": {
+  "names": [
+   [
+    " BCC+Depth of Field",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Optical Diffusion"
+  ]
+ },
+ "Detail.aex": {
+  "names": [
+   [
+    " BCC+Detail",
+    12,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Blur"
+  ]
+ },
+ "Develop.aex": {
+  "names": [
+   [
+    " BCC+Develop",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Color & Tone"
+  ]
+ },
+ "Diffusion.aex": {
+  "names": [
+   [
+    " BCC+Diffusion",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Optical Diffusion"
+  ]
+ },
+ "Directional Blur Dissolve.aex": {
+  "names": [
+   [
+    " BCC+Directional Blur Dissolve",
+    32,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "Directional Blur.aex": {
+  "names": [
+   [
+    " BCC+Directional Blur",
+    24,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Blur"
+  ]
+ },
+ "Dissolve.aex": {
+  "names": [
+   [
+    " BCC+Dissolve",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "Double Fog.aex": {
+  "names": [
+   [
+    " BCC+Double Fog",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Optical Diffusion"
+  ]
+ },
+ "Dual Gradient.aex": {
+  "names": [
+   [
+    " BCC+Dual Gradient",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Grads & Tints"
+  ]
+ },
+ "Edge Cleaner.aex": {
+  "names": [
+   [
+    " BCC+Edge Cleaner",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Key & Blend"
+  ]
+ },
+ "Edge Composite.aex": {
+  "names": [
+   [
+    " BCC+Edge Composite",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Key & Blend"
+  ]
+ },
+ "Enhancing.aex": {
+  "names": [
+   [
+    " BCC+Enhancing",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Color & Tone"
+  ]
+ },
+ "Eye Light.aex": {
+  "names": [
+   [
+    " BCC+Eye Light",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Lights"
+  ]
+ },
+ "F-Stop.aex": {
+  "names": [
+   [
+    " BCC+F-Stop",
+    12,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Color & Tone"
+  ]
+ },
+ "Face ML.aex": {
+  "names": [
+   [
+    " BCC+Face ML",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Key & Blend"
+  ]
+ },
+ "Film Glow Dissolve.aex": {
+  "names": [
+   [
+    " BCC+Film Glow Dissolve",
+    24,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "Film Glow.aex": {
+  "names": [
+   [
+    " BCC+Film Glow",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Film Style"
+  ]
+ },
+ "Film Grunge.aex": {
+  "names": [
+   [
+    " BCC+Film Grunge",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Film Style"
+  ]
+ },
+ "Film Roll.aex": {
+  "names": [
+   [
+    " BCC+Film Roll",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "Film Stocks.aex": {
+  "names": [
+   [
+    " BCC+Film Stocks",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Film Style"
+  ]
+ },
+ "Flashing.aex": {
+  "names": [
+   [
+    " BCC+Flashing",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Film Style"
+  ]
+ },
+ "Fluorescent.aex": {
+  "names": [
+   [
+    " BCC+Fluorescent",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Color & Tone"
+  ]
+ },
+ "Flutter Cut.aex": {
+  "names": [
+   [
+    " BCC+Flutter Cut",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "Fog.aex": {
+  "names": [
+   [
+    " BCC+Fog",
+    12,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Optical Diffusion"
+  ]
+ },
+ "Frame Fixer ML.aex": {
+  "names": [
+   [
+    " BCC+Frame Fixer ML",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Image Restoration"
+  ]
+ },
+ "Frost.aex": {
+  "names": [
+   [
+    " BCC+Frost",
+    12,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Optical Diffusion"
+  ]
+ },
+ "Gels.aex": {
+  "names": [
+   [
+    " BCC+Gels",
+    12,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Grads & Tints"
+  ]
+ },
+ "Glow Darks.aex": {
+  "names": [
+   [
+    " BCC+Glow Darks",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Lights"
+  ]
+ },
+ "Glow Edges.aex": {
+  "names": [
+   [
+    " BCC+Glow Edges",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Lights"
+  ]
+ },
+ "Glow.aex": {
+  "names": [
+   [
+    " BCC+Glow",
+    12,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Lights"
+  ]
+ },
+ "Grade.aex": {
+  "names": [
+   [
+    " BCC+Grade",
+    12,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Color & Tone"
+  ]
+ },
+ "Grain.aex": {
+  "names": [
+   [
+    " BCC+Grain",
+    12,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Film Style"
+  ]
+ },
+ "Halo.aex": {
+  "names": [
+   [
+    " BCC+Halo",
+    12,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Optical Diffusion"
+  ]
+ },
+ "Harris Shutter.aex": {
+  "names": [
+   [
+    " BCC+Harris Shutter",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Art Looks"
+  ]
+ },
+ "Haze.aex": {
+  "names": [
+   [
+    " BCC+Haze",
+    12,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Color & Tone"
+  ]
+ },
+ "High Contrast.aex": {
+  "names": [
+   [
+    " BCC+High Contrast",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Color & Tone"
+  ]
+ },
+ "Holdout Composite.aex": {
+  "names": [
+   [
+    " BCC+Holdout Composite",
+    24,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Key & Blend"
+  ]
+ },
+ "Ice Halos.aex": {
+  "names": [
+   [
+    " BCC+Ice Halos",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Lights"
+  ]
+ },
+ "Infrared.aex": {
+  "names": [
+   [
+    " BCC+Infrared",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Art Looks"
+  ]
+ },
+ "Jump Cut Fixer ML.aex": {
+  "names": [
+   [
+    " BCC+Jump Cut Fixer ML",
+    24,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "Kelvin.aex": {
+  "names": [
+   [
+    " BCC+Kelvin",
+    12,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Color & Tone"
+  ]
+ },
+ "Key Light.aex": {
+  "names": [
+   [
+    " BCC+Key Light",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Lights"
+  ]
+ },
+ "Lens Blur.aex": {
+  "names": [
+   [
+    " BCC+Lens Blur",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Blur"
+  ]
+ },
+ "Lens Distortion.aex": {
+  "names": [
+   [
+    " BCC+Lens Distortion",
+    24,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Lens"
+  ]
+ },
+ "Lens Flare.aex": {
+  "names": [
+   [
+    " BCC+Lens Flare",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Lights"
+  ]
+ },
+ "License Plate ML.aex": {
+  "names": [
+   [
+    " BCC+License Plate ML",
+    24,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Match Move"
+  ]
+ },
+ "Light Flicker.aex": {
+  "names": [
+   [
+    " BCC+Light Flicker",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Film Style"
+  ]
+ },
+ "Light Leaks Dissolve.aex": {
+  "names": [
+   [
+    " BCC+Light Leaks Dissolve",
+    28,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "Light Leaks.aex": {
+  "names": [
+   [
+    " BCC+Light Leaks",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Lights"
+  ]
+ },
+ "Light Wrap.aex": {
+  "names": [
+   [
+    " BCC+Light Wrap",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Key & Blend"
+  ]
+ },
+ "Light.aex": {
+  "names": [
+   [
+    " BCC+Light",
+    12,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Lights"
+  ]
+ },
+ "Linear Color Key.aex": {
+  "names": [
+   [
+    " BCC+Linear Color Key",
+    24,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Key & Blend"
+  ]
+ },
+ "Linear Luma Key.aex": {
+  "names": [
+   [
+    " BCC+Linear Luma Key",
+    24,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Key & Blend"
+  ]
+ },
+ "Linear Wipe.aex": {
+  "names": [
+   [
+    " BCC+Linear Wipe",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "Looks.aex": {
+  "names": [
+   [
+    " BCC+Looks",
+    12,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Film Style"
+  ]
+ },
+ "Low Contrast.aex": {
+  "names": [
+   [
+    " BCC+Low Contrast",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Color & Tone"
+  ]
+ },
+ "Magic Sharp.aex": {
+  "names": [
+   [
+    " BCC+Magic Sharp",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Image Restoration"
+  ]
+ },
+ "Math Composite.aex": {
+  "names": [
+   [
+    " BCC+Math Composite",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Key & Blend"
+  ]
+ },
+ "Matte Refine ML.aex": {
+  "names": [
+   [
+    " BCC+Matte Refine ML",
+    24,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Key & Blend"
+  ]
+ },
+ "Mist.aex": {
+  "names": [
+   [
+    " BCC+Mist",
+    12,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Optical Diffusion"
+  ]
+ },
+ "Mosaic Dissolve.aex": {
+  "names": [
+   [
+    " BCC+Mosaic Dissolve",
+    24,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "Mosaic.aex": {
+  "names": [
+   [
+    " BCC+Mosaic",
+    12,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Stylize"
+  ]
+ },
+ "Motion Blur ML.aex": {
+  "names": [
+   [
+    " BCC+Motion Blur ML",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Blur"
+  ]
+ },
+ "Multi-Star Dissolve.aex": {
+  "names": [
+   [
+    " BCC+Multi-Star Dissolve",
+    28,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "Multi-Star.aex": {
+  "names": [
+   [
+    " BCC+Multi-Star",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Lights"
+  ]
+ },
+ "ND Gradient.aex": {
+  "names": [
+   [
+    " BCC+ND Gradient",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Grads & Tints"
+  ]
+ },
+ "Net.aex": {
+  "names": [
+   [
+    " BCC+Net",
+    12,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Optical Diffusion"
+  ]
+ },
+ "Night Vision.aex": {
+  "names": [
+   [
+    " BCC+Night Vision",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Art Looks"
+  ]
+ },
+ "Non-Additive Mix.aex": {
+  "names": [
+   [
+    " BCC+Non-Additive Mix",
+    24,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Key & Blend"
+  ]
+ },
+ "Optical Dissolve.aex": {
+  "names": [
+   [
+    " BCC+Optical Dissolve",
+    24,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Key & Blend"
+  ]
+ },
+ "Orbs Dissolve.aex": {
+  "names": [
+   [
+    " BCC+Orbs Dissolve",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "Orbs.aex": {
+  "names": [
+   [
+    " BCC+Orbs",
+    12,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Film Style"
+  ]
+ },
+ "Overexpose.aex": {
+  "names": [
+   [
+    " BCC+Overexpose",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Lights"
+  ]
+ },
+ "Photographic.aex": {
+  "names": [
+   [
+    " BCC+Photographic",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Grads & Tints"
+  ]
+ },
+ "Pixel Chooser.aex": {
+  "names": [
+   [
+    " BCC+Pixel Chooser",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Key & Blend"
+  ]
+ },
+ "Polar Warp.aex": {
+  "names": [
+   [
+    " BCC+Polar Warp",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Warp"
+  ]
+ },
+ "Polarizer.aex": {
+  "names": [
+   [
+    " BCC+Polarizer",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Color & Tone"
+  ]
+ },
+ "Primatte Studio.aex": {
+  "names": [
+   [
+    " BCC+Primatte Studio",
+    24,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Key & Blend"
+  ]
+ },
+ "Prism Dissolve.aex": {
+  "names": [
+   [
+    " BCC+Prism Dissolve",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "Prism.aex": {
+  "names": [
+   [
+    " BCC+Prism",
+    12,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Stylize"
+  ]
+ },
+ "Rack Focus Dissolve.aex": {
+  "names": [
+   [
+    " BCC+Rack Focus Dissolve",
+    28,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "Rack Focus.aex": {
+  "names": [
+   [
+    " BCC+Rack Focus",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Optical Diffusion"
+  ]
+ },
+ "Radial Blur.aex": {
+  "names": [
+   [
+    " BCC+Radial Blur",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Blur"
+  ]
+ },
+ "Radial Exposure.aex": {
+  "names": [
+   [
+    " BCC+Radial Exposure",
+    24,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Lens"
+  ]
+ },
+ "Radial Tint.aex": {
+  "names": [
+   [
+    " BCC+Radial Tint",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Grads & Tints"
+  ]
+ },
+ "Radial Wipe.aex": {
+  "names": [
+   [
+    " BCC+Radial Wipe",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "Rays Dissolve.aex": {
+  "names": [
+   [
+    " BCC+Rays Dissolve",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "Rays.aex": {
+  "names": [
+   [
+    " BCC+Rays",
+    12,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Lights"
+  ]
+ },
+ "ReLight.aex": {
+  "names": [
+   [
+    " BCC+ReLight",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Lights"
+  ]
+ },
+ "Rectangular Wipe.aex": {
+  "names": [
+   [
+    " BCC+Rectangular Wipe",
+    24,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "Reflector.aex": {
+  "names": [
+   [
+    " BCC+Reflector",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Lights"
+  ]
+ },
+ "Retimer ML.aex": {
+  "names": [
+   [
+    " BCC+Retimer ML",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Time"
+  ]
+ },
+ "ST Map.aex": {
+  "names": [
+   [
+    " BCC+ST Map",
+    12,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Warp"
+  ]
+ },
+ "Scanline.aex": {
+  "names": [
+   [
+    " BCC+Scanline",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Stylize"
+  ]
+ },
+ "Selective Saturation.aex": {
+  "names": [
+   [
+    " BCC+Selective Saturation",
+    28,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Color & Tone"
+  ]
+ },
+ "Sepia.aex": {
+  "names": [
+   [
+    " BCC+Sepia",
+    12,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Grads & Tints"
+  ]
+ },
+ "Shadows-Highlights.aex": {
+  "names": [
+   [
+    " BCC+Shadows/Highlights",
+    24,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Color & Tone"
+  ]
+ },
+ "Silk.aex": {
+  "names": [
+   [
+    " BCC+Silk",
+    12,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Optical Diffusion"
+  ]
+ },
+ "Skin Tone.aex": {
+  "names": [
+   [
+    " BCC+Skin Tone",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Grads & Tints"
+  ]
+ },
+ "Smear Blur.aex": {
+  "names": [
+   [
+    " BCC+Smear Blur",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Blur"
+  ]
+ },
+ "Smoke Wipe.aex": {
+  "names": [
+   [
+    " BCC+Smoke Wipe",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "Smoke and Fog Dissolve.aex": {
+  "names": [
+   [
+    " BCC+Smoke and Fog Dissolve",
+    28,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "Smoke and Fog.aex": {
+  "names": [
+   [
+    " BCC+Smoke and Fog",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Film Style"
+  ]
+ },
+ "Spill Remover.aex": {
+  "names": [
+   [
+    " BCC+Spill Remover",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Key & Blend"
+  ]
+ },
+ "Spin Blur Dissolve.aex": {
+  "names": [
+   [
+    " BCC+Spin Blur Dissolve",
+    24,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "Split Field.aex": {
+  "names": [
+   [
+    " BCC+Split Field",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Optical Diffusion"
+  ]
+ },
+ "Split Tone.aex": {
+  "names": [
+   [
+    " BCC+Split Tone",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Grads & Tints"
+  ]
+ },
+ "Streaks.aex": {
+  "names": [
+   [
+    " BCC+Streaks",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Lights"
+  ]
+ },
+ "Sunset.aex": {
+  "names": [
+   [
+    " BCC+Sunset",
+    12,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Grads & Tints"
+  ]
+ },
+ "Super LED.aex": {
+  "names": [
+   [
+    " BCC+Super LED",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Stylize"
+  ]
+ },
+ "Swish Glow.aex": {
+  "names": [
+   [
+    " BCC+Swish Glow",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "Swish Pan.aex": {
+  "names": [
+   [
+    " BCC+Swish Pan",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "Swish Prism.aex": {
+  "names": [
+   [
+    " BCC+Swish Prism",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "Swish Warp.aex": {
+  "names": [
+   [
+    " BCC+Swish Warp",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "Texture Wipe.aex": {
+  "names": [
+   [
+    " BCC+Texture Wipe",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "Textures.aex": {
+  "names": [
+   [
+    " BCC+Textures",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Textures"
+  ]
+ },
+ "Three Strip.aex": {
+  "names": [
+   [
+    " BCC+Three Strip",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Film Style"
+  ]
+ },
+ "Tint.aex": {
+  "names": [
+   [
+    " BCC+Tint",
+    12,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Grads & Tints"
+  ]
+ },
+ "Transform.aex": {
+  "names": [
+   [
+    " BCC+Transform",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Perspective"
+  ]
+ },
+ "Two Strip.aex": {
+  "names": [
+   [
+    " BCC+Two Strip",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Film Style"
+  ]
+ },
+ "Two Way Key.aex": {
+  "names": [
+   [
+    " BCC+Two Way Key",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Key & Blend"
+  ]
+ },
+ "UpRes ML.aex": {
+  "names": [
+   [
+    " BCC+UpRes ML",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Image Restoration"
+  ]
+ },
+ "Video Glitch Dissolve.aex": {
+  "names": [
+   [
+    " BCC+Video Glitch Dissolve",
+    28,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "Video Glitch.aex": {
+  "names": [
+   [
+    " BCC+Video Glitch",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Stylize"
+  ]
+ },
+ "Vignette Wipe.aex": {
+  "names": [
+   [
+    " BCC+Vignette Wipe",
+    20,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Transitions"
+  ]
+ },
+ "Vignette.aex": {
+  "names": [
+   [
+    " BCC+Vignette",
+    16,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Film Style"
+  ]
+ },
+ "Wide Angle Lens.aex": {
+  "names": [
+   [
+    " BCC+Wide Angle Lens",
+    24,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Lens"
+  ]
+ },
+ "Witness Protection ML.aex": {
+  "names": [
+   [
+    " BCC+Witness Protection ML",
+    28,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Match Move"
+  ]
+ },
+ "X-Ray.aex": {
+  "names": [
+   [
+    " BCC+X-Ray",
+    12,
+    11918
+   ]
+  ],
+  "catgs": [
+   "BCC Art Looks"
+  ]
+ }
+}

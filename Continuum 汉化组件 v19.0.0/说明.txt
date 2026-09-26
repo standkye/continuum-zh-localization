@@ -1,0 +1,300 @@
+﻿Continuum 2026 (BCC) 汉化组件 v19.0.0
+=====================================
+
+【一键安装】
+  双击：  Continuum汉化安装器.exe
+  → 弹 UAC 点「是」
+  → 黑窗口会逐文件打印 OK / FAIL，末尾显示 SUCCESS 即完成
+  → 打开 AE，效果名、分组（类型栏）和参数名都是中文
+
+  ⚠️ 安装前必须【彻底退出 After Effects】，否则文件被占用会装一半。
+
+【还原英文】
+  双击：  还原英文（双击这个）.bat
+  （等价于给安装器加 /restore 参数）
+
+【安装到哪了】
+  C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\BorisFX\Continuum\
+      488 个 *.aex（效果名 + 分组）+ BCCPlus.dll
+  C:\Program Files\BorisFX\ContinuumAE\19\lib\
+      Continuum_AE_Float.dll / _8Bit.dll / _16Bit.dll
+      Continuum_Common_AE.dll / Continuum_3DObjects_AE.dll
+
+【备份在哪】
+  C:\Program Files\BorisFX\ContinuumAE\19\Backup-English\
+      6 个原始 DLL + aex\ 下 488 个原始 .aex
+  第一次安装时自动创建。还原就是从这里拷回去。
+
+【编码说明】
+  本组件是 GBK 编码 —— 这是在本机实测出来的正确编码
+  （中文 Windows + AE 25.1 + Continuum 2026）。
+
+  ⚠️ 历史上有过一版误用 UTF-8，界面会显示「妯＄硦」这类乱码，
+     或一添加效果就报错：
+         特效：变换 (25::3)
+         无法初始化该效果。该效果可能不是由本机安装，并且本机无法使用。
+     如果你装的是那一版，装上本版即可解决。
+
+  说明：编码不是按 AE 版本号猜的，而是"写一处 → 读回字节 →
+        用 GBK 和 UTF-8 各解一次"实测定的。这里 GBK 能解出通顺中文。
+
+【汉化覆盖范围】
+  效果名         488 / 488   （全部）
+  分组（类型栏）  483 / 488   （余下的是**同一个分组名 "BCC VR"**，它出现在 5 个
+                              插件里：BCCBlur4 / BCCReorient / BCCVR2DInsert /
+                              BCCVRFlickerFixer / BCCVRSharpen。
+                              为什么不翻 —— 两个原因：
+                              ① 品牌串判定："BCC VR" 是厂家给这条 VR 产品线起的
+                                 名字（与 "BCC HSL" 同类，原版英文名就是它本身），
+                                 本项目的判定规则把这类品牌名归为"不作界面文案
+                                 翻译"；
+                              ② 槽位过窄：这 5 条的「分类名」记录只有 **6 字节**
+                                 文本空间（记录 size=8），"BCC VR" 正好占满，后面
+                                 只多 1 字节对齐填充。完整中文「BCC虚拟现实」要
+                                 11 字节，装不下；勉强能写的只有「VR虚拟」(6 字节)
+                                 或「BCC虚拟」(7 字节，且要把串长度字节由 6 改成 7、
+                                 吃掉那 1 字节填充)。
+                              为 1 个分组标题去改 5 个 .aex、还动用串长度字节，
+                              收益极小，所以有意保留英文。
+                              ⚠️ 这 5 个插件在菜单里的**效果名本身是中文**：
+                              BCC VR模糊 / BCC VR重定向 / BCC VR插入 /
+                              BCC VR闪烁修复 / BCC VR锐化）
+  参数名         25479 处中文写入（覆盖 7353 个不同的英文原文）
+                 相当于引擎 DLL 里可翻译字符串总量的 91.4%
+
+  ⚠️ 仍有一部分字符串是英文 —— 都是**有意保留**，不是漏翻：
+     · 内部键 / 配置键 / 导出导入名：翻了会让 DLL 加载失败（WinError 127）
+     · 宿主软件名单、类型枚举、授权串、Qt 串
+     · 极少数栏位实在太短（如 Pin / Hue）装不下中文
+     · **BCC+ 单元名**（BCC+ 引擎按英文名查表，翻了该效果就闪退）
+       —— 这是【崩溃修复】一节的核心，共 82 个名字
+     这些栏位的中文译名可在 ParamNameTable.txt 里查到。
+
+  覆盖率的算法：拿 6 支 DLL 的原厂英文版当分母，数「独立的、词典里有
+  译文的字符串记号」共 19560 处；本版已改写 17878 处，剩 1682 处。
+  剩下这 1682 处里，285 处是宿主软件名单（Final Cut Pro / Nuke / Baselight
+  之类，翻了反而有害），真正"没翻"的只有 1397 处，且集中在三处：
+     · 1057 处 = Continuum 3D Objects 自带时间线面板的界面文字
+       （在 .rsrc 资源节里，属于另一套 UI，本版未处理）
+     · 142 处 = 参数名，经逐条判定后**确认应保留英文**
+       （131 处来自【hyg2 回填】的逐条判定 + 11 处来自【崩溃修复】的
+         BCC+ 单元名回退，见下方两节）
+     · 198 处 = AE 三支引擎的 .rsrc 命令/菜单表（翻了没有意义）
+
+【崩溃修复】（本版关键改动，务必看）
+  这条 bug 分四批找到，每批都靠"用户报告某个效果闪退 → 找到那个被翻掉的键 → 改回英文"。
+  **规律：凡是 BCC+ 引擎要拿去"按名字查表"的字符串，翻成中文都会让对应效果闪退。**
+
+  ◆ 第 1 批：添加任何 BCC+ 效果，AE 直接闪退（无报错框）
+    原因：偏移 0x25C75C0 的字符串 'Microsoft' 被翻成「微软」。
+    它是拼注册表路径用的：
+        SOFTWARE\Microsoft\Windows\CurrentVersion\ProgramFilesDir
+    翻掉之后取路径失败 → 返回空指针 → 之后对空指针 AddRef → 崩。
+
+  ◆ 第 2 批：只有「纹理」闪退，其它正常
+    原因：偏移 0x26ABFF0 的字符串 'Textures' 被翻成「纹理」。
+    它是 BCC+ 单元表里的**裸别名键**，紧挨着这两条：
+        0x26ABFE0  'BCC Textures'    ← 分类显示名，翻成 BCC纹理 是安全的
+        0x26ABFF0  'Textures'        ← 裸单元名键，翻掉就崩  ★
+        0x26AC000  'bccunittexture'  ← 内部 ID，本来就翻不动
+    翻掉单元名键后，程序按中文名查不到对应单元，拿到空指针 → 崩。
+
+  ◆ 第 3 批（本版修复）：霜冻、三色带、中心聚光、颗粒 …等一批 BCC+ 效果闪退
+    原因：**同一条规律**。BCC+ 有 166 个"单元"，每个单元在 BCCPlus.dll 里
+    都有一处**英文单元名字符串**，引擎按这个名字去解析单元（效果菜单显示的
+    中文名来自 .aex 的 PiPL，是另一条路，所以菜单是中文 ≠ 单元名可以翻）。
+    实测被翻掉、因而闪退的：
+        'Frost'        0x0262272C  ← 霜冻
+        'Three Strip'  0x0262AD58  ← 三色带
+        'Center Spot'  0x0260FAE0  ← 中心聚光
+        'Grain'        0x025DD180  ← 颗粒
+    按同一规律全库排查后，BCCPlus.dll 里共有 **83 处**（82 个单元名）被翻过，
+    本版**全部改回英文**。其中几个同时也是常见的参数标题（如 Tint / Vignette /
+    Blur / Detail / Glow / Dissolve / Light / Transform），因此这些词在个别
+    BCC+ 效果里会显示回英文 —— 这是为了不闪退必须付的代价。
+    对照组：'Channel Blur' 这个单元名**没被翻过**，所以「通道模糊」一直正常。
+
+  ◆ 验证（每次都用同一套）
+     · 结构审计（从字节重算，不复用生成器清单）：83/83 处都是"整盒还原"，
+       改动落在同一串槽内、填充区全 0，问题 0 个
+     · 6 支 DLL 体积与原厂**逐字节同长**（就地替换，PE 结构不动）
+     · 6 支 DLL 全部 LoadLibrary 成功（6/6）
+     · 安装器载荷校验：6 支 DLL 与出货目录逐字节一致、488 个 aex 零差异
+
+  ✅ 已实测通过：纹理（第 2 批修复后正常）；装上本版后，霜冻 / 三色带 /
+     中心聚光 / 颗粒 等全部 BCC+ 效果均已确认**不再闪退**。
+
+【常见问题】
+  1. 报错「系统找不到指定的文件」/ 找不到 Install-Chinese.bat
+     → 别用旧的自解压 exe，直接用本目录的 Continuum汉化安装器.exe。
+
+  2. 添加效果时弹「无法初始化该效果」
+     → 你装的是旧的坏版（编码用反了）。装上本版即可。
+     → 确认方法：彻底退出 AE 后重跑一次安装器。
+
+  3. 装完还是英文
+     → 99% 是 AE 没关干净。彻底退出 AE 后重跑一次。
+     → 确认 AE 用的位数版本：默认 8bpc 项目用 Continuum_AE_8Bit.dll，
+       这也是为什么 6 个 DLL 必须全部替换。
+
+  4. 想确认到底装没装上
+     → 安装器末尾的 verifying 段落会报 copy failures / verification failures，
+       两个都是 0 才算真的成功。
+
+  5. 一添加某些效果就崩，或报「无法初始化该效果」（v9 及更早的旧版问题）
+     → 旧版补丁把中文写进了
+       "None|Bounce|Stick|Slide|Disappear" 这类下拉选项表的内部。
+       这种表是**一整个字符串**（用 | 分隔选项），翻其中一个单词
+       就等于把整张表写坏，AE 读到非法枚举值就崩。
+     → 本版已修：每个写入点都要求前一字节是字符串结尾、且往前摸到的
+       第一个可见字符不是 '|'；整串含 '|' 的一律跳过。
+       实测：v9 装出来的 3 支渲染引擎里，共 81 张选项表被写坏
+       （例如 "None|Bounce|Stick|Slide|Disappear" 变成
+        "None|Bounce|Stick|Slide|消失"）；本版为 0 张。
+     → 装上本版即可。
+
+  6. 添加 BCC+ 效果就闪退，**不弹任何报错框**
+     → 见上面【崩溃修复】一节：这是"BCC+ 引擎按名字查表的键被翻成中文"。
+       共分 3 批找到（Microsoft / Textures / 82 个 BCC+ 单元名），本版已全部修好。
+     → 自查办法：AE 只闪退、不弹报错框 —— 基本就是这一类。
+     → 目前全库已排查完，不再有这类地雷；若还遇到闪退请发我崩溃报告。
+
+  7. **关闭 AE / Pr 之后才弹「崩溃报告」**（不是用的时候崩）
+     → 这一类**与汉化无关**，也不用担心：崩溃发生在程序**已经退完之后**，
+       没有任何工作会丢失。
+     → 判断办法（崩溃报告的元数据里就有）：
+        · 退出流程已走完 —— 事件链打印到 kStateTerminating / lastAppState 结尾是
+          -term 或 -fexit；
+        · 报告时间比"退出完成"晚了几十秒甚至几分钟；
+        · 没有 AE.CrashedEffect 字段（真·效果崩溃一定带这个字段）。
+       三条都符合 ⇒ 是 Windows 在进程收尾（CRT 析构 / COM 反初始化）阶段的
+       通用问题，Adobe 自己也会把它记成"崩溃"。
+     → 实测：本机 AE 25.1 与 Pr 22.0 都各自出现过一次这种"退出时报错"，
+       与汉化包无关（崩溃点落在 Windows 自己的 ntdll/ucrtbase 里，
+       调用栈里没有任何插件帧）。
+     → 想彻底排除：还原英文后做同样的"开→关"，若照样报，即可确认是 Adobe 侧。
+
+【标识符卫生修复】（本版新增）
+  上一版把 77 处**机器可读的标识符**当成界面文字翻掉了，本版已全部改回英文。
+  它们的共同点是：程序要拿它去查表 / 拼路径 / 找文件，翻了下场是"功能悄悄失效"
+  （不会崩，所以很难发现）。改回英文后功能恢复，界面上看不出任何变化。
+
+  ◆ 7 个偏好设置文件名（Float / 8Bit / 16Bit / 3DObjects 各一份，共 28 处）
+      WindowPreferences.bwsx          → 窗口首选项.bwsx
+      BrowserPreferences.bwsx         → 浏览器首选项.bwsx
+      BrowserTextPreferences.bwsx     → 浏览器文字首选项.bwsx
+      StandaloneBrowserPreferences.bwsx → 独立浏览器首选项.bwsx
+      WindowPreferences.tsws          → 窗口首选项.tsws
+      BCCTitleStudioWindowPreferences.tsws
+      BCCTitleStudioBrowserPreferences.bwsx
+      SnapToHomePrefs.bwsx / Prefs.bwsx
+     后果：窗口布局、浏览器偏好可能存不下来。
+     依据：原厂安装目录 C:\ProgramData\BorisFX\ContinuumAE\19\Workspaces\
+           里就是这些文件名，程序按名字去读。
+
+  ◆ 7 类工作区 XML 属性名（4 支 DLL，共 28 处）
+      Workspace / Left / Right / Top / Bottom / XPosition / YPosition
+     后果：工作区布局（.tsws）读写错位。
+     依据：原厂 .tsws 里就是 <Workspace ScreenWidth=.. Left=.. Top=..
+           Bottom=.. XPosition=.. YPosition=..> 这样的属性名。
+     ⚠️ 只回退了**这一个 schema 区域**里的同名串；界面参数标签里的
+        「左侧 / 右侧 / 顶部 / 底部 / 位置」保持中文不变。
+
+  ◆ 9 个带点的内部键（Float / 8Bit / 16Bit 各一份，共 27 处）
+      ShaderColorBlend.effect / .src / .back / .hostback / .dest /
+      .host.applied / .back.applied / .composite / .applied
+     后果：ShaderColorBlend 相关资源查找失效。
+
+  ◆ 3 个分类显示名的重复前缀
+      "BCC BCC模糊" / "BCC BCC扭曲" / "BCC BCC运动匹配"
+      → "BCC模糊" / "BCC扭曲" / "BCC运动匹配"
+
+  ◆ 术语修正：Deinterlace 由「去隔行」改为行业惯用的「去交错」
+     （共 6 处："Deinterlace" 与 "BCC Deinterlace" 两种写法）
+
+【hyg2 回填】（本版新增）
+  上一版列出的 234 处"被安全闸门保守跳过"的参数名，本版逐条重新判定：
+  其中 **103 处确认是界面显示名，已补成中文**；余下 **131 处确认必须保留
+  英文**，理由逐类写在下面。
+
+  ◆ 补成中文的 103 处（涉及 44 个不同的英文词）
+     依据有两条，只要命中其一即可落笔：
+       A. 该词在原厂预设文件里就是作为参数 <name> 出现的 ——
+          这就是参数显示名的真实词表（预设按数字 ID 索引参数，<name>
+          只是显示名副本），所以它是显示名，不是内部键。
+       B. 该词所在的那张字符串表，左右 ±0x120 范围内已经有 ≥8 条中文 ——
+          说明这张表本来就在往界面上显示，补上它只是把"半中半英"的一行
+          补全，不引入新风险。
+     另有一条延续规则：同一张表里若某个词已经被译过，且新词距它 ≤0x160，
+     则一并译掉，避免同表一半中文一半英文。
+
+     共 44 个英文词、103 处。按处数排前几名（词 / 中文 / 处数）：
+       Type 类型(23)   Alpha 阿尔法(4)   Blue 蓝(4)   Green 绿(4)
+       Debug Logging 调试日志(4)   Duration 持续时间(4)
+       Gpu Anti Alias Buffer Level GPU抗锯齿缓冲级别(4)
+       Hide Disabled Parameters 隐藏已禁用参数(4)
+       Use 4k Gpu Buffers 使用4K GPU缓冲(4)
+       Load PixelChooser and Mocha with Preset 随预设加载像素选取与Mocha(4)
+       PixelChooser Mocha Preset Load Dummy 像素选取Mocha预设加载占位(4)
+       Version Update Check Previous 版本更新检查上一次(4)
+       Color 颜色(3)   Size 大小(3)
+       其余单处：Black 黑场 / White 白场 / Blend 混合 / Channel 通道 /
+       Tint 着色 / Ripple 波纹 / Vignette 暗角 / Premultiply 预乘 /
+       Sharpen 锐化 / Contrast 对比度 / Brightness 亮度 / Motion Blur 运动模糊 /
+       Feather 羽化 / Master Opacity 主不透明度 / View Current Matte 查看当前遮罩 /
+       Ring 圆环 / Style 样式 / Ease In 缓入 / Incoming Ease Out 入射缓出 /
+       Speed Deceleration 速度减速 / Color Blend 颜色混合 / Hidden 隐藏 /
+       Color 1/2 Frames 颜色1/2帧数 / Color 1/2 Order 颜色1/2顺序 /
+       Color 2 / Color 3 / FEC Difference Blend FEC差值混合 /
+       Freq Resolution 频率分辨率 等
+
+  ◆ 保留英文的 131 处，逐类理由（括号内为处数，合计 131）：
+     1) 偏好设置**文件名**（28）—— 会被拼进路径去读文件，翻了存不下偏好。
+     2) **带点内部键** ShaderColorBlend.*（27）—— 资源查找键。
+     3) 工作区 **XML 属性/元素名** Workspace / Workspaces / Left / Right /
+        Top / Bottom（21）—— 读写 .tsws 布局文件用。
+     4) 预设浏览器**元数据列名** Category / Filter Version / Creation Date
+        （12）—— 与 XML 键 presetname / filterversion 同表的机器列名。
+     5) **品牌串** BCC HSL / BCC VR（8）—— 译名与原文相同，改了没有收益。
+     6) **槽位不足** Pin / Hue / Map（7）—— 中文字节装不下。
+     7) **授权字段** Master / Process（6）—— Sentinel/HASP 授权 XML 用。
+     8) 预设**目录名表** Presets（4）—— 是路径片段，不是标题。
+     9) **效果名** BCC Motion Tracker FCP / BCC+Primatte Studio（7）——
+        效果名的权威显示源是 .aex 里的 PiPL 记录，只改 DLL 里的副本
+        反而会与 aex 不一致：所以要么整体改、要么整体不改，本版选择不改。
+    10) **来源不明** Enable Beat Reactor（3）—— 邻居是缓存清理/语言包内部名。
+    11) **Mocha 集成内部串表** Mocha Init - Render（3）—— 邻居是 mocha.dll 路径。
+    12) **来源不明** Launch Mocha Mask / Launch Mocha Track（2）——
+        与 MOCHA001/MOCHZ001 授权码同表。
+    13) 3D Objects **脚本回调名** Layer / Output（2）—— 代码按名回调。
+    14) **崩溃键** Textures（1）—— 见【崩溃修复】，永久保留英文。
+
+  ◆ 验证（三道独立关卡，全过才出货）
+     1) 结构审计：不复用生成器的清单，直接从字节重算 ——
+        103 个改写槽逐个验证「改的字节落在同一个槽内 / 以 NUL 收尾 /
+        合法 GBK / 未碰含 | 的选项表 / 未越界写入下一串」，
+        结果 103/103 槽合规、问题 0 个；两条崩溃键仍为英文。
+     2) 体积：6 支 DLL 体积与原厂**逐字节相同**（就地替换，PE 结构不动）。
+     3) 加载：6 支 DLL 全部 LoadLibrary 成功（6/6）。
+        另抽查 20 个新回填词，中文确实已写进出货字节里。
+
+【已知遗留（不影响使用，后续版本再修）】
+  1. Continuum 3D Objects 插件自带的**时间线面板**界面文字（约 1057 处）
+     仍是英文。它在 DLL 的 .rsrc 资源节里，是这套插件内部另一套 UI，
+     与主效果菜单无关。
+  2. AE 三支引擎 DLL 的 .rsrc 里各有 66 处命令/菜单表字符串
+     （Can't Redo / &Undo Cut / Distortion / Keying 之类）未翻 ——
+     它们不是参数标签，翻了没有意义。
+  3. 142 处参数名经逐条判定后**保留英文**（131 处 = 偏好文件名 / 工作区 XML
+     属性名 / 授权字段 / 带点内部键 / 品牌效果名等，逐类理由见【hyg2 回填】；
+     另 11 处 = BCC+ 单元名，见【崩溃修复】）。
+     这已不是"被闸门跳过"，而是**确认不该翻**。
+
+【对照表】
+  EffectNameTable.txt    488 条效果名  中文 → 英文原名
+  ParamNameTable.txt    6997 条参数名  中文 → 英文原名
+  菜单里只显示中文，要查英文原名就翻这两张表。
+  ParamNameTable.txt 是**直接从出货字节重算**的：拿原厂英文版逐串对比，
+  凡出货字节是中文的才登记 —— 表里列出的就是盘上真实存在的中文，
+  不会再有"表里有、盘上已被回退"的旧条目。
+  EffectNameTable.txt 未变（本版没有改动任何 .aex）。

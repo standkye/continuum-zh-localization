@@ -1,0 +1,1261 @@
+English	Cap	Count
+16 x 9	8	12
+Auto Launch Title Studio FX Browser	40	4
+BCC Not Used Ignore	24	4
+Bad argument	16	4
+Cheen	8	4
+Error reading Motion filter	32	4
+Iterations do not converge	32	4
+Load Preset used	24	4
+ML Warning Init Denoise Posted	32	4
+ML Warning Init Retimer Posted	32	4
+Mabel	8	4
+Nukei	8	4
+Null pointer	16	4
+Registration Reminder Count	32	4
+Registration Reminder Previous	32	4
+Registration Status	24	4
+SplitScreen Mode	24	4
+SplitScreen Wipe Percent	32	4
+Wrong mode passed to DrawRect	32	4
+0u0u0u	8	3
+128 x 128	16	3
+16 x 16 x 16	16	3
+256 x 256	16	3
+32 x 32	8	3
+3D Lines	16	3
+50x50 Rectangle	32	3
+5x5 Rectangle	16	3
+64 x 64	8	3
+64 x 64 x 64	16	3
+681	6	3
+AE 3D Layer Infinite	24	3
+AE 3D Layer with Alpha	24	3
+Acceleration	16	3
+Advance	8	3
+Affected By Fluids	24	3
+Affected by Fluids	24	3
+After Camera Rotate	24	3
+Align to Motion	16	3
+Alpha From Edges	24	3
+Alpha Over Life	16	3
+Analyze	8	3
+Appearance	16	3
+Apply 1	8	3
+Apply Damage To	16	3
+Apply Floor Rippling	24	3
+Apply PixelChooser Legacy	32	3
+Apply Reflect Rippling	24	3
+Area Spline	16	3
+Attached to Emitter	24	3
+Auto Evolve Z	16	3
+Auto-scale Interactor	24	3
+B Color	8	3
+BCC33D Image Shatter	24	3
+BCC3Color Palette	24	3
+BCC3Drop Shadow	16	3
+BCC3Lens Flare 3D	20	3
+BCC3Rays Radiant Spotlight	28	3
+BCC3Sphere Transition	24	3
+BCC3Trails Basic	24	3
+BCC3Wire Remover	21	3
+BCC3Z Space I	16	3
+BCC3Z Space II	16	3
+BCC3Z Space III	16	3
+Banji	8	3
+Banzi	8	3
+Blue-Green Density	24	3
+Blur Cutoff	16	3
+Blur Strength	16	3
+BorisFX Error	16	3
+Bottom Left	16	3
+Bounce	12	3
+Bounce Over Life	24	3
+Bounce Variation	24	3
+Bouncing	16	3
+Boundary Mask	16	3
+Bounded Plane	16	3
+Built-In Light	16	3
+Bump Layer	16	3
+Bump Map	16	3
+Burn Layer	16	3
+Cartoon	8	3
+Channel Tuning	16	3
+Char Layer	16	3
+Chroma Key On	16	3
+Circle Mask	16	3
+Clone	8	3
+Coarse Sharpen	16	3
+Color 1 From	16	3
+Color 2 From	16	3
+Color 3 Intensity	24	3
+Color 4 Intensity	24	3
+Color Gun Offset	24	3
+Color Over Life	16	3
+Color PixelChooser Legacy	32	3
+Color from Cleaned Alpha	32	3
+Color from layer	24	3
+Colors	8	3
+Colors & Angles	16	3
+Common	12	3
+Cone Angle 1	16	3
+Cone Angle 2	16	3
+Cone Angle 3	16	3
+Cone Feather 1	16	3
+Cone Feather 2	16	3
+Cone Feather 3	16	3
+Connect Particles	24	3
+Connect to Main Emitter	24	3
+Contain Destination Warp Shape	32	3
+Contain Source Warp Shape	32	3
+Contain Warp Shape	24	3
+Creating backward pixel plan for	40	3
+Creating channel plan for	32	3
+Custom Orb Layer	24	3
+Cutout	12	3
+Damage	8	3
+Danel	8	3
+Darken	12	3
+Deflector Line Points	24	3
+Detail +	16	3
+Detail -	16	3
+Displacement Layer	24	3
+Displacement Map	24	3
+Distort Blend Layer	24	3
+Distorted Edge	16	3
+Division by zero occured	32	3
+Draw Trails	16	3
+Dust	8	3
+Edge Cleaner	16	3
+Edge Cleaner On	16	3
+Edge Color Correction	24	3
+Edge Range	16	3
+Effect Pattern	16	3
+Emboss	8	3
+Emission	16	3
+Emit From	16	3
+Emit at Points	16	3
+Emit in 3D	16	3
+Emitter Type	16	3
+Emitter Z Offset	24	3
+Enable Fluid Dynamics	24	3
+End Color Source	24	3
+Erosion	8	3
+Erosion Layer	16	3
+Error creating grayscale version of texture	48	3
+Error creating project alpha texture	40	3
+Error creating project luminance alpha texture	48	3
+Exception Thrown in SerializeKeyframeVectorOL	48	3
+Exception caught in NewDoPresetBrowser	40	3
+FG Mask Layer	16	3
+Feather 1	16	3
+Feather 2	16	3
+Feather 3	16	3
+Fine Pass	16	3
+Fine Sharpen	16	3
+Flare Layer	16	3
+Flicker	8	3
+Floating Footage	24	3
+Force Strength	16	3
+Fractal Wave Generator	24	3
+From PixelChooser Legacy	28	3
+Gain Color Amount	24	3
+Gain Color Angle	24	3
+Gamma Color Angle	24	3
+Gel-Matte Layer	16	3
+Generation was canceled	24	3
+Glare BackGround Map Layer	32	3
+Glint BackGround Map Layer	32	3
+Glitter BackGround Map Layer	32	3
+Global	12	3
+Glow Control	16	3
+Hair Mat	12	3
+Height Maps	16	3
+Highlight Range	16	3
+Highlight Sharpen	24	3
+Histogram	16	3
+Hue High Softness	24	3
+Hue Low Softness	24	3
+Hybrid Matte	16	3
+Image Plane	16	3
+Incoming Clip Settings	24	3
+Incorrect size of input array	32	3
+Infinite Plane	16	3
+Insert 1	16	3
+Inside Mask	16	3
+Inside Preset	16	3
+Insufficient memory	24	3
+Interaction Layer	24	3
+Interest XY 1	16	3
+Interest XY 2	16	3
+Interest XY 3	16	3
+Interest Z 1	16	3
+Interest Z 2	16	3
+Interest Z 3	16	3
+Invert Matte PixelChooser Legacy	40	3
+Iris	20	3
+Jitter 2	16	3
+Jitter 3	16	3
+Jitter Curves	16	3
+Keep Proportional to Flame Texture Scale X	48	3
+Keep Proportional to Smoke Texture X Scale	48	3
+LW On Black	16	3
+Launch PI 2026	16	3
+Layer 1	8	3
+Layer 2	8	3
+Layer 3	8	3
+Layer 4	8	3
+Layer 5	8	3
+Layer CONTROL1	24	3
+Layer CONTROL3	16	3
+Layer CONTROL4	16	3
+Layer CONTROL5	16	3
+Lens Flare BackGround Map Layer	40	3
+Lens Spots	16	3
+License window opened	24	3
+Light Apply Layer	24	3
+Light Model 1	16	3
+Light Model 2	16	3
+Light Model 3	16	3
+Light Strobe	16	3
+Light Strobe 1	16	3
+Light Strobe 2	16	3
+Light Strobe 3	16	3
+Light Target 3	16	3
+Light Wrap Edge	16	3
+Light Wrap Edge On	24	3
+Light Wrap Spill	24	3
+Light Wrap Spill On	24	3
+Light1 Pos XY	16	3
+Light2 Pos XY	16	3
+Light3 Pos XY	16	3
+Lightness Match On	24	3
+Lightness Offset	24	3
+Line Color	16	3
+Line Composite	16	3
+Line Matte	16	3
+Line Start	12	3
+Lines	12	3
+Main Stage Project	24	3
+Master Cr Range	16	3
+Matte +	8	3
+Matte -	8	3
+Matte Choker	16	3
+Matte Cleanup	16	3
+Matte Status	16	3
+Medium Pass	16	3
+Mg	9	3
+Midpoint Color Source	24	3
+Midpoint Color Source Layer	32	3
+Midtone Sharpen	16	3
+Minimum Distance	24	3
+Minimum Softness	24	3
+Missing -	16	3
+Mix with Original Spill	24	3
+Mocha DataB	16	3
+Mocha Init - Get Tracking Data	32	3
+Mocha Init failed to load mocha library	40	3
+Model Scale	16	3
+Model Scale Y	16	3
+More Points	16	3
+Morph	8	3
+Motion Control	16	3
+Noise Blur Quality	24	3
+Nucoda	12	3
+Number of Points Y	24	3
+Number of Points Z	24	3
+Number of each color	24	3
+Object Group	16	3
+Obstacle Layer	24	3
+Offset Source 1	16	3
+Offset Source 2	16	3
+Offset Source 3	16	3
+Offset X 1	16	3
+Opacity Under Reflect	24	3
+Outgoing Clip Settings	24	3
+Outside Mask	16	3
+Outside Preset	16	3
+Over	8	3
+Paint Layer	16	3
+Particle Illusion	24	3
+Physics	8	3
+Plane	8	3
+Point 10 Settings	24	3
+Point 2 Settings	24	3
+Point 4 Settings	24	3
+Point 5 Settings	24	3
+Point 6 Settings	24	3
+Point 7 Settings	24	3
+Point 8 Settings	24	3
+Point 9 Settings	24	3
+Point Light	16	3
+Point Light 1	16	3
+Point Light 2	16	3
+Point Light 3	16	3
+Point Light Style 1	24	3
+Point Light Style 2	24	3
+Point Light Style 3	24	3
+Position Turbulence	24	3
+Post	8	3
+Post-process	16	3
+Pre Key Cleanup	16	3
+Preserve Color	16	3
+Production Boundary	20	3
+Purchase window auto-launched	32	3
+RGB Misalignment	24	3
+Radius 1	16	3
+Radius 2	16	3
+Radius 3	16	3
+Random Gradient	16	3
+Random Start Frame	24	3
+Range Preview	16	3
+Range Tuning	16	3
+Red Noise	16	3
+Reference Point	16	3
+Reflection Style	24	3
+Region Animation	24	3
+Render Legacy PixelChooser	32	3
+Render Mode 1	16	3
+Render Mode 2	16	3
+Render Mode 3	16	3
+Restrict License Type	24	3
+Reverse Range PixelChooser Legacy	40	3
+Ring Center	16	3
+Ripple Center	16	3
+Ripple On Floor	16	3
+Sample Controls	16	3
+Saturation Hard Clip	24	3
+Saturation Low Softness	24	3
+Scale 1	8	3
+Scale 2	8	3
+Scale Particle Alpha	24	3
+Scan Lines	16	3
+Scanline Control	24	3
+Scratches	16	3
+Screen Color	16	3
+Scroll Curve	16	3
+Shadow Plane	16	3
+Shadow Range	16	3
+Shadow Sharpen	16	3
+Shake	8	3
+Shake Ease Mid	16	3
+Shake Ease Out	16	3
+Shape PixelChooser Legacy	32	3
+Shape Selection	16	3
+Sharpen On	16	3
+Show Surface	16	3
+Show Under Floor	24	3
+Show Under Reflect	24	3
+Single Mask	16	3
+Single Particle	16	3
+Size Turbulence	16	3
+Size Y Over Life	24	3
+Small Pass	16	3
+Small Sharpen	16	3
+Smoke On	12	3
+Softness Mode	16	3
+Source Tracker	16	3
+Spill Suppression On	24	3
+Spin Over Life	16	3
+Spin Variation	16	3
+Spot Light 2	16	3
+Spot Light 3	16	3
+Spread and Smooth	24	3
+Stage 2	8	3
+Stage 2 Mode	16	3
+Stage 3 Mode	16	3
+Stage 5	8	3
+Stage 6	8	3
+Stage 6 Mode	16	3
+Static Amount	16	3
+Stripes 1	16	3
+Surface Opacity	16	3
+Target 1	16	3
+Target 2	16	3
+Target 3	16	3
+Target Map Layer	24	3
+Target Tracker	16	3
+Tint Strength	16	3
+Top Cap On	16	3
+Trail Fade	16	3
+Trail Feedback	16	3
+Trails Geometry	16	3
+Transparency	16	3
+Transparent	16	3
+Turbulence Field Zoom	24	3
+Type 1	12	3
+Type 2	8	3
+Type 3	8	3
+Under Color Mix	16	3
+Under Surface Color	24	3
+Unexpected track from start message	40	3
+Uniform Spacing	16	3
+Untitled Project 1	44	3
+Update Alpha From Layer	24	3
+Use 3D Model	16	3
+Use Emitter Alpha	24	3
+Use Emitter Color	24	3
+Use Emitter Emission	24	3
+Use Inertia	16	3
+Use Mask For	16	3
+Use Mask from Frame	24	3
+Use Model Color for Tint	32	3
+Use Particle Color	24	3
+Using Host Camera	24	3
+Vectorscope	16	3
+Velocity Over Life	24	3
+Velocity Randomness	24	3
+Vertices	16	3
+Video	12	3
+Wave Anchor	16	3
+Waveform Monitor	24	3
+Wind	8	3
+Wireframe Color	16	3
+Wireframe Thickness	24	3
+World Transform	16	3
+Wrap Source Spill	24	3
+YCbCr Waveform Monitor	24	3
+Z Layer	8	3
+Z Map	8	3
+0123456789abcdef	24	2
+Area	8	2
+BCC3Glow Alpha Edges	24	2
+BCC3Match Grain	16	2
+BCC3Radial Blur	16	2
+BCC8Color Key Test	32	2
+BCC8Color Range Key	24	2
+Channel PixelChooser Legacy	40	2
+Cineware Commandline Example	32	2
+Clone Destination	24	2
+Clone Source	16	2
+Dec	5	2
+Default Reflection	20	2
+Default Specular	24	2
+Demo XH	8	2
+Error reading PointTracker object	40	2
+Exception Thrown in SerializeKeyframeVector	48	2
+FF RenderTransformation MP	32	2
+FF SmoothInvHistograms	24	2
+Filter Set	12	2
+Fine Detail Radius	24	2
+Grain Presets	16	2
+Hide UI	8	2
+Hue Offset	16	2
+Image	8	2
+Image Layer 2	24	2
+Image Layer 4	16	2
+Lens Blur	16	2
+Lens Center	16	2
+Light Target 2	16	2
+Lighting	16	2
+Lock Colors to Red	24	2
+Lock to Horizontal	20	2
+Make Blur Dests	16	2
+Matte Softness PixelChooser Legacy	40	2
+Medium	8	2
+Mix Layer Geometrics	24	2
+Mix down	16	2
+Modulation 1 Layer	24	2
+New Particle Type	24	2
+Not enough	16	2
+Oct 27 2025	12	2
+Optical Flow Resolution	24	2
+Oval	8	2
+Post Mix Ease In	24	2
+Post Mix Threshold	24	2
+Pre-process	16	2
+Print	6	2
+SINK Pos XY	16	2
+Saturation Soft Clip	24	2
+Show UI	8	2
+Size X Over Life	24	2
+Size X Variation	24	2
+Sketch Mat	12	2
+Spawn Color Gradient	24	2
+Sphere	12	2
+Stage 1	8	2
+Stage 1 Mode	16	2
+Start	8	2
+Strands	8	2
+Stripes 2	16	2
+Time Track	16	2
+Title	12	2
+To PixelChooser Legacy	24	2
+Tolerance	16	2
+Too much	16	2
+Top Right	16	2
+Twist	8	2
+Unknown	8	2
+Unknown exception	24	2
+Unknown filter method in IHDR	32	2
+Warp	8	2
+WinApi FormatMessage returned error	40	2
+0 1 2 3 4 5 6 7 8 9	24	1
+0 Degrees	16	1
+0 to Current Value	24	1
+10 Seconds	16	1
+10 Sides	16	1
+11 Sides	16	1
+11 Yellowish-Green	24	1
+12 Deep Yellow	24	1
+12 Sides	16	1
+13 Sides	16	1
+14 Sides	16	1
+15 Deep Yellow	24	1
+15 Seconds	16	1
+15 Sides	16	1
+180 Degrees	16	1
+2 Seconds	16	1
+2 tn	5	1
+270 Degrees	16	1
+2E Pale Yellow	24	1
+2Phr	5	1
+2p-v	5	1
+3 Light Yellow	24	1
+3333333333333333	32	1
+3D Line Art	16	1
+3D Particle Memory Allocation Error	36	1
+3Way 11 Orientation	24	1
+8  Bit	8	1
+8 Sides	16	1
+9 Sides	16	1
+90 Degrees	16	1
+91	8	1
+AE Host Mask	16	1
+AE Transform	16	1
+Absolute Value	20	1
+Add	8	1
+Add to Value	16	1
+After Both	16	1
+After Effects	16	1
+After Incoming	24	1
+After Outgoing	24	1
+All Features	16	1
+Alpha Aware	16	1
+Alpha Channel	16	1
+Alpha Inverted	24	1
+Alpha Masked	16	1
+Alpha Source Layer	24	1
+Alternate Front Faces	24	1
+Anchor Pan	16	1
+Angle Repeats	16	1
+Angle Speed	16	1
+Animate Thickness	24	1
+Apply Rays To	16	1
+Arial	9	1
+Arrow	8	1
+Auto-animate Matte	24	1
+Autotrace call	24	1
+B-W Matte	16	1
+BCC32D Particles	24	1
+BCC3Alpha Pixel Noise	24	1
+BCC3Alpha Process	24	1
+BCC3Correct Selected Color	32	1
+BCC3Film Process	20	1
+BCC3Gaussian Blur	24	1
+BCC3Lens Flare Adv	24	1
+BCC3Levels Gamma	24	1
+BCC3Light Matte	16	1
+BCC3Linear Color Key	32	1
+BCC3Linear Luma Key	24	1
+BCC3Make Alpha Key	24	1
+BCC3Page Turn	16	1
+BCC3Pixel Chooser	32	1
+BCC3RGB Blend	16	1
+BCC3Rays Puffy	16	1
+BCC3Reverse Spotlight	24	1
+BCC3Rough Glow	16	1
+BCC4Tile Mosaic	16	1
+BCC6Charcoal Sketch	22	1
+Back Material	16	1
+Background image	20	1
+Bad Frame	16	1
+Bad level mode getting chunk offset table size	64	1
+Bars	8	1
+Beauty Studio	16	1
+Best Resolution	24	1
+Bevel	12	1
+Bevel Host Path	24	1
+Bidirectional	16	1
+Bilinear	16	1
+Bin View Mode	16	1
+Bitmap	8	1
+Black-point	16	1
+Blacks	8	1
+Blue 2	8	1
+Blue 4	8	1
+Blue Channel	16	1
+Blue Exposure	16	1
+Blue Map	16	1
+Blue Smooth	16	1
+Blue-Green Intensity	24	1
+Blur Blue	14	1
+Blur U	8	1
+Blur V	8	1
+Bogus	8	1
+Bold Italic	16	1
+Boost Alpha	16	1
+Boris Blue Warning	32	1
+Boris FX	16	1
+Boris FX Audio Stream	32	1
+Bottom MATERIAL	24	1
+Bottom Material	24	1
+Bottom Texture File	24	1
+Bottom-to-top	16	1
+Box Percentage	24	1
+Break Curve	16	1
+Break Particles	16	1
+Brick	12	1
+Bring to Top	16	1
+CCITT Group 3	16	1
+CCITT Group 4	16	1
+CMYK Colour	16	1
+CRC error	16	1
+Call not valid for current render state	62	1
+Camera Shake Dissolve	32	1
+Can not unlink directory in read-only file	56	1
+Cartoon Thickness	24	1
+Center Brightness	24	1
+Center on Shape	24	1
+Channel Blur Dissolve	32	1
+Channel Blur YUV	20	1
+Channel Limit	16	1
+Channel YUV Blur	24	1
+Chocolate 1	16	1
+Chocolate 2	16	1
+Chocolate 3	16	1
+Choke Mode	16	1
+Choose Preset	16	1
+Cineware Saver	24	1
+Clamp Blend Layer	24	1
+Classic Continuum	30	1
+Clean FG Noise	24	1
+Click To Add	16	1
+Close Contour	16	1
+Coarse	8	1
+Color Burn	16	1
+Color Dodge	16	1
+Color Gradient	16	1
+Color Safe Output	24	1
+Colorized Flow	24	1
+Commandline Example	32	1
+Comment	16	1
+Comp Light	16	1
+Complement	16	1
+Composition	16	1
+Compression	16	1
+Compression algorithm does not support random access	64	1
+Concave	16	1
+Connect Splines	20	1
+Continuum	12	1
+Control	8	1
+Convert	16	1
+Convex	16	1
+Cool Blue 4	16	1
+Cool Blue 5	16	1
+Corner	10	1
+Corner 2 TR	16	1
+Corner 3 BR	16	1
+Corner 4 BL	12	1
+Corner Pin	30	1
+Could not initialize FreeType library	48	1
+Cranberry 2	16	1
+Cranberry 3	16	1
+Crash Zoom	16	1
+Create	8	1
+Create Oval	19	1
+Crossfade End Colors	24	1
+Ctrl	8	1
+Cube	8	1
+CubeShape eBuildRS3dScene entering	48	1
+CubeShape eBuildRS3dScene leaving	40	1
+Cubic	12	1
+Curvature X	16	1
+Curvature Y	16	1
+Cusp Points	16	1
+Custom	8	1
+Custom 3D Models	24	1
+Custom Textures	24	1
+Custom UI opened	24	1
+Cyan 2	8	1
+Cyan 4	8	1
+DS Result	16	1
+Darker	12	1
+Darker Color	16	1
+Deep scanline data corrupt at tile	48	1
+Deep scanline sampleCount data corrupt at chunk	64	1
+Deep tile sampleCount data corrupt at tile	56	1
+Deflate	16	1
+Delete	12	1
+Delete Control Point	32	1
+Delete Key	16	1
+Delete key	16	1
+Denoised FG	16	1
+Depth Direction	24	1
+Desaturation	16	1
+Deselect All	16	1
+Deselect Object	24	1
+Destination Kelvin	24	1
+Destination image	24	1
+Detail Tuning	16	1
+Detail+	16	1
+Detail-	16	1
+Diffusion	14	1
+Direction X	16	1
+Direction Y	16	1
+Direction Z	12	1
+Disabled	12	1
+Display Bezier Controls	32	1
+Display Motion Path	24	1
+Display Shape Controls	32	1
+Display Source	24	1
+Dissolve	16	1
+Distort	16	1
+Dots	12	1
+Dummy String - No Match	32	1
+Duotone	16	1
+EMITTER Pos XY	16	1
+Edge Color Only	24	1
+Edge Fade	16	1
+Edge Strength	16	1
+Edit Segment	16	1
+Effect Scaler	16	1
+Element Count	16	1
+Ellipse	12	1
+Enable All	16	1
+Enable Generator	24	1
+Enable Percent Done Control	40	1
+EndPoint 2	16	1
+Endpoints	16	1
+Enhancing	16	1
+Environment Map	20	1
+Erosion Map	16	1
+Error Calling Project Importer Plugin	48	1
+Error Resolving Gasket Plugin Instance	48	1
+Error fetching directory link	38	1
+Error reading Gasket plugin filter	48	1
+Error writing Gasket plugin filter	48	1
+Error writing Motion filter	40	1
+Error writing Point Tracker object	48	1
+Every Frame	16	1
+Expand	8	1
+Expand Edge	16	1
+Exposure Compensation	32	1
+Extend Spline	16	1
+Extended	16	1
+Extra Bold	16	1
+Extract On	16	1
+Extras	12	1
+Extruded EPS	16	1
+Extruded Spline	24	1
+Extruded Text	16	1
+Eye Left	16	1
+Eye Right	16	1
+Eyebrow Left	16	1
+Eyebrow Right	16	1
+Face Detection Matte	32	1
+Face Detection Overlay	32	1
+Fade Map	16	1
+Fast	12	1
+Faster	12	1
+Fece Detection ML	24	1
+Field Double	16	1
+Fill Light	16	1
+Film Process	16	1
+Film Roll	16	1
+Filter	8	1
+Filters	16	1
+Fine	12	1
+First Frame	16	1
+Fit Inside	16	1
+Fit Outside	16	1
+Flicker Bias	16	1
+Flip X	8	1
+Flip X+Y	12	1
+Flip Y	12	1
+Flow Morph ML	16	1
+Fo	8	1
+Fog	8	1
+Font Style Category	24	1
+Forward	16	1
+Frame	8	1
+Frame Analysis	16	1
+Frames	8	1
+Free Rotation	16	1
+Garbage Matte	16	1
+Generators	16	1
+Glare	8	1
+Glint	8	1
+Glitter	16	1
+Global Seed	16	1
+Glow Edges	16	1
+Glow Matte	16	1
+Glow Matte Type	24	1
+Goto next key	16	1
+Goto next rotospline key	32	1
+Goto previous key	24	1
+Goto previous rotospline key	40	1
+Grade Levels	16	1
+Gradient Style Category	32	1
+Gray	8	1
+Grayscale	16	1
+Green 1	16	1
+Green 2	16	1
+Green 3	16	1
+Green 4	16	1
+Green 5	12	1
+Green Channel	16	1
+Green Exposure	24	1
+Grid Pixel spacing	24	1
+Grid Subdivisions	24	1
+Guide Strength	20	1
+Guided Filter	16	1
+Guideline Color	24	1
+HL MaxMicro	12	1
+HSL Hue Tolerance	24	1
+HSL Light Tolerance	24	1
+HSL Saturation Tolerance	32	1
+Half Circle	16	1
+Half Sine	16	1
+Halo Only	16	1
+Hard Light	16	1
+Heart	12	1
+High	8	1
+History View Mode	24	1
+Holdout Matte	16	1
+Horizontal Perspective	24	1
+Horizontal Streaks	24	1
+Horizontal Strip	24	1
+Host Preview	16	1
+Hotspot	16	1
+Hyper Twirl	16	1
+Ice Halos	16	1
+Image Processors	24	1
+Imported Model	24	1
+Incoming	16	1
+Incoming & Outgoing	24	1
+Indexed Colour	24	1
+Infrared	16	1
+Inner Radius	16	1
+Input is Linear	24	1
+InputFile cannot handle parts of type	48	1
+Insert	8	1
+Inside Oval	16	1
+Inside Rectangle	24	1
+Insufficient texture memory	32	1
+Interpolate	16	1
+Interpolation End Frame	32	1
+Interpolation Start Frame	32	1
+Invalid attempt to read row data	40	1
+Invalid character	24	1
+Invalid character in the stream	40	1
+Invalid deep tile size	32	1
+Invalid input	16	1
+Invalid segment	16	1
+Invalid time specified for tIME chunk	49	1
+Jitter Basic	16	1
+Kelvin	8	1
+Kernel	12	1
+Kerning	16	1
+Key Out Dissimilar	24	1
+Killing XGWorld	24	1
+L003 Lavender Tint	24	1
+L048 Rose Purple	24	1
+L107 Light Rose	24	1
+L109 Light Salmon	24	1
+L126 Mauve	16	1
+L136 Pale Lavender	24	1
+L169 Lilac Tint	24	1
+L170 Deep Lavender	24	1
+L176 Loving Amber	24	1
+L345 Fuchsia Pink	24	1
+L704 Lily	16	1
+L797 Deep Purple	24	1
+LCH Hue Tolerance	24	1
+LCH Keyer	16	1
+Lab Colour	16	1
+Large Details	16	1
+Largest Details	20	1
+Last Filter	16	1
+Layer Count	16	1
+Layers	8	1
+Left Material	16	1
+Left to Right	16	1
+Left-to-right	16	1
+Lens Flare	16	1
+Lens Flare Adv	24	1
+Level Far	16	1
+Level Near	16	1
+License Plate Detection ML	32	1
+Lift	8	1
+Light Brightness	24	1
+Light Leaks Dissolve	32	1
+Light Matte	16	1
+Light Position X	24	1
+Light Position Y	24	1
+Light Position Z	24	1
+Light Spread	16	1
+Light Wrap Edge Only	32	1
+Lighter Color	16	1
+Line Noise	16	1
+Line Noise Size X	24	1
+Line Noise Type	24	1
+Linear	8	1
+Linear Add	16	1
+Linear Burn	16	1
+Linear Dodge	16	1
+Linear Light	16	1
+Linear Screen	16	1
+Link to Sampler from Apply Options A	48	1
+Lip Bottom	16	1
+Lip Top	16	1
+Load Animated Preset at First Frame	48	1
+Lock Aspect	16	1
+Lock to Position	24	1
+Logger	12	1
+Looper	8	1
+Luma Boost to White	24	1
+Luma Inverted	16	1
+MNG features are not allowed in a PNG datastream	56	1
+Mask Transparent Pixels	32	1
+Mask and Track Hosted	32	1
+Mask image	12	1
+Master Proxy	16	1
+Master Saturation	24	1
+Match Flare Angle	24	1
+Material	16	1
+Material Style	24	1
+Matte Post Process	24	1
+Matte Repair	16	1
+Matte+	8	1
+Matte-	12	1
+Max Depth	16	1
+Max Frequency	16	1
+Medium Details	24	1
+Memory is Low-UWindowManager	40	1
+Message too large	24	1
+Min to Current Value	32	1
+Mirror	8	1
+Mismatch between Preview Image Attribute size and dimensions	80	1
+Mitchell	12	1
+Miter	8	1
+Mocha Mask	16	1
+Mocha Spline	16	1
+Mocha Track	16	1
+Modes	8	1
+Moonlight	16	1
+More Filters	16	1
+Multi Star	16	1
+Multi-Star Dissolve	24	1
+Multi-frame	16	1
+Multiplier	12	1
+ND Brightness	16	1
+Natural Style Category	32	1
+New Scene Group	16	1
+Night Vision	16	1
+No Error	16	1
+No Location for Uniform Variable	40	1
+No Program for Uniform Variable	32	1
+No error	16	1
+No fonts loaded	20	1
+No resource string for this error	40	1
+No space for JPEGTables	32	1
+No space for LZW state block	40	1
+No space for ZIP state block	40	1
+Noisy Iris	16	1
+None Selected	16	1
+Oblique	16	1
+Occlusion	16	1
+Occlusion Source	20	1
+Ocircumflexsmall	17	1
+Off	8	1
+One-Sided Plane	20	1
+Only 1 and 3 channel encoding is supported	56	1
+Opacity Only	16	1
+Opacity and Spill	24	1
+Option Change	16	1
+Orange	8	1
+Orbit	8	1
+Orbs Dissolve	16	1
+Orbs Light Source	24	1
+Outer Radius	16	1
+Outgoing	16	1
+Outside	16	1
+Outside Rectangle	24	1
+Overlay	16	1
+Override Folders	24	1
+Override Groups	20	1
+PC Intensity PixelChooser Legacy	40	1
+PNG fixed point integer out of range	48	1
+PRM Importer API	20	1
+Pad Color	16	1
+Pan	8	1
+Parallel	16	1
+Param	8	1
+Parameter	16	1
+Particle Emitter Texture	32	1
+Particle Systems II	72	1
+Particles per Ring	24	1
+Pedestal	16	1
+Pen Tool	16	1
+Photographic	16	1
+Pin Bottom	16	1
+Pin Horiz	16	1
+Pin Light	16	1
+Pin Point2	16	1
+Pin Vertical	16	1
+Pinch Distance	16	1
+Pixel Chooser Filter	32	1
+Pixel Chooser Hosted	32	1
+Point 2 PixelChooser Legacy	28	1
+Point Radius	16	1
+Point To Object	16	1
+Point To Target	16	1
+Polar Displacement	24	1
+Polygon	12	1
+Polygon Object	16	1
+Positioin	16	1
+Post Glow	16	1
+Precise	16	1
+Precomp	12	1
+Predictor	24	1
+Prem	8	1
+Premiere Plug-In Error	32	1
+Premiere Synthetic Importer	40	1
+Premultiplied	16	1
+Preserve Highlights	24	1
+Preset000	12	1
+Preview Samples	24	1
+Print to Slide	24	1
+Printer Points	24	1
+Prism Blur	16	1
+Prism Dissolve	24	1
+Prism Shift	16	1
+Procedural	16	1
+Project	16	1
+Quadradic Soft	24	1
+Quadratic	12	1
+RED43D Extruded Image Shatter	40	1
+RGB Blue Weight	24	1
+RGB Colour	16	1
+RGB Glow	16	1
+RGB Green Weight	24	1
+RGB Max	12	1
+RGB Straight Source	24	1
+Rack Focus	16	1
+Rack Focus Dissolve	24	1
+Radial Amount	16	1
+Radial Blur	16	1
+Radial Grad	16	1
+Radial Map	16	1
+Radius Offset	16	1
+Rainbow	16	1
+Rainbow Only	16	1
+Ramp Scale	16	1
+Random Spikes	16	1
+Randomness	16	1
+Rays Source	16	1
+Re-checkout UNIT license SUCCESS post health check	56	1
+Recovery	16	1
+Red Channel	16	1
+Red Density	16	1
+Red Exposure	16	1
+Red Saturation	24	1
+Reference Image	24	1
+Region	8	1
+Region Blend PixelChooser Legacy	40	1
+Region Corner 1	16	1
+Region Corner 2	16	1
+Regular	12	1
+Render Over Effect	24	1
+RenderSnapshot  Get params	40	1
+Repair Duration	24	1
+Replace Value	16	1
+Resize	12	1
+Restore Defaults	24	1
+Retimer ML	16	1
+Retry	8	1
+Reverse	12	1
+Reverse Contour	24	1
+Reverse Points	24	1
+Right Material	24	1
+Right-to-left	16	1
+Rings per Layer	16	1
+Rotation Amount	24	1
+Rounded Rectangle	24	1
+ST Map	8	1
+Save Shortcuts	24	1
+Saved Preset	16	1
+Sawtooth	16	1
+Scale Multiply	24	1
+Scissors	16	1
+Secondary Interpolation	32	1
+Segment name cannot be empty	40	1
+Select All	16	1
+Select Host Mask	24	1
+Select Object	16	1
+Selective Saturation	32	1
+Semicircle	16	1
+Send Backward	16	1
+Set Bad Frame	16	1
+Shadow Brightness	24	1
+Shake Ease In	16	1
+Shape Only	16	1
+Share Project	16	1
+Sharp	8	1
+Shift Drift	16	1
+Show Masks	16	1
+Show Render Time	24	1
+Show Rulers	16	1
+Show Transformations	32	1
+Side Host Path	24	1
+Sinc	12	1
+Single Dot	16	1
+Sketch & Toon Tag	24	1
+Skin	8	1
+Skip	10	1
+Sky Object	16	1
+Slide to Print	24	1
+Small Details	16	1
+Smoke and Fog Dissolve	32	1
+Smoky Rays	16	1
+Smooth Control Points	32	1
+Smooth Mode	16	1
+Smooth Points	16	1
+Smoother	16	1
+Soften Method	16	1
+Solid	12	1
+Solid Color	16	1
+Source Center	16	1
+Source Kelvin	16	1
+Source Mode	16	1
+Source Point	16	1
+Spectrum 1	16	1
+Spectrum 10	16	1
+Spectrum 11	16	1
+Spectrum 12	16	1
+Spectrum 13	16	1
+Spectrum 14	16	1
+Spectrum 2	16	1
+Spectrum 3	16	1
+Spectrum 4	16	1
+Spectrum 5	16	1
+Spectrum 6	16	1
+Spectrum 7	16	1
+Spectrum 8	16	1
+Spectrum 9	16	1
+Speed Map	16	1
+Spill Map Alpha	24	1
+Spill Map Grayscale	24	1
+Spill Remover	16	1
+Spill-	8	1
+Spin Blur	16	1
+Spin Blur Dissolve	24	1
+Spline Mask	24	1
+Spline Style Category	32	1
+Stabilizer	16	1
+Star	8	1
+Stars	8	1
+Startup	8	1
+Stencil Alpha	16	1
+Straight	16	1
+Stretch To Fit	24	1
+Strip	12	1
+Styles	12	1
+Subtract from Value	24	1
+Sun Altitude	16	1
+Super Twirl	16	1
+Suppress	16	1
+Sustain	16	1
+Swirling Radius	24	1
+Switch Project Sharing Option	40	1
+Switch to 2D Composite	32	1
+Tangerine 1	16	1
+Tangerine 3	16	1
+Teeth	8	1
+Text Shape Size Option Float	40	1
+Text files	11	1
+Textbox	16	1
+Texture 15	16	1
+Texture DVE	16	1
+Texture Geometrics	20	1
+Texture Map	16	1
+Texture Wipe	16	1
+Threshholding	16	1
+Threshold w Boost + Desat	32	1
+Tiffen	8	1
+Timecode	16	1
+Timeout	8	1
+Tint Mode	16	1
+Tobacco 1	16	1
+Tobacco 2	16	1
+Tobacco 3	16	1
+Tone Adjust	16	1
+Top Bump File	16	1
+Top Bump Layer	24	1
+Top Left	16	1
+Top MATERIAL	16	1
+Top Material	16	1
+Top Texture File	24	1
+Top Texture Layer	24	1
+Top to Bottom	16	1
+Top-to-bottom	16	1
+Total Scale	16	1
+Triangle	16	1
+Two-Sided Plane	20	1
+Type 42	12	1
+Type Off	16	1
+Type On Text	16	1
+Type PixelChooser Legacy	32	1
+UP Result	16	1
+UV Map	12	1
+Ultra	12	1
+Uncircle	16	1
+Unfiltered Noise	24	1
+Unkeyed	12	1
+Unknown Name	16	1
+Unknown Type	16	1
+Unknown feature	24	1
+Unknown interlace method in IHDR	40	1
+Unpremultiply	16	1
+Unrecognized unit type for pHYs chunk	48	1
+Unshare Project	24	1
+Unsupported model	24	1
+Use	8	1
+Use External ST Map	24	1
+Use SLT Blur	16	1
+User	8	1
+Variable	16	1
+Vector Displacement	24	1
+Vegas	8	1
+Version	12	1
+Vertical Perspective	24	1
+Vertical Streaks	24	1
+Vertical Strip	24	1
+Video 3	16	1
+Video 5	16	1
+Video 6	16	1
+Video 7	16	1
+Video Err	16	1
+View Matte Source	24	1
+View Rays	16	1
+View Smoky Rays	24	1
+Vivid Light	16	1
+Volume	8	1
+White-point	16	1
+Wide Angle Lens	24	1
+Win	8	1
+Window	12	1
+Windows	8	1
+Windows FNT	16	1
+Wrap On Black	16	1
+Wrap X	8	1
+Wrap Y	8	1
+X Axis	8	1
+X Bias	8	1
+Xray	8	1
+Y Axis	8	1
+Y Bias	12	1
+Ydieresissmall	15	1
+Yellow 5	16	1
+Zoom Rot Center	16	1

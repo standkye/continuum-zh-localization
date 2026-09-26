@@ -1,0 +1,268 @@
+# -*- coding: utf-8 -*-
+"""第 7 批：用户反馈的「词典缺键」漏翻 UI 标签，逐条手写。
+   容量按 GBK 自检（2 字节/汉字 + 1 字节 NUL）。
+"""
+import json, os, csv
+
+BASE = r'D:\Programming project\插件汉化'
+ENC = 'gbk'
+
+M = {
+    # ===== 用户点名的两个 =====
+    "Curves": "曲线",
+    "Allow Resizing": "允许调整尺寸",
+
+    # ===== BCCPlus.dll =====
+    "Matte": "遮罩",
+    "Screen": "屏幕",
+    "Under": "下方",
+    "Smoke": "烟雾",
+    "Generator": "生成器",
+    "Line Opacity": "线条不透明度",
+    "Inside": "内部",
+    "Border 1": "边框 1",
+    "Pivot": "轴心",
+    "Medium Sharpen": "中度锐化",
+    "Coarse Pass": "粗糙通道",
+    "Soft Light": "柔光",
+    "Target Layer": "目标图层",
+    "Block Damage": "块状损坏",
+    "Motion Vectors": "运动矢量",
+
+    # ===== Continuum_3DObjects_AE.dll =====
+    "Display Resolution": "显示分辨率",
+    "Panel Color": "面板颜色",
+    "Is Playing": "正在播放",
+    "Current Part": "当前部件",
+    "Extrusion Style": "挤出样式",
+    "Cylinder": "圆柱体",
+    "Options": "选项",
+    "Move": "移动",
+    "Custom Spline": "自定义样条",
+    "Front": "前面",
+    "Cloud Object": "云对象",
+    "Null Object": "空对象",
+    "Plugin Object": "插件对象",
+    "PluginPolygon Object": "插件多边形对象",
+    "Plugin Tag": "插件标签",
+    "Align To Spline Tag": "对齐到样条标签",
+    "Target Expression": "目标表达式",
+    "Anchor Tag": "锚点标签",
+    "Vertex Color Tag": "顶点颜色标签",
+    "Unknown Blend Layer": "未知混合图层",
+    "Posterize Blend Layer": "色调分离混合图层",
+    "Colorize Blend Layer": "着色混合图层",
+    "Clip Blend Layer": "裁剪混合图层",
+    "Transform Blend Layer": "变换混合图层",
+    "Terrain": "地形",
+    "Grass": "草地",
+    "Mat": "遮片",
+    "Other": "其他",
+    "New Group": "新建组",
+    "Grid": "网格",
+    "Spline Object": "样条对象",
+    "Light Object": "灯光对象",
+
+    # ===== Continuum_AE_* .dll =====
+    "Input Layer": "输入图层",
+    "Compare Mode": "比较模式",
+    "Preview Composite Type": "预览合成类型",
+    "Load Animated Preset - Stretch": "加载动画预设-拉伸",
+    "Use Timeline Text": "使用时间轴文本",
+    "Start Tracking Frame": "开始跟踪帧",
+    "End Tracking Frame": "结束跟踪帧",
+    "Mask Points": "遮罩点",
+    "Mask Pt 1": "遮罩点 1",
+    "Mask Pt 2": "遮罩点 2",
+    "Host Offset": "宿主偏移",
+    "Motion Tracker": "运动跟踪器",
+    "File Path": "文件路径",
+    "Preset Type": "预设类型",
+    "Ray Splits": "光线分割",
+    "Glow": "辉光",
+    "Focus Matte": "聚焦遮罩",
+    "Variance 1": "方差 1",
+    "Variance 2": "方差 2",
+    "Interaction": "交互",
+    "Location Layer": "位置图层",
+    "Alternate FG Layer": "备用前景图层",
+    "Foreground Transforms": "前景变换",
+    "Foreground Effects": "前景效果",
+    "Background Setup": "背景设置",
+    "Alternate BG Layer": "备用背景图层",
+    "Background Effects": "背景效果",
+    "Emitter Layer": "发射器图层",
+    "Gradient Preset": "渐变预设",
+    "Surface Image": "表面图像",
+    "Image Layer": "图像图层",
+    "Image Layer 5": "图像图层 5",
+    "Image Layer 6": "图像图层 6",
+    "Image Layer 7": "图像图层 7",
+    "Choose Layer A": "选择图层A",
+    "Choose Layer B": "选择图层B",
+    "Pinning": "固定",
+    "Stain": "污渍",
+    "Color Preset": "颜色预设",
+    "Advanced Gradient Controls": "高级渐变控制",
+    "Radial Matte": "径向遮罩",
+    "Organic Noise": "有机噪波",
+    "Movement": "位移",
+    "Effects": "效果",
+    "Red From": "红色起始",
+    "Pin FX": "钉住特效",
+    "Pin FX Layer": "钉住特效图层",
+    "Shift FX Layer": "位移特效图层",
+    "Size FX Layer": "缩放特效图层",
+    "Wipe FX Controls": "擦除特效控制",
+    "Pins": "图钉",
+    "Pin Screen": "钉住屏幕",
+    "Transform - Screen": "变换-屏幕",
+    "Transform - Pins": "变换-图钉",
+    "Noise Waves": "噪波波纹",
+    "Post Mix Ease Out": "混合后缓出",
+    "Noise Interpolation": "噪波插值",
+    "White Noise": "白噪波",
+    "Balance 1": "平衡 1",
+    "Balance 2": "平衡 2",
+    "Cards": "卡片",
+    "Front Face": "正面",
+    "Back Face": "背面",
+    "Alternate Face 4": "备用面 4",
+    "Alternate Face 5": "备用面 5",
+    "Fractal Movement": "分形位移",
+    "Array": "阵列",
+    "Transform - System": "变换-系统",
+    "Transform - Particle": "变换-粒子",
+    "Dispersion": "色散",
+    "Ripple Controls": "涟漪控制",
+    "Fractal Noise": "分形噪波",
+    "Control Maps": "控制贴图",
+    "Control Map 1": "控制贴图 1",
+    "Control Map 3": "控制贴图 3",
+    "Control Map 4": "控制贴图 4",
+    "Control Map 5": "控制贴图 5",
+    "System": "系统",
+    "Wipe Effect": "擦除效果",
+    "Texture Flow Direction": "纹理流向",
+    "Borders": "边框",
+    "Border 1 Layer": "边框1图层",
+    "Border 2": "边框 2",
+    "Border 2 Layer": "边框2图层",
+    "Border 3": "边框 3",
+    "Border 3 Layer": "边框3图层",
+    "Generate Output A": "生成输出A",
+    "Generate Output B": "生成输出B",
+    "Generate Output C": "生成输出C",
+    "FX Output B": "特效输出B",
+    "FX Output C": "特效输出C",
+    "Influence Controls": "影响控制",
+    "Influence Layer": "影响图层",
+    "Fractal Flow Direction": "分形流向",
+    "Post Process": "后处理",
+    "Apply Parameter": "应用参数",
+    "Audio Apply Options": "音频应用选项",
+    "Taffy Stretch": "拉糖拉伸",
+    "Randomize Stripes": "随机化条纹",
+    "Spotlight Controls": "聚光灯控制",
+    "Planks": "木板",
+    "Turbulence Settings": "湍流设置",
+    "Modulation": "调制",
+    "Modulation 1 Source": "调制1源",
+    "Modulation 2 Source": "调制2源",
+    "Motion Estimation": "运动估计",
+    "Source Edges": "源边缘",
+    "Shadow 2": "阴影 2",
+    "Shadow 3": "阴影 3",
+    "Jitter Source": "抖动源",
+    "Camera & Lights": "相机与灯光",
+    "Alternate Back": "备用背面",
+    "Only Use Top Left": "仅使用左上",
+    "Drop Shadow": "投影",
+    "Lock to Center": "锁定到中心",
+    "Light 1": "灯光 1",
+    "Light 2": "灯光 2",
+    "Light 3": "灯光 3",
+    "Blend All": "混合全部",
+    "Border & Shadow": "边框与阴影",
+    "Plane 1": "平面 1",
+    "Plane 3": "平面 3",
+    "Plane 5": "平面 5",
+    "Sphere 1": "球体 1",
+    "Specular Falloff": "镜面衰减",
+    "Sweep Width": "扫描宽度",
+    "Light Distance Z": "灯光距离Z",
+    "Custom Shape": "自定义形状",
+    "Shape Image": "形状图像",
+    "Custom Gradient": "自定义渐变",
+    "Gravity Type": "重力类型",
+    "Source Layer": "源图层",
+    "Source Layer 2": "源图层 2",
+    "Frame Scale X": "帧缩放X",
+    "Frame Scale Y": "帧缩放Y",
+    "Source Size": "源尺寸",
+    "Source Width": "源宽度",
+    "Source Height": "源高度",
+    "Scale and Offset": "缩放与偏移",
+    "Background Layer": "背景图层",
+    "Color Correction": "颜色校正",
+    "Composite Behind": "在后方合成",
+    "Preview Settings": "预览设置",
+    "Source Format": "源格式",
+    "Insert Order": "插入顺序",
+    "Insert Feather Radius": "插入羽化半径",
+    "Temporal": "时域",
+    "Spatial": "空间",
+    "Mix": "混合",
+    "Mix Noise": "混合噪波",
+    "Dark Bias On": "暗部偏移启用",
+    "Spatial Master": "空间主控",
+    "Spatial Stage 1": "空间阶段1",
+    "Spatial Stage 2": "空间阶段2",
+    "Blurs": "模糊",
+    "Exponent Offset": "指数偏移",
+    "Bias Min Weight": "偏置最小权重",
+    "Bias Offset": "偏置量",
+    "Color Ramp": "颜色渐变",
+    "Optical Flow Method": "光流法",
+    "Better Downsampling": "更好的降采样",
+    "Motion Complexity": "运动复杂度",
+}
+
+# ---------- 容量自检 ----------
+tsv = os.path.join(BASE, '_work', '_ui_miss.tsv')
+caps = {}
+counts = {}
+if os.path.exists(tsv):
+    with open(tsv, encoding='utf-8') as f:
+        f.readline()
+        for line in f:
+            parts = line.rstrip('\n').split('\t')
+            if len(parts) >= 3:
+                caps[parts[0]] = int(parts[1])
+                counts[parts[0]] = int(parts[2])
+
+print('待翻 %d 条' % len(M))
+over = []
+nofit = []
+for en, zh in M.items():
+    need = len(zh.encode(ENC)) + 1
+    cap = caps.get(en)
+    if cap is None:
+        nofit.append((en, zh, '清单里没有（可能已被别的批次覆盖或位置不同）'))
+        continue
+    if need > cap:
+        over.append((en, zh, need, cap))
+
+print('放不下: %d' % len(over))
+for en, zh, need, cap in over:
+    print('   %-32s -> %-16s 需要%3d 可用%3d' % (en, zh, need, cap))
+print('清单里查不到: %d' % len(nofit))
+for en, zh, why in nofit[:20]:
+    print('   %-32s -> %-16s  %s' % (en, zh, why))
+
+if over:
+    print('\n★ 有放不下的，本批次不落地，先修正')
+else:
+    out = os.path.join(BASE, '_work', 'batch7_miss.json')
+    json.dump(M, open(out, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+    print('\n已写出 %s  (%d 条)' % (out, len(M)))

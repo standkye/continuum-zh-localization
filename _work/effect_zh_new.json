@@ -1,0 +1,4394 @@
+{
+"Ambient Light.aex": [
+[
+" BCC+Ambient Light",
+"环境光",
+20,
+11918,
+18
+]
+],
+"Atmospheric Glow Dissolve.aex": [
+[
+" BCC+Atmospheric Glow Dissolve",
+"大气辉光溶解",
+32,
+11918,
+30
+]
+],
+"Atmospheric Glow.aex": [
+[
+" BCC+Atmospheric Glow",
+"大气辉光",
+24,
+11918,
+22
+]
+],
+"Audio Visualizer.aex": [
+[
+" BCC+Audio Visualizer",
+"音频可视化",
+24,
+11918,
+22
+]
+],
+"BCC3WayColorGrade.aex": [
+[
+"BCC 3 Way Color Grade",
+"三路调色",
+24,
+31086,
+22
+]
+],
+"BCC3dImageShatter.aex": [
+[
+"BCC 3D Image Shatter",
+"三维图像碎裂",
+24,
+31086,
+22
+]
+],
+"BCCAdvancedComposite.aex": [
+[
+"BCC Composite",
+"合成",
+16,
+31086,
+14
+]
+],
+"BCCAlphaPixelNoise.aex": [
+[
+"BCC Alpha Pixel Noise OBS",
+"阿尔法像素噪点旧版",
+28,
+31086,
+26
+]
+],
+"BCCAlphaProcess.aex": [
+[
+"BCC Alpha Process",
+"阿尔法通道处理",
+20,
+31086,
+18
+]
+],
+"BCCAlphaSpotlight.aex": [
+[
+"BCC Alpha Spotlight OBS",
+"阿尔法聚光灯旧版",
+24,
+31086,
+22
+]
+],
+"BCCArtistsPoster.aex": [
+[
+"BCC Artist's Poster",
+"艺术海报",
+20,
+31086,
+18
+]
+],
+"BCCBeatReactor.aex": [
+[
+"BCC Beat Reactor",
+"节拍反应器",
+32,
+31086,
+30
+]
+],
+"BCCBeautyStudio.aex": [
+[
+"BCC Beauty Studio OBSOLETE",
+"美颜工作室旧版",
+28,
+31086,
+26
+]
+],
+"BCCBlobsWipe.aex": [
+[
+"BCC Blobs Wipe",
+"斑点擦除",
+16,
+31086,
+14
+]
+],
+"BCCBlobsWipePrTr.aex": [
+[
+"BCC Blobs Wipe",
+"斑点擦除",
+16,
+31086,
+14
+]
+],
+"BCCBlur.aex": [
+[
+"BCC Blur",
+"模糊",
+12,
+31086,
+10
+]
+],
+"BCCBlur4.aex": [
+[
+"BCC VR Blur",
+"VR模糊",
+16,
+31086,
+14
+]
+],
+"BCCBlurDissolve.aex": [
+[
+"BCC Blur Dissolve OBSOLETE",
+"模糊溶解旧版",
+28,
+31086,
+26
+]
+],
+"BCCBlurDissolvePrTr.aex": [
+[
+"BCC Blur Dissolve OBSOLETE",
+"模糊溶解旧版",
+28,
+31086,
+26
+]
+],
+"BCCBoostBlend.aex": [
+[
+"BCC Boost Blend OBS",
+"增强混合旧版",
+20,
+31086,
+18
+]
+],
+"BCCBrightnessContrast.aex": [
+[
+"BCC Brightness-Contrast",
+"亮度对比度",
+24,
+31086,
+22
+]
+],
+"BCCBroadcastSafe.aex": [
+[
+"BCC Broadcast Safe",
+"广播安全",
+20,
+31086,
+18
+]
+],
+"BCCBulge.aex": [
+[
+"BCC Bulge",
+"凸出",
+12,
+31086,
+10
+]
+],
+"BCCBumpBrick.aex": [
+[
+"BCC Brick OBSOLETE",
+"砖墙旧版",
+20,
+31086,
+18
+]
+],
+"BCCBumpMap.aex": [
+[
+"BCC Bump Map",
+"凹凸贴图",
+16,
+31086,
+14
+]
+],
+"BCCBumpRock.aex": [
+[
+"BCC Rock OBSOLETE",
+"岩石旧版",
+20,
+31086,
+18
+]
+],
+"BCCBurntFilm.aex": [
+[
+"BCC Burnt Film",
+"灼烧胶片",
+16,
+31086,
+14
+]
+],
+"BCCBurntFilmPrTr.aex": [
+[
+"BCC Burnt Film",
+"灼烧胶片",
+16,
+31086,
+14
+]
+],
+"BCCCardArray.aex": [
+[
+"BCC Wild Cards",
+"扑克牌",
+32,
+31086,
+30
+]
+],
+"BCCCartoonLight.aex": [
+[
+"BCC Rays Cartoon OBSOLETE",
+"卡通光线旧版",
+28,
+31086,
+26
+]
+],
+"BCCCartoonLook.aex": [
+[
+"BCC Cartoon Look",
+"卡通外观",
+20,
+31086,
+18
+]
+],
+"BCCCartooner.aex": [
+[
+"BCC Cartooner",
+"卡通化",
+16,
+31086,
+14
+]
+],
+"BCCCaustics.aex": [
+[
+"BCC Caustics",
+"焦散",
+16,
+31086,
+14
+]
+],
+"BCCCheckerWipe.aex": [
+[
+"BCC Checker Wipe",
+"棋盘擦除",
+20,
+31086,
+18
+]
+],
+"BCCCheckerWipePrTr.aex": [
+[
+"BCC Checker Wipe",
+"棋盘擦除",
+20,
+31086,
+18
+]
+],
+"BCCChromaKey.aex": [
+[
+"BCC Chroma Key",
+"色度键控",
+16,
+31086,
+14
+]
+],
+"BCCChromaKeyStudio.aex": [
+[
+"BCC Chroma Key Studio",
+"色度键控工作室",
+24,
+31086,
+22
+]
+],
+"BCCCloth.aex": [
+[
+"BCC Cloth OBSOLETE",
+"布料旧版",
+20,
+31086,
+18
+]
+],
+"BCCClouds.aex": [
+[
+"BCC Clouds OBSOLETE",
+"云层旧版",
+24,
+31086,
+22
+]
+],
+"BCCColorBalance.aex": [
+[
+"BCC Color Balance",
+"色彩平衡",
+20,
+31086,
+18
+]
+],
+"BCCColorChoker.aex": [
+[
+"BCC Color Choker",
+"色彩收缩",
+20,
+31086,
+18
+]
+],
+"BCCColorCorrection.aex": [
+[
+"BCC Color Correction",
+"色彩校正",
+24,
+31086,
+22
+]
+],
+"BCCColorMatch.aex": [
+[
+"BCC Color Match",
+"色彩匹配",
+20,
+31086,
+18
+]
+],
+"BCCColorPalette.aex": [
+[
+"BCC Color Palette OBS",
+"调色板旧版",
+24,
+31086,
+22
+]
+],
+"BCCColorize.aex": [
+[
+"BCC Colorize",
+"着色",
+16,
+31086,
+14
+]
+],
+"BCCColorizeGlow.aex": [
+[
+"BCC Colorize Glow",
+"着色辉光",
+20,
+31086,
+18
+]
+],
+"BCCColorizeGlowDissolve.aex": [
+[
+"BCC Colorize Glow Dissolve",
+"着色辉光溶解",
+28,
+31086,
+26
+]
+],
+"BCCColorizeGlowDissolvePrTr.aex": [
+[
+"BCC Colorize Glow Dissolve",
+"着色辉光溶解",
+28,
+31086,
+26
+]
+],
+"BCCComet.aex": [
+[
+"BCC Comet OBSOLETE",
+"彗星旧版",
+20,
+31086,
+18
+]
+],
+"BCCCompositeChoker.aex": [
+[
+"BCC Composite Choker",
+"合成收缩",
+24,
+31086,
+22
+]
+],
+"BCCCompositeDissolve.aex": [
+[
+"BCC Composite Dissolve",
+"合成溶解",
+24,
+31086,
+22
+]
+],
+"BCCCompositeDissolvePrTr.aex": [
+[
+"BCC Composite Dissolve",
+"合成溶解",
+24,
+31086,
+22
+]
+],
+"BCCCornerPin.aex": [
+[
+"BCC Corner Pin OBS",
+"边角定位旧版",
+20,
+31086,
+18
+]
+],
+"BCCCornerPinStudio.aex": [
+[
+"BCC Corner Pin Studio",
+"边角定位工作室",
+24,
+31086,
+22
+]
+],
+"BCCCorrectSelected.aex": [
+[
+"BCC Correct Selected Color",
+"校正所选颜色",
+28,
+31086,
+26
+]
+],
+"BCCCrashZoomDissolve.aex": [
+[
+"BCC Crash Zoom Dissolve OBSOLETE",
+"急速变焦溶解旧版",
+36,
+31086,
+34
+]
+],
+"BCCCrashZoomDissolvePrTr.aex": [
+[
+"BCC Crash Zoom Dissolve OBSOLETE",
+"急速变焦溶解旧版",
+36,
+31086,
+34
+]
+],
+"BCCCrissCrossWipe.aex": [
+[
+"BCC Criss-Cross Wipe",
+"十字交叉擦除",
+24,
+31086,
+22
+]
+],
+"BCCCrissCrossWipePrTr.aex": [
+[
+"BCC Criss-Cross Wipe",
+"十字交叉擦除",
+24,
+31086,
+22
+]
+],
+"BCCCrossGlitch.aex": [
+[
+"BCC Cross Glitch OBSOLETE",
+"交叉故障旧版",
+28,
+31086,
+26
+]
+],
+"BCCCrossGlitchPrTr.aex": [
+[
+"BCC Cross Glitch OBSOLETE",
+"交叉故障旧版",
+28,
+31086,
+26
+]
+],
+"BCCCrossMelt.aex": [
+[
+"BCC Cross Melt",
+"交叉融解",
+16,
+31086,
+14
+]
+],
+"BCCCrossMeltPrTr.aex": [
+[
+"BCC Cross Melt",
+"交叉融解",
+16,
+31086,
+14
+]
+],
+"BCCCrossZoom.aex": [
+[
+"BCC Cross Zoom OBSOLETE",
+"交叉变焦旧版",
+28,
+31086,
+26
+]
+],
+"BCCCrossZoomPrTr.aex": [
+[
+"BCC Cross Zoom OBSOLETE",
+"交叉变焦旧版",
+28,
+31086,
+26
+]
+],
+"BCCCube.aex": [
+[
+"BCC Cube",
+"立方体",
+12,
+31086,
+10
+]
+],
+"BCCCurl.aex": [
+[
+"BCC Curl",
+"卷曲",
+12,
+31086,
+10
+]
+],
+"BCCCurlDissolve.aex": [
+[
+"BCC Curl Dissolve",
+"卷曲溶解",
+20,
+31086,
+18
+]
+],
+"BCCCurlDissolvePrTr.aex": [
+[
+"BCC Curl Dissolve",
+"卷曲溶解",
+20,
+31086,
+18
+]
+],
+"BCCCylinder.aex": [
+[
+"BCC Cylinder",
+"圆柱体",
+16,
+31086,
+14
+]
+],
+"BCCDVE.aex": [
+[
+"BCC DVE OBSOLETE",
+"DVE旧版",
+20,
+31086,
+18
+]
+],
+"BCCDVEBasic.aex": [
+[
+"BCC DVE Basic OBSOLETE",
+"DVE基础旧版",
+24,
+31086,
+22
+]
+],
+"BCCDVFixer.aex": [
+[
+"BCC DV Fixer OBSOLETE",
+"DV修复旧版",
+24,
+31086,
+22
+]
+],
+"BCCDamageTV.aex": [
+[
+"BCC Damaged TV",
+"电视损坏",
+16,
+31086,
+14
+]
+],
+"BCCDamagedTVDissolve.aex": [
+[
+"BCC Damaged TV Dissolve",
+"电视损坏溶解",
+28,
+31086,
+26
+]
+],
+"BCCDamagedTVDissolvePrTr.aex": [
+[
+"BCC Damaged TV Dissolve",
+"电视损坏溶解",
+28,
+31086,
+26
+]
+],
+"BCCDeInterlace.aex": [
+[
+"BCC Deinterlace",
+"去隔行",
+20,
+31086,
+18
+]
+],
+"BCCDeNoise.aex": [
+[
+"BCC DeNoise OBS",
+"降噪旧版",
+16,
+31086,
+14
+]
+],
+"BCCDegrain.aex": [
+[
+"BCC DeGrain OBS",
+"去颗粒旧版",
+16,
+31086,
+14
+]
+],
+"BCCDirectionalBlur.aex": [
+[
+"BCC Directional Blur OBSOLETE",
+"方向模糊旧版",
+32,
+31086,
+30
+]
+],
+"BCCDisplacementMap.aex": [
+[
+"BCC Displacement Map",
+"置换贴图",
+24,
+31086,
+22
+]
+],
+"BCCDropShadow.aex": [
+[
+"BCC Drop Shadow",
+"投影",
+16,
+31086,
+14
+]
+],
+"BCCDropoutFixer.aex": [
+[
+"BCC Dropout Fixer",
+"掉帧修复",
+20,
+31086,
+18
+]
+],
+"BCCDustnScratches.aex": [
+[
+"BCC Dust and Scratches",
+"灰尘与划痕",
+24,
+31086,
+22
+]
+],
+"BCCEdgeCleaner.aex": [
+[
+"BCC Edge Cleaner OBSOLETE",
+"边缘清理旧版",
+28,
+31086,
+26
+]
+],
+"BCCEdgeGrunge.aex": [
+[
+"BCC Edge Grunge",
+"边缘做旧",
+20,
+31086,
+18
+]
+],
+"BCCEdgeLighting.aex": [
+[
+"BCC Edge Lighting",
+"边缘打光",
+20,
+31086,
+18
+]
+],
+"BCCEmboss.aex": [
+[
+"BCC Emboss",
+"浮雕",
+12,
+31086,
+10
+]
+],
+"BCCExtrudedEPS.aex": [
+[
+"BCC Extruded EPS",
+"EPS挤出",
+24,
+23870,
+22
+]
+],
+"BCCExtrudedSpline.aex": [
+[
+"BCC Extruded Spline",
+"挤出样条",
+24,
+23870,
+22
+]
+],
+"BCCExtrudedText.aex": [
+[
+"BCC Extruded Text",
+"挤出文字",
+24,
+31038,
+22
+]
+],
+"BCCFXBrowser.aex": [
+[
+"BCC FX Browser",
+"特效浏览",
+16,
+31086,
+14
+]
+],
+"BCCFastBlur.aex": [
+[
+"BCC Pyramid Blur OBSOLETE",
+"金字塔模糊旧版",
+28,
+31086,
+26
+]
+],
+"BCCFastFilmGlow.aex": [
+[
+"BCC Fast Film Glow OBSOLETE",
+"快速胶片辉光旧版",
+32,
+31086,
+30
+]
+],
+"BCCFastFilmGlowDissolve.aex": [
+[
+"BCC Fast Film Glow Dissolve OBSOLETE",
+"快速胶片辉光溶解旧版",
+40,
+31086,
+38
+]
+],
+"BCCFastFilmGlowDissolvePrTr.aex": [
+[
+"BCC Fast Film Glow Dissolve OBSOLETE",
+"快速胶片辉光溶解旧版",
+40,
+31086,
+38
+]
+],
+"BCCFastFilmProcess.aex": [
+[
+"BCC Fast Film Process OBSOLETE",
+"快速胶片处理旧版",
+32,
+31086,
+30
+]
+],
+"BCCFastFlipper.aex": [
+[
+"BCC Fast Flipper",
+"快速翻转",
+20,
+31086,
+18
+]
+],
+"BCCFastLensBlur.aex": [
+[
+"BCC Fast Lens Blur OBSOLETE",
+"快速镜头模糊旧版",
+32,
+31086,
+30
+]
+],
+"BCCFilmDamage.aex": [
+[
+"BCC Film Damage OBSOLETE",
+"胶片损伤旧版",
+28,
+31086,
+26
+]
+],
+"BCCFilmGlow.aex": [
+[
+"BCC Film Glow OBS",
+"胶片辉光旧版",
+20,
+31086,
+18
+]
+],
+"BCCFilmGlowDissolve.aex": [
+[
+"BCC Film Glow Dissolve OBS",
+"胶片辉光溶解旧版",
+28,
+31086,
+26
+]
+],
+"BCCFilmGlowDissolvePrTr.aex": [
+[
+"BCC Film Glow Dissolve OBS",
+"胶片辉光溶解旧版",
+28,
+31086,
+26
+]
+],
+"BCCFilmGrain.aex": [
+[
+"BCC Film Grain OBSOLETE",
+"胶片颗粒旧版",
+28,
+31086,
+26
+]
+],
+"BCCFilmProcess.aex": [
+[
+"BCC Film Process OBS",
+"胶片处理旧版",
+24,
+31086,
+22
+]
+],
+"BCCFire.aex": [
+[
+"BCC Fire OBS",
+"火焰旧版",
+16,
+31086,
+14
+]
+],
+"BCCFlickerFixer.aex": [
+[
+"BCC Flicker Fixer",
+"闪烁修复",
+20,
+31086,
+18
+]
+],
+"BCCFlutterCut.aex": [
+[
+"BCC Flutter Cut OBSOLETE",
+"颤动剪辑旧版",
+28,
+31086,
+26
+]
+],
+"BCCFlutterCutPrTr.aex": [
+[
+"BCC Flutter Cut OBSOLETE",
+"颤动剪辑旧版",
+28,
+31086,
+26
+]
+],
+"BCCFractalNoise.aex": [
+[
+"BCC Fractal Noise OBSOLETE",
+"分形噪点旧版",
+28,
+31086,
+26
+]
+],
+"BCCGLImageShatter.aex": [
+[
+"BCC 3D Extruded Image Shatter",
+"三维挤出图像碎裂",
+32,
+31086,
+30
+]
+],
+"BCCGaussianBlur.aex": [
+[
+"BCC Gaussian Blur OBSOLETE",
+"高斯模糊旧版",
+28,
+31086,
+26
+]
+],
+"BCCGlare.aex": [
+[
+"BCC Glare OBSOLETE",
+"眩光旧版",
+20,
+31086,
+18
+]
+],
+"BCCGlint.aex": [
+[
+"BCC Glint OBSOLETE",
+"微光旧版",
+20,
+31086,
+18
+]
+],
+"BCCGlitter.aex": [
+[
+"BCC Glitter OBSOLETE",
+"闪光旧版",
+24,
+31086,
+22
+]
+],
+"BCCGlow2.aex": [
+[
+"BCC Glow OBS",
+"辉光旧版",
+16,
+31086,
+14
+]
+],
+"BCCGlowEdges.aex": [
+[
+"BCC Glow Alpha Edges",
+"辉光阿尔法边缘",
+24,
+31086,
+22
+]
+],
+"BCCGlowMatte.aex": [
+[
+"BCC Glow Matte OBS",
+"辉光遮罩旧版",
+20,
+31086,
+18
+]
+],
+"BCCGranite.aex": [
+[
+"BCC Granite OBSOLETE",
+"花岗岩旧版",
+24,
+31086,
+22
+]
+],
+"BCCGridWipe.aex": [
+[
+"BCC Grid Wipe",
+"网格擦除",
+16,
+31086,
+14
+]
+],
+"BCCGridWipePrTr.aex": [
+[
+"BCC Grid Wipe",
+"网格擦除",
+16,
+31086,
+14
+]
+],
+"BCCGrunge.aex": [
+[
+"BCC Grunge",
+"做旧纹理",
+12,
+31086,
+10
+]
+],
+"BCCHLS.aex": [
+[
+"BCC Hue-Sat-Lightness",
+"色相饱和明度",
+24,
+31086,
+22
+]
+],
+"BCCHalftone.aex": [
+[
+"BCC Halftone",
+"半色调",
+16,
+31086,
+14
+]
+],
+"BCCInvert.aex": [
+[
+"BCC Invert Solarize",
+"反相中途曝光",
+20,
+31086,
+18
+]
+],
+"BCCJitter.aex": [
+[
+"BCC Jitter",
+"抖动",
+12,
+31086,
+10
+]
+],
+"BCCJitterBasic.aex": [
+[
+"BCC Jitter Basic",
+"抖动基础版",
+20,
+31086,
+18
+]
+],
+"BCCKaleidaDissolve.aex": [
+[
+"BCC Kaleida Dissolve",
+"万花筒溶解",
+24,
+31086,
+22
+]
+],
+"BCCKaleidaDissolvePrTr.aex": [
+[
+"BCC Kaleida Dissolve",
+"万花筒溶解",
+24,
+31086,
+22
+]
+],
+"BCCLED.aex": [
+[
+"BCC LED OBSOLETE",
+"LED旧版",
+20,
+31086,
+18
+]
+],
+"BCCLaserBeam.aex": [
+[
+"BCC Laser Beam",
+"激光束",
+16,
+31086,
+14
+]
+],
+"BCCLayerDeformer.aex": [
+[
+"BCC Layer Deformer",
+"图层变形",
+24,
+23870,
+22
+]
+],
+"BCCLensBlur.aex": [
+[
+"BCC Lens Blur OBS",
+"镜头模糊旧版",
+20,
+31086,
+18
+]
+],
+"BCCLensBlurDissolve.aex": [
+[
+"BCC Lens Blur Dissolve",
+"镜头模糊溶解",
+24,
+31086,
+22
+]
+],
+"BCCLensBlurDissolvePrTr.aex": [
+[
+"BCC Lens Blur Dissolve",
+"镜头模糊溶解",
+24,
+31086,
+22
+]
+],
+"BCCLensComp.aex": [
+[
+"BCC Lens Correction",
+"镜头校正",
+24,
+31086,
+22
+]
+],
+"BCCLensDistortionWipe.aex": [
+[
+"BCC Lens Distortion Wipe",
+"镜头畸变擦除",
+28,
+31086,
+26
+]
+],
+"BCCLensDistortionWipePrTr.aex": [
+[
+"BCC Lens Distortion Wipe",
+"镜头畸变擦除",
+28,
+31086,
+26
+]
+],
+"BCCLensFlare.aex": [
+[
+"BCC Lens Flare Adv OBS",
+"高级镜头光晕旧版",
+24,
+31086,
+22
+]
+],
+"BCCLensFlare3D.aex": [
+[
+"BCC Lens Flare 3D",
+"三维镜头光晕",
+20,
+31086,
+18
+]
+],
+"BCCLensFlareDissolve.aex": [
+[
+"BCC Lens Flare Dissolve",
+"镜头光晕溶解",
+28,
+31086,
+26
+]
+],
+"BCCLensFlareDissolvePrTr.aex": [
+[
+"BCC Lens Flare Dissolve",
+"镜头光晕溶解",
+28,
+31086,
+26
+]
+],
+"BCCLensFlareRound.aex": [
+[
+"BCC Lens Flare Round",
+"圆形镜头光晕",
+24,
+31086,
+22
+]
+],
+"BCCLensFlareRoundPrTr.aex": [
+[
+"BCC Lens Flare Round",
+"圆形镜头光晕",
+24,
+31086,
+22
+]
+],
+"BCCLensFlareSpiked.aex": [
+[
+"BCC Lens Flare Spiked",
+"星芒镜头光晕",
+24,
+31086,
+22
+]
+],
+"BCCLensFlareSpikedPrTr.aex": [
+[
+"BCC Lens Flare Spiked",
+"星芒镜头光晕",
+24,
+31086,
+22
+]
+],
+"BCCLensFlash.aex": [
+[
+"BCC Lens Flash",
+"镜头闪光",
+16,
+31086,
+14
+]
+],
+"BCCLensFlashPrTr.aex": [
+[
+"BCC Lens Flash",
+"镜头闪光",
+16,
+31086,
+14
+]
+],
+"BCCLensShape.aex": [
+[
+"BCC Lens Shape",
+"光斑形状",
+16,
+31086,
+14
+]
+],
+"BCCLensTransition.aex": [
+[
+"BCC Lens Transition OBS",
+"镜头转场旧版",
+24,
+31086,
+22
+]
+],
+"BCCLensTransitionPrTr.aex": [
+[
+"BCC Lens Transition OBS",
+"镜头转场旧版",
+24,
+31086,
+22
+]
+],
+"BCCLevels.aex": [
+[
+"BCC Levels Gamma",
+"色阶伽马",
+20,
+31086,
+18
+]
+],
+"BCCLightLeaks.aex": [
+[
+"BCC Light Leaks OBSOLETE",
+"漏光旧版",
+28,
+31086,
+26
+]
+],
+"BCCLightLeaksDissolve.aex": [
+[
+"BCC Light Leaks Dissolve OBSOLETE",
+"漏光溶解旧版",
+36,
+31086,
+34
+]
+],
+"BCCLightLeaksDissolvePrTr.aex": [
+[
+"BCC Light Leaks Dissolve OBSOLETE",
+"漏光溶解旧版",
+36,
+31086,
+34
+]
+],
+"BCCLightMatte.aex": [
+[
+"BCC Light Matte OBS",
+"亮度遮罩旧版",
+20,
+31086,
+18
+]
+],
+"BCCLightSweep.aex": [
+[
+"BCC Light Sweep",
+"光线扫过",
+16,
+31086,
+14
+]
+],
+"BCCLightWipe.aex": [
+[
+"BCC Light Wipe",
+"光线擦除",
+16,
+31086,
+14
+]
+],
+"BCCLightWipePrTr.aex": [
+[
+"BCC Light Wipe",
+"光线擦除",
+16,
+31086,
+14
+]
+],
+"BCCLightWrap.aex": [
+[
+"BCC Light Wrap OBSOLETE",
+"光线融合旧版",
+28,
+31086,
+26
+]
+],
+"BCCLightZoom.aex": [
+[
+"BCC Light Zoom OBS",
+"光线缩放旧版",
+20,
+31086,
+18
+]
+],
+"BCCLightning.aex": [
+[
+"BCC Lightning",
+"闪电",
+16,
+31086,
+14
+]
+],
+"BCCLinearColorKey.aex": [
+[
+"BCC Linear Color Key OBSOLETE",
+"线性色度键旧版",
+32,
+31086,
+30
+]
+],
+"BCCLinearLumaKey.aex": [
+[
+"BCC Linear Luma Key OBSOLETE",
+"线性亮度键旧版",
+32,
+31086,
+30
+]
+],
+"BCCLinearWipe.aex": [
+[
+"BCC Linear Wipe OBSOLETE",
+"线性擦除旧版",
+28,
+31086,
+26
+]
+],
+"BCCLinearWipePrTr.aex": [
+[
+"BCC Linear Wipe OBSOLETE",
+"线性擦除旧版",
+28,
+31086,
+26
+]
+],
+"BCCLooper.aex": [
+[
+"BCC Looper",
+"循环",
+12,
+31086,
+10
+]
+],
+"BCCMagicSharp.aex": [
+[
+"BCC Magic Sharp OBSOLETE",
+"魔力锐化旧版",
+28,
+31086,
+26
+]
+],
+"BCCMakeAlpha.aex": [
+[
+"BCC Make Alpha Key",
+"生成阿尔法遮罩",
+20,
+31086,
+18
+]
+],
+"BCCMatchGrain.aex": [
+[
+"BCC Match Grain",
+"颗粒匹配",
+20,
+31086,
+18
+]
+],
+"BCCMatchMove.aex": [
+[
+"BCC Match Move",
+"运动匹配",
+16,
+31086,
+14
+]
+],
+"BCCMatteChoker.aex": [
+[
+"BCC Matte Choker",
+"遮罩收缩",
+20,
+31086,
+18
+]
+],
+"BCCMatteCleanup.aex": [
+[
+"BCC Matte Cleanup",
+"遮罩清理",
+20,
+31086,
+18
+]
+],
+"BCCMedian.aex": [
+[
+"BCC Median",
+"中值",
+16,
+31086,
+14
+]
+],
+"BCCMisalignment.aex": [
+[
+"BCC Misalignment",
+"通道错位",
+20,
+31086,
+18
+]
+],
+"BCCMixedColors.aex": [
+[
+"BCC Mixed Colors",
+"混合颜色",
+20,
+31086,
+18
+]
+],
+"BCCMorphing.aex": [
+[
+"BCC Morph",
+"变形",
+12,
+31086,
+10
+]
+],
+"BCCMosaic.aex": [
+[
+"BCC Mosaic OBSOLETE",
+"马赛克旧版",
+24,
+31086,
+22
+]
+],
+"BCCMotionBlur.aex": [
+[
+"BCC Motion Blur OBSOLETE",
+"运动模糊旧版",
+28,
+31086,
+26
+]
+],
+"BCCMotionKey.aex": [
+[
+"BCC Motion Key OBSOLETE",
+"运动键控旧版",
+28,
+31086,
+26
+]
+],
+"BCCMultiShadow.aex": [
+[
+"BCC Multi Shadow",
+"多重阴影",
+20,
+31086,
+18
+]
+],
+"BCCMultiStretchWipe.aex": [
+[
+"BCC Multi Stretch Wipe",
+"多重拉伸擦除",
+24,
+31086,
+22
+]
+],
+"BCCMultiStretchWipePrTr.aex": [
+[
+"BCC Multi Stretch Wipe",
+"多重拉伸擦除",
+24,
+31086,
+22
+]
+],
+"BCCMultiStripeWipe.aex": [
+[
+"BCC Multi Stripe Wipe",
+"多重条纹擦除",
+24,
+31086,
+22
+]
+],
+"BCCMultiStripeWipePrTr.aex": [
+[
+"BCC Multi Stripe Wipe",
+"多重条纹擦除",
+24,
+31086,
+22
+]
+],
+"BCCMultitone.aex": [
+[
+"BCC MultiTone Mix",
+"多色调混合",
+20,
+31086,
+18
+]
+],
+"BCCNoiseMap.aex": [
+[
+"BCC Noise Map OBS",
+"噪点贴图旧版",
+20,
+31086,
+18
+]
+],
+"BCCNoiseMap2.aex": [
+[
+"BCC Noise Map 2",
+"噪点贴图2",
+16,
+31086,
+14
+]
+],
+"BCCNoiseReduction.aex": [
+[
+"BCC Noise Reduction OBSOLETE",
+"降噪旧版",
+32,
+31086,
+30
+]
+],
+"BCCOpticalFlowRemap.aex": [
+[
+"BCC Optical Flow OBSOLETE",
+"光流法旧版",
+28,
+31086,
+26
+]
+],
+"BCCOrganicStrands.aex": [
+[
+"BCC Organic Strands",
+"有机丝线",
+32,
+31086,
+30
+]
+],
+"BCCPageTurn.aex": [
+[
+"BCC Page Turn",
+"翻页",
+16,
+31086,
+14
+]
+],
+"BCCPanAndZoom.aex": [
+[
+"BCC Pan and Zoom",
+"平移缩放",
+20,
+31086,
+18
+]
+],
+"BCCParticleArray.aex": [
+[
+"BCC Particle Array 3D",
+"三维粒子阵列",
+32,
+31086,
+30
+]
+],
+"BCCParticleEmitter.aex": [
+[
+"BCC Particle Emitter 3D",
+"三维粒子发射器",
+32,
+31086,
+30
+]
+],
+"BCCParticleIllusion.aex": [
+[
+"BCC Particle Illusion",
+"粒子幻影",
+24,
+31086,
+22
+]
+],
+"BCCParticleIllusionDissolve.aex": [
+[
+"BCC Particle Illusion Dissolve",
+"粒子幻影溶解",
+32,
+31086,
+30
+]
+],
+"BCCParticleIllusionDissolvePrTr.aex": [
+[
+"BCC Particle Illusion Dissolve",
+"粒子幻影溶解",
+32,
+31086,
+30
+]
+],
+"BCCParticleSystem.aex": [
+[
+"BCC Particle System OBSOLETE",
+"粒子系统旧版",
+32,
+31086,
+30
+]
+],
+"BCCPinArt.aex": [
+[
+"BCC Pin Art 3D",
+"三维图钉艺术",
+32,
+31086,
+30
+]
+],
+"BCCPixelChooser.aex": [
+[
+"BCC Pixel Chooser OBSOLETE",
+"像素选取旧版",
+28,
+31086,
+26
+]
+],
+"BCCPixelFixer.aex": [
+[
+"BCC Pixel Fixer",
+"像素修复",
+20,
+31086,
+18
+]
+],
+"BCCPolarDisplacement.aex": [
+[
+"BCC Polar Displacement",
+"极坐标置换",
+24,
+31086,
+22
+]
+],
+"BCCPosterize.aex": [
+[
+"BCC Posterize",
+"色调分离",
+16,
+31086,
+14
+]
+],
+"BCCPosterizeTime.aex": [
+[
+"BCC Posterize Time",
+"时间抽帧",
+20,
+31086,
+18
+]
+],
+"BCCPremultiply.aex": [
+[
+"BCC Premult",
+"预乘",
+12,
+31086,
+10
+]
+],
+"BCCPrimatteStudio.aex": [
+[
+"BCC Primatte Studio OBSOLETE",
+"Primatte抠像工作室旧版",
+32,
+31086,
+30
+]
+],
+"BCCPrism.aex": [
+[
+"BCC Prism OBSOLETE",
+"棱镜旧版",
+20,
+31086,
+18
+]
+],
+"BCCPrismDissolve.aex": [
+[
+"BCC Prism Dissolve OBSOLETE",
+"棱镜溶解旧版",
+32,
+31086,
+30
+]
+],
+"BCCPrismDissolvePrTr.aex": [
+[
+"BCC Prism Dissolve OBSOLETE",
+"棱镜溶解旧版",
+32,
+31086,
+30
+]
+],
+"BCCPuffyLight.aex": [
+[
+"BCC Rays Puffy",
+"蓬松光线",
+16,
+31086,
+14
+]
+],
+"BCCRGBBlend.aex": [
+[
+"BCC RGB Blend",
+"RGB混合",
+16,
+31086,
+14
+]
+],
+"BCCRGBBlurDissolve.aex": [
+[
+"BCC RGB Blur Dissolve OBSOLETE",
+"RGB模糊溶解旧版",
+32,
+31086,
+30
+]
+],
+"BCCRGBBlurDissolvePrTr.aex": [
+[
+"BCC RGB Blur Dissolve OBSOLETE",
+"RGB模糊溶解旧版",
+32,
+31086,
+30
+]
+],
+"BCCRGBDisplacementDissolve.aex": [
+[
+"BCC RGB Displacement Dissolve",
+"RGB置换溶解",
+32,
+31086,
+30
+]
+],
+"BCCRGBDisplacementDissolvePrTr.aex": [
+[
+"BCC RGB Displacement Dissolve",
+"RGB置换溶解",
+32,
+31086,
+30
+]
+],
+"BCCRGBEdges.aex": [
+[
+"BCC RGB Edges",
+"RGB边缘",
+16,
+31086,
+14
+]
+],
+"BCCRGBPixelNoise.aex": [
+[
+"BCC RGB Pixel Noise",
+"RGB像素噪点",
+20,
+31086,
+18
+]
+],
+"BCCRadialBlur.aex": [
+[
+"BCC Radial Blur OBSOLETE",
+"径向模糊旧版",
+28,
+31086,
+26
+]
+],
+"BCCRadialSpotlight.aex": [
+[
+"BCC Rays Radiant Spotlight OBSOLETE",
+"光芒聚光灯旧版",
+40,
+31086,
+38
+]
+],
+"BCCRadialWipe.aex": [
+[
+"BCC Radial Wipe OBSOLETE",
+"径向擦除旧版",
+28,
+31086,
+26
+]
+],
+"BCCRadialWipePrTr.aex": [
+[
+"BCC Radial Wipe OBSOLETE",
+"径向擦除旧版",
+28,
+31086,
+26
+]
+],
+"BCCRadiantEdges.aex": [
+[
+"BCC Rays Radiant Edges",
+"光芒边缘",
+24,
+31086,
+22
+]
+],
+"BCCRain.aex": [
+[
+"BCC Rain",
+"下雨",
+12,
+31086,
+10
+]
+],
+"BCCRays.aex": [
+[
+"BCC Rays OBSOLETE",
+"光线旧版",
+20,
+31086,
+18
+]
+],
+"BCCRaysDissolve.aex": [
+[
+"BCC Rays Dissolve OBSOLETE",
+"光线溶解旧版",
+28,
+31086,
+26
+]
+],
+"BCCRaysDissolvePrTr.aex": [
+[
+"BCC Rays Dissolve OBSOLETE",
+"光线溶解旧版",
+28,
+31086,
+26
+]
+],
+"BCCRectangularWipe.aex": [
+[
+"BCC Rectangular Wipe OBSOLETE",
+"矩形擦除旧版",
+32,
+31086,
+30
+]
+],
+"BCCRectangularWipePrTr.aex": [
+[
+"BCC Rectangular Wipe OBSOLETE",
+"矩形擦除旧版",
+32,
+31086,
+30
+]
+],
+"BCCReflectionImage.aex": [
+[
+"BCC Reflection",
+"反射",
+16,
+31086,
+14
+]
+],
+"BCCReframer.aex": [
+[
+"BCC Reframer",
+"重构图",
+16,
+31086,
+14
+]
+],
+"BCCRemover.aex": [
+[
+"BCC Remover",
+"物体移除",
+16,
+31086,
+14
+]
+],
+"BCCReorient.aex": [
+[
+"BCC VR Reorient",
+"VR重定向",
+20,
+31086,
+18
+]
+],
+"BCCReptilian.aex": [
+[
+"BCC Reptilian OBSOLETE",
+"鳞片纹理旧版",
+24,
+31086,
+22
+]
+],
+"BCCReverseSpotlight.aex": [
+[
+"BCC Reverse Spotlight",
+"反向聚光灯",
+24,
+31086,
+22
+]
+],
+"BCCRibbonWipe.aex": [
+[
+"BCC Ribbon Wipe",
+"缎带擦除",
+20,
+31086,
+18
+]
+],
+"BCCRibbonWipePrTr.aex": [
+[
+"BCC Ribbon Wipe",
+"缎带擦除",
+20,
+31086,
+18
+]
+],
+"BCCRingLight.aex": [
+[
+"BCC Rays Ring OBSOLETE",
+"环形光线旧版",
+24,
+31086,
+22
+]
+],
+"BCCRingsWipe.aex": [
+[
+"BCC Rings Wipe",
+"圆环擦除",
+16,
+31086,
+14
+]
+],
+"BCCRingsWipePrTr.aex": [
+[
+"BCC Rings Wipe",
+"圆环擦除",
+16,
+31086,
+14
+]
+],
+"BCCRipple.aex": [
+[
+"BCC Ripple",
+"涟漪",
+12,
+31086,
+10
+]
+],
+"BCCRippleDissolve.aex": [
+[
+"BCC Ripple Dissolve",
+"涟漪溶解",
+24,
+31086,
+22
+]
+],
+"BCCRippleDissolvePrTr.aex": [
+[
+"BCC Ripple Dissolve",
+"涟漪溶解",
+24,
+31086,
+22
+]
+],
+"BCCRipplyLight.aex": [
+[
+"BCC Rays Ripply OBSOLETE",
+"波纹光线旧版",
+28,
+31086,
+26
+]
+],
+"BCCRoughGlow.aex": [
+[
+"BCC Rough Glow OBS",
+"粗糙辉光旧版",
+20,
+31086,
+18
+]
+],
+"BCCSafeColors.aex": [
+[
+"BCC Safe Colors OBS",
+"安全色旧版",
+24,
+31086,
+22
+]
+],
+"BCCScanline.aex": [
+[
+"BCC Scanline OBSOLETE",
+"扫描线旧版",
+24,
+31086,
+22
+]
+],
+"BCCScatterize.aex": [
+[
+"BCC Scatterize",
+"散点化",
+16,
+31086,
+14
+]
+],
+"BCCSequencer.aex": [
+[
+"BCC Sequencer OBS",
+"序列器旧版",
+20,
+31086,
+18
+]
+],
+"BCCShadowImage.aex": [
+[
+"BCC Cast Shadow",
+"投射阴影",
+20,
+31086,
+18
+]
+],
+"BCCSimpleLensFlare.aex": [
+[
+"BCC Lens Flare OBS",
+"镜头光晕旧版",
+20,
+31086,
+18
+]
+],
+"BCCSketch.aex": [
+[
+"BCC Pencil Sketch",
+"铅笔素描",
+20,
+31086,
+18
+]
+],
+"BCCSmoothTone.aex": [
+[
+"BCC Smooth Tone OBS",
+"平滑色调旧版",
+24,
+31086,
+22
+]
+],
+"BCCSnow.aex": [
+[
+"BCC Snow",
+"下雪",
+12,
+31086,
+10
+]
+],
+"BCCSparks.aex": [
+[
+"BCC Sparks OBSOLETE",
+"火花旧版",
+24,
+31086,
+22
+]
+],
+"BCCSphere.aex": [
+[
+"BCC Sphere",
+"球体",
+12,
+31086,
+10
+]
+],
+"BCCSphereTransition.aex": [
+[
+"BCC Sphere Transition",
+"球体转场",
+24,
+31086,
+22
+]
+],
+"BCCSpillRemover.aex": [
+[
+"BCC Spill Remover OBSOLETE",
+"溢色去除旧版",
+28,
+31086,
+26
+]
+],
+"BCCSpinBlurDissolve.aex": [
+[
+"BCC Spin Blur Dissolve OBSOLETE",
+"旋转模糊溶解旧版",
+36,
+31086,
+34
+]
+],
+"BCCSpinBlurDissolvePrTr.aex": [
+[
+"BCC Spin Blur Dissolve OBSOLETE",
+"旋转模糊溶解旧版",
+36,
+31086,
+34
+]
+],
+"BCCSpiralBlur.aex": [
+[
+"BCC Spiral Blur OBSOLETE",
+"螺旋模糊旧版",
+28,
+31086,
+26
+]
+],
+"BCCSpotlight.aex": [
+[
+"BCC Spotlight",
+"聚光灯",
+16,
+31086,
+14
+]
+],
+"BCCSprayPaintNoise.aex": [
+[
+"BCC Spray Paint Noise",
+"喷漆噪点",
+24,
+31086,
+22
+]
+],
+"BCCStabilizer.aex": [
+[
+"BCC Optical Stabilizer",
+"光学防抖",
+24,
+31086,
+22
+]
+],
+"BCCStageLight.aex": [
+[
+"BCC Stage Light",
+"舞台灯光",
+20,
+31086,
+18
+]
+],
+"BCCStarMatte.aex": [
+[
+"BCC Star Matte OBS",
+"星形遮罩旧版",
+20,
+31086,
+18
+]
+],
+"BCCStars.aex": [
+[
+"BCC Stars OBSOLETE",
+"星光旧版",
+20,
+31086,
+18
+]
+],
+"BCCSteelPlate.aex": [
+[
+"BCC Steel Plate OBSOLETE",
+"钢板旧版",
+28,
+31086,
+26
+]
+],
+"BCCStreakyLight.aex": [
+[
+"BCC Rays Streaky OBSOLETE",
+"条纹光线旧版",
+28,
+31086,
+26
+]
+],
+"BCCSuperBlend.aex": [
+[
+"BCC Super Blend OBS",
+"超级混合旧版",
+20,
+31086,
+18
+]
+],
+"BCCSwishPan.aex": [
+[
+"BCC Swish Pan OBSOLETE",
+"快速摇摄旧版",
+24,
+31086,
+22
+]
+],
+"BCCSwishPanPrTr.aex": [
+[
+"BCC Swish Pan OBSOLETE",
+"快速摇摄旧版",
+24,
+31086,
+22
+]
+],
+"BCCTemporalBlur.aex": [
+[
+"BCC Temporal Blur",
+"时域模糊",
+20,
+31086,
+18
+]
+],
+"BCCTexturedLight.aex": [
+[
+"BCC Rays Textured OBSOLETE",
+"纹理光线旧版",
+28,
+31086,
+26
+]
+],
+"BCCTexturedWipe.aex": [
+[
+"BCC Textured Wipe OBSOLETE",
+"纹理擦除旧版",
+28,
+31086,
+26
+]
+],
+"BCCTexturedWipePrTr.aex": [
+[
+"BCC Textured Wipe OBSOLETE",
+"纹理擦除旧版",
+28,
+31086,
+26
+]
+],
+"BCCThickLines.aex": [
+[
+"BCC Charcoal Sketch",
+"炭笔素描",
+20,
+31086,
+18
+]
+],
+"BCCTileMosaic.aex": [
+[
+"BCC Tile Mosaic",
+"平铺马赛克",
+20,
+31086,
+18
+]
+],
+"BCCTileWipe.aex": [
+[
+"BCC Tile Wipe",
+"平铺擦除",
+16,
+31086,
+14
+]
+],
+"BCCTileWipePrTr.aex": [
+[
+"BCC Tile Wipe",
+"平铺擦除",
+16,
+31086,
+14
+]
+],
+"BCCTimeDisplacement.aex": [
+[
+"BCC Time Displacement",
+"时间置换",
+24,
+31086,
+22
+]
+],
+"BCCTitleStudio.aex": [
+[
+"BCC Title Studio",
+"字幕工作室",
+24,
+31038,
+22
+]
+],
+"BCCTrails.aex": [
+[
+"BCC Trails",
+"拖尾",
+12,
+31086,
+10
+]
+],
+"BCCTrailsBasic.aex": [
+[
+"BCC Trails Basic",
+"拖尾基础版",
+20,
+31086,
+18
+]
+],
+"BCCTritone.aex": [
+[
+"BCC Tritone",
+"三色调",
+12,
+31086,
+10
+]
+],
+"BCCTritoneDissolve.aex": [
+[
+"BCC Tritone Dissolve",
+"三色调溶解",
+24,
+31086,
+22
+]
+],
+"BCCTritoneDissolvePrTr.aex": [
+[
+"BCC Tritone Dissolve",
+"三色调溶解",
+24,
+31086,
+22
+]
+],
+"BCCTurbulence.aex": [
+[
+"BCC Turbulence",
+"湍流",
+16,
+31086,
+14
+]
+],
+"BCCTwirl.aex": [
+[
+"BCC Twirl",
+"旋涡",
+12,
+31086,
+10
+]
+],
+"BCCTwister.aex": [
+[
+"BCC Twister",
+"扭曲器",
+16,
+31086,
+14
+]
+],
+"BCCTwisterPrTr.aex": [
+[
+"BCC Twister",
+"扭曲器",
+16,
+31086,
+14
+]
+],
+"BCCTwoDParticles.aex": [
+[
+"BCC 2D Particles",
+"二维粒子",
+20,
+31086,
+18
+]
+],
+"BCCTwoStripColor.aex": [
+[
+"BCC Two Strip Color OBSOLETE",
+"双色带调色旧版",
+32,
+31086,
+30
+]
+],
+"BCCTwoWayKey.aex": [
+[
+"BCC Two Way Key OBSOLETE",
+"双向键控旧版",
+28,
+31086,
+26
+]
+],
+"BCCTypeOnText.aex": [
+[
+"BCC Type On Text",
+"打字机文字",
+24,
+23870,
+22
+]
+],
+"BCCUnsharpenMask.aex": [
+[
+"BCC Unsharp Mask",
+"非锐化蒙版",
+20,
+31086,
+18
+]
+],
+"BCCUpRez.aex": [
+[
+"BCC UpRez OBSOLETE",
+"提升分辨率旧版",
+20,
+31086,
+18
+]
+],
+"BCCVR2DInsert.aex": [
+[
+"BCC VR Insert",
+"VR插入",
+16,
+31086,
+14
+]
+],
+"BCCVRFlickerFixer.aex": [
+[
+"BCC VR Flicker Fixer",
+"VR闪烁修复",
+24,
+31086,
+22
+]
+],
+"BCCVRSharpen.aex": [
+[
+"BCC VR Sharpen",
+"VR锐化",
+16,
+31086,
+14
+]
+],
+"BCCVectorBlurDissolve.aex": [
+[
+"BCC Vector Blur Dissolve",
+"矢量模糊溶解",
+28,
+31086,
+26
+]
+],
+"BCCVectorBlurDissolvePrTr.aex": [
+[
+"BCC Vector Blur Dissolve",
+"矢量模糊溶解",
+28,
+31086,
+26
+]
+],
+"BCCVectorDisplacement.aex": [
+[
+"BCC Vector Displacement",
+"矢量置换",
+24,
+31086,
+22
+]
+],
+"BCCVeinedMarble.aex": [
+[
+"BCC Veined Marble OBSOLETE",
+"纹理大理石旧版",
+28,
+31086,
+26
+]
+],
+"BCCVelocityRemap.aex": [
+[
+"BCC Velocity Remap OBSOLETE",
+"速度重映射旧版",
+32,
+31086,
+30
+]
+],
+"BCCVideoGlitch.aex": [
+[
+"BCC Video Glitch OBSOLETE",
+"视频故障旧版",
+28,
+31086,
+26
+]
+],
+"BCCVideoMorph.aex": [
+[
+"BCC Video Morph",
+"视频变形",
+20,
+31086,
+18
+]
+],
+"BCCVideoScopes.aex": [
+[
+"BCC Videoscope",
+"视频示波器",
+16,
+31086,
+14
+]
+],
+"BCCVignette.aex": [
+[
+"BCC Vignette OBSOLETE",
+"暗角旧版",
+24,
+31086,
+22
+]
+],
+"BCCVignetteWipe.aex": [
+[
+"BCC Vignette Wipe OBSOLETE",
+"暗角擦除旧版",
+28,
+31086,
+26
+]
+],
+"BCCVignetteWipePrTr.aex": [
+[
+"BCC Vignette Wipe OBSOLETE",
+"暗角擦除旧版",
+28,
+31086,
+26
+]
+],
+"BCCWarping.aex": [
+[
+"BCC Warp",
+"扭曲",
+12,
+31086,
+10
+]
+],
+"BCCWaterColor.aex": [
+[
+"BCC Water Color",
+"水彩",
+16,
+31086,
+14
+]
+],
+"BCCWaterWaveDissolve.aex": [
+[
+"BCC Water Waves Dissolve",
+"水波溶解",
+28,
+31086,
+26
+]
+],
+"BCCWaterWavesDissolvePrTr.aex": [
+[
+"BCC Water Waves Dissolve",
+"水波溶解",
+28,
+31086,
+26
+]
+],
+"BCCWave.aex": [
+[
+"BCC Wave",
+"波浪",
+12,
+31086,
+10
+]
+],
+"BCCWeave.aex": [
+[
+"BCC Weave OBSOLETE",
+"编织旧版",
+20,
+31086,
+18
+]
+],
+"BCCWedgeLight.aex": [
+[
+"BCC Rays Wedge OBSOLETE",
+"楔形光线旧版",
+28,
+31086,
+26
+]
+],
+"BCCWireRemover.aex": [
+[
+"BCC Wire Remover",
+"钢丝移除",
+20,
+31086,
+18
+]
+],
+"BCCWitnessProtection.aex": [
+[
+"BCC WitnessProtection OBSOLETE",
+"证人保护旧版",
+32,
+31086,
+30
+]
+],
+"BCCWoodGrain.aex": [
+[
+"BCC Wood Grain OBSOLETE",
+"木纹旧版",
+28,
+31086,
+26
+]
+],
+"BCCWoodPlanks.aex": [
+[
+"BCC Wooden Planks OBSOLETE",
+"木板旧版",
+28,
+31086,
+26
+]
+],
+"BCCZBlur.aex": [
+[
+"BCC Z-Blur",
+"Z通道模糊",
+12,
+31086,
+10
+]
+],
+"BCCZSpace1.aex": [
+[
+"BCC Z Space I OBS",
+"Z空间I旧版",
+20,
+31086,
+18
+]
+],
+"BCCZSpace2.aex": [
+[
+"BCC Z Space II OBS",
+"Z空间II旧版",
+20,
+31086,
+18
+]
+],
+"BCCZSpace3.aex": [
+[
+"BCC Z Space III OBS",
+"Z空间III旧版",
+20,
+31086,
+18
+]
+],
+"Beauty Studio.aex": [
+[
+" BCC+Beauty Studio",
+"美颜工作室",
+20,
+11918,
+18
+]
+],
+"Black and White.aex": [
+[
+" BCC+Black and White",
+"黑白",
+24,
+11918,
+22
+]
+],
+"Bleach Bypass.aex": [
+[
+" BCC+Bleach Bypass",
+"漂白旁路",
+20,
+11918,
+18
+]
+],
+"Blur Dissolve.aex": [
+[
+" BCC+Blur Dissolve",
+"模糊溶解",
+20,
+11918,
+18
+]
+],
+"Blur.aex": [
+[
+" BCC+Blur",
+"模糊",
+12,
+11918,
+10
+]
+],
+"Borders.aex": [
+[
+" BCC+Borders",
+"边框",
+16,
+11918,
+14
+]
+],
+"Camera Shake Dissolve.aex": [
+[
+" BCC+Camera Shake Dissolve",
+"镜头抖动溶解",
+28,
+11918,
+26
+]
+],
+"Camera Shake.aex": [
+[
+" BCC+Camera Shake",
+"镜头抖动",
+20,
+11918,
+18
+]
+],
+"Center Spot.aex": [
+[
+" BCC+Center Spot",
+"中心聚光",
+20,
+11918,
+18
+]
+],
+"Channel Blur Dissolve.aex": [
+[
+" BCC+Channel Blur Dissolve",
+"通道模糊溶解",
+28,
+11918,
+26
+]
+],
+"Channel Blur YUV.aex": [
+[
+" BCC+Channel Blur YUV",
+"通道模糊YUV",
+24,
+11918,
+22
+]
+],
+"Channel Blur.aex": [
+[
+" BCC+Channel Blur",
+"通道模糊",
+20,
+11918,
+18
+]
+],
+"Chroma Bands.aex": [
+[
+" BCC+Chroma Bands",
+"色度条带",
+20,
+11918,
+18
+]
+],
+"Chromatic Aberration.aex": [
+[
+" BCC+Chromatic Aberration",
+"色差",
+28,
+11918,
+26
+]
+],
+"Color Gradient.aex": [
+[
+" BCC+Color Gradient",
+"色彩渐变",
+20,
+11918,
+18
+]
+],
+"Color Infrared.aex": [
+[
+" BCC+Color Infrared",
+"彩色红外",
+20,
+11918,
+18
+]
+],
+"Color Link.aex": [
+[
+" BCC+Color Link",
+"色彩链接",
+16,
+11918,
+14
+]
+],
+"Color Paste.aex": [
+[
+" BCC+Color Paste",
+"色彩粘贴",
+20,
+11918,
+18
+]
+],
+"Color Shadow.aex": [
+[
+" BCC+Color Shadow",
+"色彩阴影",
+20,
+11918,
+18
+]
+],
+"Color Spot.aex": [
+[
+" BCC+Color Spot",
+"色彩聚光",
+16,
+11918,
+14
+]
+],
+"Colorize Gradient.aex": [
+[
+" BCC+Colorize Gradient",
+"着色渐变",
+24,
+11918,
+22
+]
+],
+"Composite.aex": [
+[
+" BCC+Composite",
+"合成",
+16,
+11918,
+14
+]
+],
+"Crash Zoom Dissolve.aex": [
+[
+" BCC+Crash Zoom Dissolve",
+"急速变焦溶解",
+28,
+11918,
+26
+]
+],
+"Cross Processing.aex": [
+[
+" BCC+Cross Processing",
+"交叉冲洗",
+24,
+11918,
+22
+]
+],
+"Cross Zoom Dissolve.aex": [
+[
+" BCC+Cross Zoom Dissolve",
+"交叉变焦溶解",
+28,
+11918,
+26
+]
+],
+"Day for Night.aex": [
+[
+" BCC+Day for Night",
+"日夜转换",
+20,
+11918,
+18
+]
+],
+"DeBand.aex": [
+[
+" BCC+DeBand",
+"去色带",
+12,
+11918,
+10
+]
+],
+"DeBlock.aex": [
+[
+" BCC+DeBlock",
+"去块效应",
+16,
+11918,
+14
+]
+],
+"DeFog.aex": [
+[
+" BCC+DeFog",
+"去雾",
+12,
+11918,
+10
+]
+],
+"DeFringe.aex": [
+[
+" BCC+DeFringe",
+"去边缘色",
+16,
+11918,
+14
+]
+],
+"DeNoise ML.aex": [
+[
+" BCC+DeNoise ML",
+"智能降噪",
+16,
+11918,
+14
+]
+],
+"Depth Map ML.aex": [
+[
+" BCC+Depth Map ML",
+"智能深度贴图",
+20,
+11918,
+18
+]
+],
+"Depth Wipe ML.aex": [
+[
+" BCC+Depth Wipe ML",
+"智能深度擦除",
+20,
+11918,
+18
+]
+],
+"Depth of Field.aex": [
+[
+" BCC+Depth of Field",
+"景深",
+20,
+11918,
+18
+]
+],
+"Detail.aex": [
+[
+" BCC+Detail",
+"细节",
+12,
+11918,
+10
+]
+],
+"Develop.aex": [
+[
+" BCC+Develop",
+"显影",
+16,
+11918,
+14
+]
+],
+"Diffusion.aex": [
+[
+" BCC+Diffusion",
+"柔光扩散",
+16,
+11918,
+14
+]
+],
+"Directional Blur Dissolve.aex": [
+[
+" BCC+Directional Blur Dissolve",
+"方向模糊溶解",
+32,
+11918,
+30
+]
+],
+"Directional Blur.aex": [
+[
+" BCC+Directional Blur",
+"方向模糊",
+24,
+11918,
+22
+]
+],
+"Dissolve.aex": [
+[
+" BCC+Dissolve",
+"溶解",
+16,
+11918,
+14
+]
+],
+"Double Fog.aex": [
+[
+" BCC+Double Fog",
+"双重雾",
+16,
+11918,
+14
+]
+],
+"Dual Gradient.aex": [
+[
+" BCC+Dual Gradient",
+"双向渐变",
+20,
+11918,
+18
+]
+],
+"Edge Cleaner.aex": [
+[
+" BCC+Edge Cleaner",
+"边缘清理",
+20,
+11918,
+18
+]
+],
+"Edge Composite.aex": [
+[
+" BCC+Edge Composite",
+"边缘合成",
+20,
+11918,
+18
+]
+],
+"Enhancing.aex": [
+[
+" BCC+Enhancing",
+"增强",
+16,
+11918,
+14
+]
+],
+"Eye Light.aex": [
+[
+" BCC+Eye Light",
+"眼神光",
+16,
+11918,
+14
+]
+],
+"F-Stop.aex": [
+[
+" BCC+F-Stop",
+"光圈",
+12,
+11918,
+10
+]
+],
+"Face ML.aex": [
+[
+" BCC+Face ML",
+"智能人脸",
+16,
+11918,
+14
+]
+],
+"Film Glow Dissolve.aex": [
+[
+" BCC+Film Glow Dissolve",
+"胶片辉光溶解",
+24,
+11918,
+22
+]
+],
+"Film Glow.aex": [
+[
+" BCC+Film Glow",
+"胶片辉光",
+16,
+11918,
+14
+]
+],
+"Film Grunge.aex": [
+[
+" BCC+Film Grunge",
+"胶片做旧",
+20,
+11918,
+18
+]
+],
+"Film Roll.aex": [
+[
+" BCC+Film Roll",
+"胶片卷动",
+16,
+11918,
+14
+]
+],
+"Film Stocks.aex": [
+[
+" BCC+Film Stocks",
+"胶片类型",
+20,
+11918,
+18
+]
+],
+"Flashing.aex": [
+[
+" BCC+Flashing",
+"闪光",
+16,
+11918,
+14
+]
+],
+"Fluorescent.aex": [
+[
+" BCC+Fluorescent",
+"荧光灯",
+20,
+11918,
+18
+]
+],
+"Flutter Cut.aex": [
+[
+" BCC+Flutter Cut",
+"颤动剪辑",
+20,
+11918,
+18
+]
+],
+"Fog.aex": [
+[
+" BCC+Fog",
+"雾气",
+12,
+11918,
+10
+]
+],
+"Frame Fixer ML.aex": [
+[
+" BCC+Frame Fixer ML",
+"智能帧修复",
+20,
+11918,
+18
+]
+],
+"Frost.aex": [
+[
+" BCC+Frost",
+"霜冻",
+12,
+11918,
+10
+]
+],
+"Gels.aex": [
+[
+" BCC+Gels",
+"灯光色片",
+12,
+11918,
+10
+]
+],
+"Glow Darks.aex": [
+[
+" BCC+Glow Darks",
+"暗部辉光",
+16,
+11918,
+14
+]
+],
+"Glow Edges.aex": [
+[
+" BCC+Glow Edges",
+"边缘辉光",
+16,
+11918,
+14
+]
+],
+"Glow.aex": [
+[
+" BCC+Glow",
+"辉光",
+12,
+11918,
+10
+]
+],
+"Grade.aex": [
+[
+" BCC+Grade",
+"调色",
+12,
+11918,
+10
+]
+],
+"Grain.aex": [
+[
+" BCC+Grain",
+"颗粒",
+12,
+11918,
+10
+]
+],
+"Halo.aex": [
+[
+" BCC+Halo",
+"光晕",
+12,
+11918,
+10
+]
+],
+"Harris Shutter.aex": [
+[
+" BCC+Harris Shutter",
+"哈里斯快门",
+20,
+11918,
+18
+]
+],
+"Haze.aex": [
+[
+" BCC+Haze",
+"雾霾",
+12,
+11918,
+10
+]
+],
+"High Contrast.aex": [
+[
+" BCC+High Contrast",
+"高对比度",
+20,
+11918,
+18
+]
+],
+"Holdout Composite.aex": [
+[
+" BCC+Holdout Composite",
+"遮挡合成",
+24,
+11918,
+22
+]
+],
+"Ice Halos.aex": [
+[
+" BCC+Ice Halos",
+"冰晕",
+16,
+11918,
+14
+]
+],
+"Infrared.aex": [
+[
+" BCC+Infrared",
+"红外",
+16,
+11918,
+14
+]
+],
+"Jump Cut Fixer ML.aex": [
+[
+" BCC+Jump Cut Fixer ML",
+"智能跳切修复",
+24,
+11918,
+22
+]
+],
+"Kelvin.aex": [
+[
+" BCC+Kelvin",
+"色温",
+12,
+11918,
+10
+]
+],
+"Key Light.aex": [
+[
+" BCC+Key Light",
+"主光",
+16,
+11918,
+14
+]
+],
+"Lens Blur.aex": [
+[
+" BCC+Lens Blur",
+"镜头模糊",
+16,
+11918,
+14
+]
+],
+"Lens Distortion.aex": [
+[
+" BCC+Lens Distortion",
+"镜头畸变",
+24,
+11918,
+22
+]
+],
+"Lens Flare.aex": [
+[
+" BCC+Lens Flare",
+"镜头光晕",
+16,
+11918,
+14
+]
+],
+"License Plate ML.aex": [
+[
+" BCC+License Plate ML",
+"智能车牌",
+24,
+11918,
+22
+]
+],
+"Light Flicker.aex": [
+[
+" BCC+Light Flicker",
+"灯光闪烁",
+20,
+11918,
+18
+]
+],
+"Light Leaks Dissolve.aex": [
+[
+" BCC+Light Leaks Dissolve",
+"漏光溶解",
+28,
+11918,
+26
+]
+],
+"Light Leaks.aex": [
+[
+" BCC+Light Leaks",
+"漏光",
+20,
+11918,
+18
+]
+],
+"Light Wrap.aex": [
+[
+" BCC+Light Wrap",
+"光线融合",
+16,
+11918,
+14
+]
+],
+"Light.aex": [
+[
+" BCC+Light",
+"灯光",
+12,
+11918,
+10
+]
+],
+"Linear Color Key.aex": [
+[
+" BCC+Linear Color Key",
+"线性色度键",
+24,
+11918,
+22
+]
+],
+"Linear Luma Key.aex": [
+[
+" BCC+Linear Luma Key",
+"线性亮度键",
+24,
+11918,
+22
+]
+],
+"Linear Wipe.aex": [
+[
+" BCC+Linear Wipe",
+"线性擦除",
+20,
+11918,
+18
+]
+],
+"Looks.aex": [
+[
+" BCC+Looks",
+"影调",
+12,
+11918,
+10
+]
+],
+"Low Contrast.aex": [
+[
+" BCC+Low Contrast",
+"低对比度",
+20,
+11918,
+18
+]
+],
+"Magic Sharp.aex": [
+[
+" BCC+Magic Sharp",
+"魔力锐化",
+20,
+11918,
+18
+]
+],
+"Math Composite.aex": [
+[
+" BCC+Math Composite",
+"数学合成",
+20,
+11918,
+18
+]
+],
+"Matte Refine ML.aex": [
+[
+" BCC+Matte Refine ML",
+"智能遮罩细化",
+24,
+11918,
+22
+]
+],
+"Mist.aex": [
+[
+" BCC+Mist",
+"薄雾",
+12,
+11918,
+10
+]
+],
+"Mosaic Dissolve.aex": [
+[
+" BCC+Mosaic Dissolve",
+"马赛克溶解",
+24,
+11918,
+22
+]
+],
+"Mosaic.aex": [
+[
+" BCC+Mosaic",
+"马赛克",
+12,
+11918,
+10
+]
+],
+"Motion Blur ML.aex": [
+[
+" BCC+Motion Blur ML",
+"智能运动模糊",
+20,
+11918,
+18
+]
+],
+"Multi-Star Dissolve.aex": [
+[
+" BCC+Multi-Star Dissolve",
+"多角星溶解",
+28,
+11918,
+26
+]
+],
+"Multi-Star.aex": [
+[
+" BCC+Multi-Star",
+"多角星",
+16,
+11918,
+14
+]
+],
+"ND Gradient.aex": [
+[
+" BCC+ND Gradient",
+"中灰渐变",
+20,
+11918,
+18
+]
+],
+"Net.aex": [
+[
+" BCC+Net",
+"网纱",
+12,
+11918,
+10
+]
+],
+"Night Vision.aex": [
+[
+" BCC+Night Vision",
+"夜视",
+20,
+11918,
+18
+]
+],
+"Non-Additive Mix.aex": [
+[
+" BCC+Non-Additive Mix",
+"非叠加混合",
+24,
+11918,
+22
+]
+],
+"Optical Dissolve.aex": [
+[
+" BCC+Optical Dissolve",
+"光学溶解",
+24,
+11918,
+22
+]
+],
+"Orbs Dissolve.aex": [
+[
+" BCC+Orbs Dissolve",
+"光球溶解",
+20,
+11918,
+18
+]
+],
+"Orbs.aex": [
+[
+" BCC+Orbs",
+"光球",
+12,
+11918,
+10
+]
+],
+"Overexpose.aex": [
+[
+" BCC+Overexpose",
+"过曝",
+16,
+11918,
+14
+]
+],
+"Photographic.aex": [
+[
+" BCC+Photographic",
+"摄影风格",
+20,
+11918,
+18
+]
+],
+"Pixel Chooser.aex": [
+[
+" BCC+Pixel Chooser",
+"像素选取",
+20,
+11918,
+18
+]
+],
+"Polar Warp.aex": [
+[
+" BCC+Polar Warp",
+"极坐标扭曲",
+16,
+11918,
+14
+]
+],
+"Polarizer.aex": [
+[
+" BCC+Polarizer",
+"偏振镜",
+16,
+11918,
+14
+]
+],
+"Primatte Studio.aex": [
+[
+" BCC+Primatte Studio",
+"Primatte抠像工作室",
+24,
+11918,
+22
+]
+],
+"Prism Dissolve.aex": [
+[
+" BCC+Prism Dissolve",
+"棱镜溶解",
+20,
+11918,
+18
+]
+],
+"Prism.aex": [
+[
+" BCC+Prism",
+"棱镜",
+12,
+11918,
+10
+]
+],
+"Rack Focus Dissolve.aex": [
+[
+" BCC+Rack Focus Dissolve",
+"移焦溶解",
+28,
+11918,
+26
+]
+],
+"Rack Focus.aex": [
+[
+" BCC+Rack Focus",
+"移焦",
+16,
+11918,
+14
+]
+],
+"Radial Blur.aex": [
+[
+" BCC+Radial Blur",
+"径向模糊",
+20,
+11918,
+18
+]
+],
+"Radial Exposure.aex": [
+[
+" BCC+Radial Exposure",
+"径向曝光",
+24,
+11918,
+22
+]
+],
+"Radial Tint.aex": [
+[
+" BCC+Radial Tint",
+"径向染色",
+20,
+11918,
+18
+]
+],
+"Radial Wipe.aex": [
+[
+" BCC+Radial Wipe",
+"径向擦除",
+20,
+11918,
+18
+]
+],
+"Rays Dissolve.aex": [
+[
+" BCC+Rays Dissolve",
+"光线溶解",
+20,
+11918,
+18
+]
+],
+"Rays.aex": [
+[
+" BCC+Rays",
+"光线",
+12,
+11918,
+10
+]
+],
+"ReLight.aex": [
+[
+" BCC+ReLight",
+"重新打光",
+16,
+11918,
+14
+]
+],
+"Rectangular Wipe.aex": [
+[
+" BCC+Rectangular Wipe",
+"矩形擦除",
+24,
+11918,
+22
+]
+],
+"Reflector.aex": [
+[
+" BCC+Reflector",
+"反光板",
+16,
+11918,
+14
+]
+],
+"Retimer ML.aex": [
+[
+" BCC+Retimer ML",
+"智能变速",
+16,
+11918,
+14
+]
+],
+"ST Map.aex": [
+[
+" BCC+ST Map",
+"ST贴图",
+12,
+11918,
+10
+]
+],
+"Scanline.aex": [
+[
+" BCC+Scanline",
+"扫描线",
+16,
+11918,
+14
+]
+],
+"Selective Saturation.aex": [
+[
+" BCC+Selective Saturation",
+"选择性饱和度",
+28,
+11918,
+26
+]
+],
+"Sepia.aex": [
+[
+" BCC+Sepia",
+"棕褐色调",
+12,
+11918,
+10
+]
+],
+"Shadows-Highlights.aex": [
+[
+" BCC+Shadows/Highlights",
+"阴影高光",
+24,
+11918,
+22
+]
+],
+"Silk.aex": [
+[
+" BCC+Silk",
+"柔纱",
+12,
+11918,
+10
+]
+],
+"Skin Tone.aex": [
+[
+" BCC+Skin Tone",
+"肤色",
+16,
+11918,
+14
+]
+],
+"Smear Blur.aex": [
+[
+" BCC+Smear Blur",
+"涂抹模糊",
+16,
+11918,
+14
+]
+],
+"Smoke Wipe.aex": [
+[
+" BCC+Smoke Wipe",
+"烟雾擦除",
+16,
+11918,
+14
+]
+],
+"Smoke and Fog Dissolve.aex": [
+[
+" BCC+Smoke and Fog Dissolve",
+"烟雾效果溶解",
+28,
+11918,
+26
+]
+],
+"Smoke and Fog.aex": [
+[
+" BCC+Smoke and Fog",
+"烟雾效果",
+20,
+11918,
+18
+]
+],
+"Spill Remover.aex": [
+[
+" BCC+Spill Remover",
+"溢色去除",
+20,
+11918,
+18
+]
+],
+"Spin Blur Dissolve.aex": [
+[
+" BCC+Spin Blur Dissolve",
+"旋转模糊溶解",
+24,
+11918,
+22
+]
+],
+"Split Field.aex": [
+[
+" BCC+Split Field",
+"分场镜",
+20,
+11918,
+18
+]
+],
+"Split Tone.aex": [
+[
+" BCC+Split Tone",
+"分离色调",
+16,
+11918,
+14
+]
+],
+"Streaks.aex": [
+[
+" BCC+Streaks",
+"条纹光",
+16,
+11918,
+14
+]
+],
+"Sunset.aex": [
+[
+" BCC+Sunset",
+"日落",
+12,
+11918,
+10
+]
+],
+"Super LED.aex": [
+[
+" BCC+Super LED",
+"超级LED",
+16,
+11918,
+14
+]
+],
+"Swish Glow.aex": [
+[
+" BCC+Swish Glow",
+"甩镜辉光",
+16,
+11918,
+14
+]
+],
+"Swish Pan.aex": [
+[
+" BCC+Swish Pan",
+"甩镜",
+16,
+11918,
+14
+]
+],
+"Swish Prism.aex": [
+[
+" BCC+Swish Prism",
+"甩镜棱镜",
+20,
+11918,
+18
+]
+],
+"Swish Warp.aex": [
+[
+" BCC+Swish Warp",
+"甩镜扭曲",
+16,
+11918,
+14
+]
+],
+"Texture Wipe.aex": [
+[
+" BCC+Texture Wipe",
+"纹理擦除",
+20,
+11918,
+18
+]
+],
+"Textures.aex": [
+[
+" BCC+Textures",
+"纹理",
+16,
+11918,
+14
+]
+],
+"Three Strip.aex": [
+[
+" BCC+Three Strip",
+"三色带",
+20,
+11918,
+18
+]
+],
+"Tint.aex": [
+[
+" BCC+Tint",
+"染色",
+12,
+11918,
+10
+]
+],
+"Transform.aex": [
+[
+" BCC+Transform",
+"变换",
+16,
+11918,
+14
+]
+],
+"Two Strip.aex": [
+[
+" BCC+Two Strip",
+"双色带",
+16,
+11918,
+14
+]
+],
+"Two Way Key.aex": [
+[
+" BCC+Two Way Key",
+"双向键控",
+20,
+11918,
+18
+]
+],
+"UpRes ML.aex": [
+[
+" BCC+UpRes ML",
+"智能放大",
+16,
+11918,
+14
+]
+],
+"Video Glitch Dissolve.aex": [
+[
+" BCC+Video Glitch Dissolve",
+"视频故障溶解",
+28,
+11918,
+26
+]
+],
+"Video Glitch.aex": [
+[
+" BCC+Video Glitch",
+"视频故障",
+20,
+11918,
+18
+]
+],
+"Vignette Wipe.aex": [
+[
+" BCC+Vignette Wipe",
+"暗角擦除",
+20,
+11918,
+18
+]
+],
+"Vignette.aex": [
+[
+" BCC+Vignette",
+"暗角",
+16,
+11918,
+14
+]
+],
+"Wide Angle Lens.aex": [
+[
+" BCC+Wide Angle Lens",
+"广角镜头",
+24,
+11918,
+22
+]
+],
+"Witness Protection ML.aex": [
+[
+" BCC+Witness Protection ML",
+"智能证人保护",
+28,
+11918,
+26
+]
+],
+"X-Ray.aex": [
+[
+" BCC+X-Ray",
+"X光",
+12,
+11918,
+10
+]
+]
+}

@@ -19,16 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-Note on scope / 适用范围说明
-
-This license covers the source code, documentation and translation tables
-authored in this repository. It does NOT cover, and does not grant any rights
-to, any software or resource owned by BorisFX, Inc. or Adobe Inc.
-No files from those vendors are distributed here.
-
-本许可仅覆盖本仓库中自行编写的源代码、文档与译名对照表，不覆盖也不授予
-BorisFX, Inc. / Adobe Inc. 拥有的任何软件或资源的任何权利。
-本仓库不分发上述厂商的任何文件。

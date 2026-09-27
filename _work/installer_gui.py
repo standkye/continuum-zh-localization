@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Continuum 2026 (BCC) Chinese patch - one-click installer.
+Continuum 2026 (BCC) Chinese patch - one-click installer / restore tool.
 
 Design notes (why it looks like this):
   * Single PyInstaller --onefile exe. All 494 patched files ride inside the exe
@@ -16,6 +16,18 @@ Design notes (why it looks like this):
     the env var instead of forwarding it.
   * Every file gets its own OK/FAIL line. Swallowing copy errors is what made
     an earlier round silently install only half the patch.
+  * Interactive menu (r18). Double-clicking with no arguments now asks
+    "1 = 汉化 / 2 = 恢复原版" instead of silently patching. The choice is made
+    BEFORE elevation and forwarded to the elevated child as /install or
+    /restore, so the elevated window never blocks on a prompt of its own --
+    an elevated child gets a brand-new console and would hang waiting for a
+    keypress nobody can see. --elevated therefore always skips the menu.
+    Headless callers keep working: /install, /restore, /quiet all bypass it.
+
+  * Restore is only as good as its backup. install() writes the English
+    originals to Backup-English BEFORE touching anything, and restore reads
+    nothing but that folder -- so the two operations are independent of any
+    external copy of the plugin files.
 """
 
 import ctypes
@@ -23,6 +35,9 @@ import hashlib
 import os
 import subprocess
 import sys
+
+VERSION = "v19.0.0"
+BUILD = "r18"
 
 # ---------------------------------------------------------------- paths
 
@@ -40,11 +55,34 @@ ENGINE_DLLS = [
     "Continuum_3DObjects_AE.dll",
 ]
 
-MODE = "install"          # install | restore
+MODE = None               # None -> ask | "install" | "restore" | "quit"
 QUIET = "/quiet" in sys.argv or "/q" in sys.argv
+ELEVATED = "--elevated" in sys.argv
+
+# accepted answers, so "汉化" / "回到原版" work as well as 1 / 2
+ANSWERS_ZH = {"1", "汉化", "中文化", "中文", "zh", "cn", "chinese",
+              "install", "patch", "a", "s"}
+ANSWERS_EN = {"2", "恢复", "还原", "恢复原版", "回到原版", "回原版", "原版",
+              "英文", "en", "english", "restore", "revert", "undo", "b", "r"}
+ANSWERS_QUIT = {"0", "q", "quit", "exit", "退出", "关闭", "取消", "esc"}
 
 
 # ---------------------------------------------------------------- helpers
+
+def _relax_streams():
+    """Never let a console codepage turn a message into a traceback.
+
+    Real consoles go through WriteConsoleW and handle any character; a
+    redirected stdout falls back to the locale codepage (cp936 out here), which
+    would raise on anything exotic. Replace instead of crash.
+    """
+    for name in ("stdout", "stderr"):
+        stream = getattr(sys, name, None)
+        try:
+            stream.reconfigure(errors="replace")
+        except Exception:
+            pass
+
 
 def sha256(path):
     h = hashlib.sha256()
@@ -66,6 +104,8 @@ def elevate():
 
     The elevated instance re-unpacks the payload itself, so it must NOT
     inherit a _MEIPASS path owned by this (soon-to-die) process -- clear it.
+    The mode picked in the menu travels as an argument, because the elevated
+    child opens its own console and must never wait for input.
     """
     params = "--elevated"
     if QUIET:
@@ -90,7 +130,7 @@ def aftereffects_running():
     return b"afterfx.exe" in out.lower()
 
 
-def pause(msg="Press Enter to close ..."):
+def pause(msg="按回车键关闭窗口 ... "):
     try:
         input(msg)
     except Exception:
@@ -98,28 +138,79 @@ def pause(msg="Press Enter to close ..."):
 
 
 def ask(prompt):
+    """Return the raw answer, or None when there is no console to read from."""
     try:
-        return input(prompt).strip().lower()
+        return input(prompt)
+    except EOFError:
+        return None
     except Exception:
-        return ""
+        return None
+
+
+def header(title):
+    print("=" * 64)
+    print("  " + title)
+    print("=" * 64)
+    print()
+
+
+# ---------------------------------------------------------------- menu
+
+def ask_mode():
+    """Interactive chooser shown before elevation."""
+    header("BorisFX Continuum 2026  汉化 / 还原 工具   %s (%s)" % (VERSION, BUILD))
+    print("  请选择要执行的操作 / Choose an action:")
+    print()
+    print("    [1] 汉化        把效果名、参数名换成中文 (patch to Chinese)")
+    print("    [2] 恢复原版    把英文原版文件还原回去   (restore original English)")
+    print("    [0] 退出        什么都不做               (quit)")
+    print()
+    print("  也可以直接输入「汉化」或「回到原版」。")
+    print()
+
+    for _ in range(8):
+        raw = ask("  请输入 1 或 2，然后回车: ")
+        if raw is None:
+            print()
+            print("  读不到键盘输入，按默认动作继续：[1] 汉化。")
+            print()
+            return "install"
+        key = raw.strip().lower()
+        if key in ANSWERS_ZH:
+            return "install"
+        if key in ANSWERS_EN:
+            return "restore"
+        if key in ANSWERS_QUIT:
+            return "quit"
+        print("  看不懂「%s」——请输入 1、2 或 0。" % raw.strip())
+        print()
+
+    print("  连续多次无法识别，按默认动作继续：[1] 汉化。")
+    print()
+    return "install"
 
 
 # ---------------------------------------------------------------- core
 
 def restore_from_backup():
-    print("=" * 64)
-    print("  Restore original English BorisFX Continuum files")
-    print("=" * 64)
+    header("恢复英文原版 / Restore original English BorisFX Continuum files")
+    print("  备份目录 / backup: " + BAK)
     print()
 
     if not os.path.isdir(BAK):
-        print("[ERROR] Backup folder not found:")
-        print("        " + BAK)
-        print("        Nothing to restore from.")
+        print("[错误] 找不到备份目录：")
+        print("       " + BAK)
+        print("       说明这个汉化包还没有在这台机器上安装过，没有可还原的原版文件。")
+        print("       Nothing to restore from (the patch was never installed here).")
         return 2
 
+    if aftereffects_running():
+        print("[错误] After Effects 正在运行。")
+        print("       请先彻底退出 AE，再重新运行本程序。")
+        return 3
+
     fail = 0
-    print("[1/2] restoring 6 engine dlls ...")
+    print("[1/2] 还原 6 个引擎 DLL ...")
     for name in ENGINE_DLLS + ["BCCPlus.dll"]:
         src = os.path.join(BAK, name)
         dst = os.path.join(LIB if name in ENGINE_DLLS else CONT, name)
@@ -136,9 +227,9 @@ def restore_from_backup():
             print("      FAIL %s  (%s)" % (name, e))
 
     aex_bak = os.path.join(BAK, "aex")
-    print("[2/2] restoring .aex effect shells ...")
+    print("[2/2] 还原 .aex 效果文件 ...")
     if not os.path.isdir(aex_bak):
-        print("      [WARN] no aex backup folder -- skipped")
+        print("      [警告] 备份里没有 aex 目录，跳过")
     else:
         n = 0
         for name in sorted(os.listdir(aex_bak)):
@@ -155,57 +246,55 @@ def restore_from_backup():
             except Exception as e:
                 fail += 1
                 print("      FAIL %s  (%s)" % (name, e))
-        print("      restored %d .aex files" % n)
+        print("      已还原 %d 个 .aex" % n)
 
     print()
     if fail == 0:
+        print("成功 —— 已恢复英文原版。请重新启动 After Effects。")
         print("SUCCESS - back to English. Restart After Effects.")
         return 0
+    print("有 %d 个文件未能还原，请先彻底退出 AE 后重试。" % fail)
     print("%d file(s) FAILED." % fail)
     return 1
 
 
 def install():
-    print("=" * 64)
-    print("  BorisFX Continuum 2026 - Chinese patch  v19.0.0")
-    print("  effect names + parameter names   (UTF-8)")
-    print("=" * 64)
+    header("BorisFX Continuum 2026 汉化  %s (%s)" % (VERSION, BUILD))
+    print("  效果名 + 参数名中文化 (UTF-8)")
     print()
-    print("  source : " + PATCH_ROOT)
+    print("  源文件 / source : " + PATCH_ROOT)
     print()
 
     # --- 0) sanity ------------------------------------------------------
     if not os.path.isdir(PATCH_ROOT):
-        print("[ERROR] Patch payload folder not found:")
-        print("        " + PATCH_ROOT)
-        print("        The Chinese files are packed inside this exe; this")
-        print("        message means the exe could not unpack itself.")
+        print("[错误] 找不到汉化文件目录：")
+        print("       " + PATCH_ROOT)
+        print("       中文文件是打包在本 exe 内部的；出现这条说明 exe 没能自解压。")
         return 2
 
     aex_src = sorted(f for f in os.listdir(PATCH_ROOT) if f.lower().endswith(".aex"))
-    print("  payload: %d .aex + %d engine dll" % (len(aex_src), len(ENGINE_DLLS)))
+    print("  载荷 / payload: %d 个 .aex + %d 个引擎 DLL" % (len(aex_src), len(ENGINE_DLLS)))
     print()
 
     if not os.path.isdir(CONT):
-        print("[ERROR] Continuum folder not found:")
-        print("        " + CONT)
-        print("        Is BorisFX Continuum 2026 (v19) installed?")
+        print("[错误] 找不到 Continuum 插件目录：")
+        print("       " + CONT)
+        print("       是否已安装 BorisFX Continuum 2026 (v19)？")
         return 2
     if not os.path.isdir(LIB):
-        print("[ERROR] Continuum engine folder not found:")
-        print("        " + LIB)
+        print("[错误] 找不到 Continuum 引擎目录：")
+        print("       " + LIB)
         return 2
 
     # --- 1) AE must be closed -------------------------------------------
     if aftereffects_running():
-        print("[ERROR] After Effects is running.")
-        print("        Quit After Effects COMPLETELY, then run this again.")
-        print("        (A running AE keeps the plugin files locked, which")
-        print("         makes the copy fail halfway.)")
+        print("[错误] After Effects 正在运行。")
+        print("       请先彻底退出 AE，再重新运行本程序。")
+        print("       (AE 运行时会锁住插件文件，导致复制中途失败。)")
         return 3
 
     # --- 2) backup ------------------------------------------------------
-    print("[1/3] backing up original English files ...")
+    print("[1/3] 备份英文原版文件 ...")
     os.makedirs(os.path.join(BAK, "aex"), exist_ok=True)
 
     n_bak = 0
@@ -244,14 +333,14 @@ def install():
         except Exception:
             pass
 
-    print("      %d file(s) backed up to" % n_bak)
+    print("      已备份 %d 个文件到 / backed up to" % n_bak)
     print("      " + BAK)
     print()
 
     # --- 3) install -----------------------------------------------------
     fail = 0
 
-    print("[2/3] installing %d Chinese effect names ..." % len(aex_src))
+    print("[2/3] 写入 %d 个中文效果名 ..." % len(aex_src))
     for name in aex_src:
         src = os.path.join(PATCH_ROOT, name)
         dst = os.path.join(CONT, name)
@@ -264,10 +353,10 @@ def install():
             fail += 1
             print("      FAIL %s  (%s)" % (name, e))
     if fail == 0:
-        print("      all %d OK" % len(aex_src))
+        print("      全部 %d 个 OK" % len(aex_src))
     print()
 
-    print("[3/3] installing Chinese parameter names ...")
+    print("[3/3] 写入中文参数名 ...")
     for name in ENGINE_DLLS + ["BCCPlus.dll"]:
         src = os.path.join(PATCH_ROOT, name)
         dst = os.path.join(LIB if name in ENGINE_DLLS else CONT, name)
@@ -283,7 +372,7 @@ def install():
 
     # --- 4) verify ------------------------------------------------------
     print()
-    print("verifying ...")
+    print("校验中 / verifying ...")
     bad = 0
     for name in aex_src:
         try:
@@ -303,15 +392,15 @@ def install():
     print()
     print("=" * 64)
     if fail == 0 and bad == 0:
-        print("  SUCCESS - everything installed and verified.")
-        print("  Start After Effects: effect names and parameter names")
-        print("  are now in Chinese.")
+        print("  成功 —— 全部文件已写入并校验通过。")
+        print("  启动 After Effects，效果名和参数名就是中文了。")
         print()
-        print("  To go back to English, run this exe with /restore")
-        print("  Backup: " + BAK)
+        print("  想改回英文：重新运行本 exe，选 [2] 恢复原版")
+        print("  (命令行也可用 /restore)")
+        print("  英文备份位于 / backup: " + BAK)
     else:
-        print("  copy failures: %d    verification failures: %d" % (fail, bad))
-        print("  Quit After Effects completely and run again.")
+        print("  复制失败 %d 个，校验失败 %d 个。" % (fail, bad))
+        print("  请彻底退出 After Effects 后重新运行。")
     print("=" * 64)
     return 0 if (fail == 0 and bad == 0) else 1
 
@@ -337,11 +426,20 @@ def payload_root(exe_dir):
     return exe_dir
 
 
+def parse_mode():
+    args = [a.lower() for a in sys.argv[1:]]
+    if "/restore" in args or "--restore" in args or "-restore" in args:
+        return "restore"
+    if "/install" in args or "--install" in args:
+        return "install"
+    return None
+
+
 def main():
     global PATCH_ROOT, MODE
 
-    if "/restore" in sys.argv:
-        MODE = "restore"
+    _relax_streams()
+    MODE = parse_mode()
 
     if not PATCH_ROOT:
         if getattr(sys, "frozen", False):
@@ -349,9 +447,24 @@ def main():
         else:
             PATCH_ROOT = os.path.dirname(os.path.abspath(__file__))
 
+    # Decide what to do. The menu only ever runs in the unelevated parent:
+    # - /quiet  -> headless, keep the historical "just install" behaviour
+    # - --elevated -> the choice was already made and passed down as an arg
+    if MODE is None:
+        if QUIET or ELEVATED:
+            MODE = "install"
+        else:
+            MODE = ask_mode()
+
+    if MODE == "quit":
+        print("  已取消，未做任何改动。")
+        print("  Cancelled - nothing was changed.")
+        return
+
     if not is_admin():
-        print("Requesting administrator rights ...")
-        print("Click \"Yes\" on the UAC dialog that just appeared.")
+        print("正在请求管理员权限 ...")
+        print("请在弹出的 UAC 对话框上点「是」。")
+        print("Requesting administrator rights, click \"Yes\" on the UAC dialog.")
         elevate()
         return
 

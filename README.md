@@ -54,6 +54,7 @@
 ├── Git说明.txt                   本仓库版本管理约定
 │
 ├── _work/                        ★ 工具链（脚本 + 数据）
+│   ├── installer_gui.py          ★ 出货安装器源码（菜单式 汉化/还原，PyInstaller --onefile）
 │   ├── *.py                      202 个脚本
 │   ├── *.json                    31 个数据文件（槽位表 / 译名表 / 写入日志）
 │   └── *.tsv                     5 个分桶表
@@ -168,6 +169,45 @@ MIB8gtac            ← 记录 tag（8 字节）
 
 > ⚠️ 脚本里的路径常量是按作者本机（`D:\Programming project\插件汉化`）写的，
 > 换机器需要先改 `WORK` / `PROJ` / `BK` 这几个常量。
+
+---
+
+## 安装器（r18）
+
+出货的 `Continuum汉化安装器.exe` 就是 `_work/installer_gui.py` 用 PyInstaller `--onefile` 打的，
+494 个汉化后的文件（6 个 DLL + 488 个 `.aex`）作为 `--add-data` 一起塞进 exe —— 所以它是**自包含**的，
+双击时不需要旁边有任何其他文件。
+
+双击（不带参数）会先弹菜单：
+
+```
+[1] 汉化        效果名 / 参数名换成中文
+[2] 恢复原版    从 Backup-English 把英文原件拷回去
+[0] 退出
+```
+
+也可以直接输入中文「汉化」或「回到原版」。命令行用法保持不变：
+`/install`（汉化）、`/restore`（还原）、`/quiet`（静默汉化、不弹菜单）。
+
+三个设计要点，都是踩过坑才定下来的：
+
+1. **菜单在提权之前问完。** UAC 提权会开一个新的控制台窗口；如果让提权后的子进程再去读键盘，
+   那个窗口里没人敲得到，会一直卡住。所以选择结果以 `/install` / `/restore` 参数传给子进程，
+   子进程只要看到 `--elevated` 就跳过菜单。
+2. **还原只依赖 `Backup-English`。** 那是**安装时在目标机上现场生成**的（写任何文件之前先备份），
+   不依赖任何随包分发的英文原件 —— 这就是"只留一个 exe 也能同时汉化和还原"的原因。
+3. **每个文件单独打印 OK / FAIL，复制完回读 sha256 校验。** 早先有一版吞掉了复制异常，
+   结果只装了一半却显示成功。
+
+打包命令（`<stage>` 里放 `installer_gui.py` + 那 494 个文件）：
+
+```
+PyInstaller --onefile --console --name Continuum汉化安装器 \
+    --add-data "<stage>;." installer_gui.py
+```
+
+> 注意：PyInstaller 对 `--add-data` 的条目做 zlib 压缩，所以**不能**靠"在 exe 原始字节里搜中文字面量"
+> 来验证打包内容；正确做法是用 `PyInstaller.archive.readers.CArchiveReader` 把条目解出来再比对哈希。
 
 ---
 

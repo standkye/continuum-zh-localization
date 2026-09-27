@@ -1,17 +1,23 @@
 ﻿Continuum 2026 (BCC) 汉化组件 v19.0.0
 =====================================
 
-【一键安装】
+【一键安装 / 一键还原】
   双击：  Continuum汉化安装器.exe
+  → 出现菜单，输入 1 = 汉化，输入 2 = 恢复原版，输入 0 = 退出
+    （也可以直接输入中文「汉化」或「回到原版」）
   → 弹 UAC 点「是」
   → 黑窗口会逐文件打印 OK / FAIL，末尾显示 SUCCESS 即完成
   → 打开 AE，效果名、分组（类型栏）和参数名都是中文
 
-  ⚠️ 安装前必须【彻底退出 After Effects】，否则文件被占用会装一半。
+  ⚠️ 安装或还原前必须【彻底退出 After Effects】，否则文件被占用会做一半。
+
+  第一次汉化时，安装器会先把英文原件备份到
+      C:\Program Files\BorisFX\ContinuumAE\19\Backup-English\
+  「恢复原版」就是从那里拷回去的，所以还原永远不会丢东西。
 
 【还原英文】
-  双击：  还原英文（双击这个）.bat
-  （等价于给安装器加 /restore 参数）
+  双击安装器 → 输入 2（或直接输「回到原版」）
+  （命令行等价写法：Continuum汉化安装器.exe /restore）
 
 【安装到哪了】
   C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\BorisFX\Continuum\

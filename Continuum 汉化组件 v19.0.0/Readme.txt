@@ -152,12 +152,26 @@ BACKFILL (new in this build, "hyg2")
 
 HOW TO INSTALL
   1. Quit After Effects completely
-  2. Double-click  Continuum汉化安装器.exe  and click "Yes" on the UAC dialog
+  2. Double-click  Continuum汉化安装器.exe
+     A menu appears:
+         [1] 汉化        patch to Chinese
+         [2] 恢复原版    restore the original English files
+         [0] 退出        quit
+     Type 1 and press Enter (typing "汉化" works too), then click "Yes"
+     on the UAC dialog.
   3. After SUCCESS, start After Effects
 
 HOW TO RESTORE
-  Run  还原英文（双击这个）.bat   (same as the installer with /restore)
+  Double-click the same exe and type 2 ("回到原版" also works).
+  Headless equivalent:  Continuum汉化安装器.exe /restore
   (backups live in C:\Program Files\BorisFX\ContinuumAE\19\Backup-English)
+
+COMMAND LINE
+  /install   patch, no menu            /restore   restore, no menu
+  /quiet     patch silently            (no argument = show the menu)
+
+  The choice is made before elevation and handed to the elevated process, so
+  picking 2 never leaves an invisible prompt waiting in a new console window.
 
 SAFETY
   - Every file is patched IN PLACE: file size, PE structure and all offsets
